@@ -6,7 +6,15 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 1. [`Linux-tools.pdf`](Linux-tools.pdf) - slides from the course,
 
-1. [`hands-on.pdf`](hands-on.pdf) - exercises (and hints) for the hands on sessions,
+1. [`20170601`](20170601) - file used during hands on sessions,
+
+1. [`ex1.fa`](ex1.fa) - file used during hands on sessions,
+
+1. [`lp_hpcinfo`](lp_hpcinfo) - file used during hands on sessions,
+
+1. [`lp_sys`](lp_sys) - file used during hands on sessions,
+
+1. [`tools.tar.gz`](tools.tar.gz) - collection of files and scripts used for the slides and exercises for the hands on sessions,
 
 1. README.md - info about content,
 
