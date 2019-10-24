@@ -1,0 +1,631 @@
+Object      Action Instance Account             User     Machine  Amount   Balance Time                
+----------- ------ -------- ------------------- -------- -------- -------- ------- ------------------- 
+UsageRecord Charge 20248307 lp_hpcinfo_training vsc31380 thinking    -0.01         2016-02-12 12:00:19 
+UsageRecord Charge 20248341 lp_hpcinfo_training vsc31380 thinking    -0.02         2016-02-12 12:47:26 
+UsageRecord Charge 20248359 lp_hpcinfo_training vsc31454 thinking    -0.01         2016-02-12 14:09:39 
+UsageRecord Charge 20248360 lp_hpcinfo_training vsc31352 thinking    -0.01         2016-02-12 14:09:50 
+UsageRecord Charge 20248362 lp_hpcinfo_training vsc31458 thinking    -0.01         2016-02-12 14:10:01 
+UsageRecord Charge 20248363 lp_hpcinfo_training vsc31409 thinking    -0.01         2016-02-12 14:11:14 
+UsageRecord Charge 20248364 lp_hpcinfo_training vsc31366 thinking    -0.01         2016-02-12 14:11:36 
+UsageRecord Charge 20248367 lp_hpcinfo_training vsc31459 thinking    -0.01         2016-02-12 14:13:23 
+UsageRecord Charge 20248369 lp_hpcinfo_training vsc31409 thinking    -0.02         2016-02-12 14:14:43 
+UsageRecord Charge 20248365 lp_hpcinfo_training vsc31454 thinking    -0.58         2016-02-12 14:18:51 
+UsageRecord Charge 20248377 lp_hpcinfo_training vsc31458 thinking    -0.02         2016-02-12 14:20:10 
+UsageRecord Charge 20248378 lp_hpcinfo_training vsc31458 thinking    -0.02         2016-02-12 14:21:09 
+UsageRecord Charge 20248393 lp_hpcinfo_training vsc31443 thinking    -0.03         2016-02-12 14:39:31 
+UsageRecord Charge 20248394 lp_hpcinfo_training vsc31337 thinking    -0.03         2016-02-12 14:39:31 
+UsageRecord Charge 20248398 lp_hpcinfo_training vsc31366 thinking    -0.58         2016-02-12 14:39:54 
+UsageRecord Charge 20248379 lp_hpcinfo_training vsc31458 thinking    -0.02         2016-02-12 14:40:50 
+UsageRecord Charge 20248389 lp_hpcinfo_training vsc31366 thinking    -0.01         2016-02-12 14:41:01 
+UsageRecord Charge 20248390 lp_hpcinfo_training vsc31352 thinking    -0.01         2016-02-12 14:41:12 
+UsageRecord Charge 20248403 lp_hpcinfo_training vsc31352 thinking    -0.55         2016-02-12 14:41:12 
+UsageRecord Charge 20248412 lp_hpcinfo_training vsc31409 thinking    -0.16         2016-02-12 14:41:12 
+UsageRecord Charge 20248414 lp_hpcinfo_training vsc31443 thinking    -0.07         2016-02-12 14:41:12 
+UsageRecord Charge 20248391 lp_hpcinfo_training vsc31459 thinking    -0.02         2016-02-12 14:41:24 
+UsageRecord Charge 20248408 lp_hpcinfo_training vsc31432 thinking    -0.02         2016-02-12 14:41:36 
+UsageRecord Charge 20248415 lp_hpcinfo_training vsc31432 thinking    -0.02         2016-02-12 14:41:36 
+UsageRecord Charge 20248404 lp_hpcinfo_training vsc31459 thinking    -0.58         2016-02-12 14:41:47 
+UsageRecord Charge 20248406 lp_hpcinfo_training vsc31458 thinking    -0.55         2016-02-12 14:41:47 
+UsageRecord Charge 20248413 lp_hpcinfo_training vsc31455 thinking    -0.01         2016-02-12 14:42:09 
+UsageRecord Charge 20248410 lp_hpcinfo_training vsc31424 thinking    -0.02         2016-02-12 14:42:33 
+UsageRecord Charge 20248421 lp_hpcinfo_training vsc31424 thinking    -0.02         2016-02-12 14:44:53 
+UsageRecord Charge 20248420 lp_hpcinfo_training vsc31352 thinking    -0.02         2016-02-12 14:45:49 
+UsageRecord Charge 20248424 lp_hpcinfo_training vsc31457 thinking    -0.02         2016-02-12 14:46:20 
+UsageRecord Charge 20248429 lp_hpcinfo_training vsc31337 thinking    -0.01         2016-02-12 14:48:15 
+UsageRecord Charge 20248426 lp_hpcinfo_training vsc31424 thinking    -0.02         2016-02-12 14:48:27 
+UsageRecord Charge 20248430 lp_hpcinfo_training vsc31285 thinking    -0.02         2016-02-12 14:48:27 
+UsageRecord Charge 20248437 lp_hpcinfo_training vsc31337 thinking    -0.01         2016-02-12 14:51:54 
+UsageRecord Charge 20248428 lp_hpcinfo_training vsc31352 thinking    -0.55         2016-02-12 14:54:40 
+UsageRecord Charge 20248432 lp_hpcinfo_training vsc31424 thinking    -0.59         2016-02-12 14:57:15 
+UsageRecord Charge 20248446 lp_hpcinfo_training vsc31432 thinking    -0.58         2016-02-12 15:00:33 
+UsageRecord Charge 20248451 lp_hpcinfo_training vsc31285 thinking    -0.04         2016-02-12 15:01:51 
+UsageRecord Charge 20248462 lp_hpcinfo_training vsc31422 thinking    -0.01         2016-02-12 15:13:50 
+UsageRecord Charge 20248455 lp_hpcinfo_training vsc31285 thinking    -0.56         2016-02-12 15:14:56 
+UsageRecord Charge 20248463 lp_hpcinfo_training vsc31457 thinking    -0.01         2016-02-12 15:15:07 
+UsageRecord Charge 20248465 lp_hpcinfo_training vsc31424 thinking    -0.01         2016-02-12 15:15:40 
+UsageRecord Charge 20248464 lp_hpcinfo_training vsc31337 thinking    -0.57         2016-02-12 15:22:25 
+UsageRecord Charge 20248487 lp_hpcinfo_training vsc31285 thinking    -0.01         2016-02-12 15:28:03 
+UsageRecord Charge 20248489 lp_hpcinfo_training vsc31422 thinking    -0.02         2016-02-12 15:28:28 
+UsageRecord Charge 20248493 lp_hpcinfo_training vsc31285 thinking    -0.02         2016-02-12 15:37:24 
+UsageRecord Charge 20248496 lp_hpcinfo_training vsc31285 thinking    -0.20         2016-02-12 15:49:55 
+UsageRecord Charge 20252407 lp_hpcinfo_training vsc30468 thinking    -0.04         2016-02-19 14:53:00 
+UsageRecord Charge 20252409 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 14:53:39 
+UsageRecord Charge 20252414 lp_hpcinfo_training vsc31438 thinking    -0.12         2016-02-19 14:55:46 
+UsageRecord Charge 20252418 lp_hpcinfo_training vsc31472 thinking    -0.01         2016-02-19 14:55:57 
+UsageRecord Charge 20252416 lp_hpcinfo_training vsc31402 thinking    -0.15         2016-02-19 14:56:08 
+UsageRecord Charge 20252403 lp_hpcinfo_training vsc31319 thinking    -0.02         2016-02-19 14:57:29 
+UsageRecord Charge 20252401 lp_hpcinfo_training vsc31402 thinking    -0.02         2016-02-19 14:57:29 
+UsageRecord Charge 20252413 lp_hpcinfo_training vsc31469 thinking    -0.02         2016-02-19 14:59:47 
+UsageRecord Charge 20252405 lp_hpcinfo_training vsc31469 thinking    -0.02         2016-02-19 14:59:47 
+UsageRecord Charge 20252417 lp_hpcinfo_training vsc30959 thinking    -0.02         2016-02-19 14:59:59 
+UsageRecord Charge 20252426 lp_hpcinfo_training vsc30959 thinking    -0.02         2016-02-19 14:59:59 
+UsageRecord Charge 20252411 lp_hpcinfo_training vsc31472 thinking    -0.02         2016-02-19 15:00:11 
+UsageRecord Charge 20252424 lp_hpcinfo_training vsc31203 thinking    -0.02         2016-02-19 15:00:22 
+UsageRecord Charge 20252428 lp_hpcinfo_training vsc31096 thinking    -0.02         2016-02-19 15:00:34 
+UsageRecord Charge 20252431 lp_hpcinfo_training vsc31096 thinking    -0.02         2016-02-19 15:00:34 
+UsageRecord Charge 20252432 lp_hpcinfo_training vsc31402 thinking    -0.02         2016-02-19 15:00:46 
+UsageRecord Charge 20252423 lp_hpcinfo_training vsc31404 thinking    -0.02         2016-02-19 15:00:46 
+UsageRecord Charge 20252433 lp_hpcinfo_training vsc31472 thinking    -0.02         2016-02-19 15:00:58 
+UsageRecord Charge 20252427 lp_hpcinfo_training vsc31469 thinking    -0.26         2016-02-19 15:00:58 
+UsageRecord Charge 20252434 lp_hpcinfo_training vsc31319 thinking    -0.02         2016-02-19 15:01:22 
+UsageRecord Charge 20252436 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 15:01:44 
+UsageRecord Charge 20252437 lp_hpcinfo_training vsc31319 thinking    -0.02         2016-02-19 15:02:19 
+UsageRecord Charge 20252446 lp_hpcinfo_training vsc31203 thinking    -0.02         2016-02-19 15:05:23 
+UsageRecord Charge 20252435 lp_hpcinfo_training vsc31404 thinking    -0.02         2016-02-19 15:05:23 
+UsageRecord Charge 20252439 lp_hpcinfo_training vsc31402 thinking    -0.02         2016-02-19 15:05:23 
+UsageRecord Charge 20252441 lp_hpcinfo_training vsc31472 thinking    -0.02         2016-02-19 15:05:23 
+UsageRecord Charge 20252440 lp_hpcinfo_training vsc31404 thinking    -0.37         2016-02-19 15:07:33 
+UsageRecord Charge 20252445 lp_hpcinfo_training vsc31402 thinking    -0.23         2016-02-19 15:07:55 
+UsageRecord Charge 20252438 lp_hpcinfo_training vsc31438 thinking    -0.49         2016-02-19 15:08:39 
+UsageRecord Charge 20252462 lp_hpcinfo_training vsc31096 thinking    -0.01         2016-02-19 15:10:55 
+UsageRecord Charge 20252450 lp_hpcinfo_training vsc31472 thinking    -0.55         2016-02-19 15:14:25 
+UsageRecord Charge 20252472 lp_hpcinfo_training vsc31471 thinking    -0.01         2016-02-19 15:14:36 
+UsageRecord Charge 20252451 lp_hpcinfo_training vsc30959 thinking    -0.57         2016-02-19 15:15:53 
+UsageRecord Charge 20252456 lp_hpcinfo_training vsc31402 thinking    -0.58         2016-02-19 15:18:05 
+UsageRecord Charge 20252466 lp_hpcinfo_training vsc31404 thinking    -0.02         2016-02-19 15:18:17 
+UsageRecord Charge 20252457 lp_hpcinfo_training vsc31203 thinking    -0.02         2016-02-19 15:18:17 
+UsageRecord Charge 20252475 lp_hpcinfo_training vsc31438 thinking    -0.02         2016-02-19 15:18:29 
+UsageRecord Charge 20252449 lp_hpcinfo_training vsc31319 thinking    -0.03         2016-02-19 15:18:29 
+UsageRecord Charge 20252463 lp_hpcinfo_training vsc31404 thinking    -0.02         2016-02-19 15:18:29 
+UsageRecord Charge 20252465 lp_hpcinfo_training vsc31096 thinking    -0.59         2016-02-19 15:18:40 
+UsageRecord Charge 20252476 lp_hpcinfo_training vsc31471 thinking    -0.01         2016-02-19 15:22:37 
+UsageRecord Charge 20252479 lp_hpcinfo_training vsc31471 thinking    -0.59         2016-02-19 15:37:00 
+UsageRecord Charge 20252492 lp_hpcinfo_training vsc31472 thinking    -0.01         2016-02-19 15:48:23 
+UsageRecord Charge 20252494 lp_hpcinfo_training vsc31203 thinking    -0.01         2016-02-19 15:49:01 
+UsageRecord Charge 20252495 lp_hpcinfo_training vsc31402 thinking    -0.02         2016-02-19 15:50:28 
+UsageRecord Charge 20252496 lp_hpcinfo_training vsc31096 thinking    -0.01         2016-02-19 15:51:11 
+UsageRecord Charge 20252497 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 15:51:33 
+UsageRecord Charge 20252498 lp_hpcinfo_training vsc30959 thinking    -0.01         2016-02-19 15:51:55 
+UsageRecord Charge 20252499 lp_hpcinfo_training vsc31402 thinking    -0.01         2016-02-19 15:52:17 
+UsageRecord Charge 20252500 lp_hpcinfo_training vsc31469 thinking    -0.01         2016-02-19 15:53:45 
+UsageRecord Charge 20252501 lp_hpcinfo_training vsc31472 thinking    -0.01         2016-02-19 15:53:56 
+UsageRecord Charge 20252502 lp_hpcinfo_training vsc31096 thinking    -0.01         2016-02-19 15:54:20 
+UsageRecord Charge 20252503 lp_hpcinfo_training vsc31404 thinking    -0.01         2016-02-19 15:54:31 
+UsageRecord Charge 20252504 lp_hpcinfo_training vsc31402 thinking    -0.02         2016-02-19 15:55:11 
+UsageRecord Charge 20252505 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 15:55:33 
+UsageRecord Charge 20252506 lp_hpcinfo_training vsc31472 thinking    -0.01         2016-02-19 15:55:33 
+UsageRecord Charge 20252507 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 15:56:04 
+UsageRecord Charge 20252508 lp_hpcinfo_training vsc31404 thinking    -0.01         2016-02-19 15:56:26 
+UsageRecord Charge 20252509 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 15:56:37 
+UsageRecord Charge 20252510 lp_hpcinfo_training vsc31203 thinking    -0.02         2016-02-19 15:57:21 
+UsageRecord Charge 20252511 lp_hpcinfo_training vsc31096 thinking    -0.01         2016-02-19 15:57:32 
+UsageRecord Charge 20252512 lp_hpcinfo_training vsc31404 thinking    -0.01         2016-02-19 15:57:43 
+UsageRecord Charge 20252513 lp_hpcinfo_training vsc31469 thinking    -0.01         2016-02-19 15:58:05 
+UsageRecord Charge 20252514 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 15:59:40 
+UsageRecord Charge 20252515 lp_hpcinfo_training vsc31203 thinking    -0.01         2016-02-19 16:01:03 
+UsageRecord Charge 20252516 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 16:03:41 
+UsageRecord Charge 20252518 lp_hpcinfo_training vsc31404 thinking    -0.01         2016-02-19 16:06:01 
+UsageRecord Charge 20252519 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 16:06:54 
+UsageRecord Charge 20252520 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 16:08:18 
+UsageRecord Charge 20252521 lp_hpcinfo_training vsc31319 thinking    -0.01         2016-02-19 16:09:11 
+UsageRecord Charge 20252522 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 16:09:22 
+UsageRecord Charge 20252523 lp_hpcinfo_training vsc31404 thinking    -0.02         2016-02-19 16:09:57 
+UsageRecord Charge 20252524 lp_hpcinfo_training vsc31404 thinking    -0.03         2016-02-19 16:12:05 
+UsageRecord Charge 20252525 lp_hpcinfo_training vsc31438 thinking    -0.01         2016-02-19 16:12:27 
+UsageRecord Charge 20252526 lp_hpcinfo_training vsc31319 thinking    -0.02         2016-02-19 16:15:37 
+UsageRecord Charge 20252528 lp_hpcinfo_training vsc31438 thinking    -0.02         2016-02-19 16:26:50 
+UsageRecord Charge 20257080 lp_hpcinfo_training vsc31443 thinking    -4.94         2016-02-28 21:21:07 
+UsageRecord Charge 20257094 lp_hpcinfo_training vsc31443 thinking    -4.83         2016-02-28 22:44:25 
+UsageRecord Charge 20257103 lp_hpcinfo_training vsc31443 thinking   -47.71         2016-02-29 10:04:28 
+UsageRecord Charge 20258061 lp_hpcinfo_training vsc31443 thinking    -4.94         2016-02-29 20:52:08 
+UsageRecord Charge 20258072 lp_hpcinfo_training vsc31443 thinking    -0.08         2016-03-02 20:47:51 
+UsageRecord Charge 20259854 lp_hpcinfo_training vsc31443 thinking    -0.06         2016-03-02 21:21:32 
+UsageRecord Charge 20259875 lp_hpcinfo_training vsc31443 thinking    -3.51         2016-03-02 22:31:13 
+UsageRecord Charge 20259902 lp_hpcinfo_training vsc31443 thinking  -114.28         2016-03-03 22:36:42 
+UsageRecord Charge 20261094 lp_hpcinfo_training vsc31443 thinking   -45.45         2016-03-04 23:07:20 
+UsageRecord Charge 20261920 lp_hpcinfo_training vsc31443 thinking   -15.80         2016-03-06 16:27:28 
+UsageRecord Charge 20262316 lp_hpcinfo_training vsc31443 thinking    -5.36         2016-03-06 20:14:26 
+UsageRecord Charge 20262318 lp_hpcinfo_training vsc31443 thinking    -1.18         2016-03-06 20:55:55 
+UsageRecord Charge 20262065 lp_hpcinfo_training vsc31443 thinking   -23.85         2016-03-06 20:58:30 
+UsageRecord Charge 20262321 lp_hpcinfo_training vsc31443 thinking   -20.14         2016-03-07 01:10:52 
+UsageRecord Charge 20262319 lp_hpcinfo_training vsc31443 thinking  -310.25         2016-03-07 10:42:26 
+UsageRecord Charge 20262788 lp_hpcinfo_training vsc31443 thinking   -14.34         2016-03-07 12:12:43 
+UsageRecord Charge 20263214 lp_hpcinfo_training vsc31443 thinking    -9.89         2016-03-07 15:12:24 
+UsageRecord Charge 20263396 lp_hpcinfo_training vsc31443 thinking    -4.32         2016-03-07 16:12:03 
+UsageRecord Charge 20263525 lp_hpcinfo_training vsc31443 thinking    -0.12         2016-03-07 16:15:02 
+UsageRecord Charge 20263589 lp_hpcinfo_training vsc31443 thinking    -0.12         2016-03-07 16:31:30 
+UsageRecord Charge 20263641 lp_hpcinfo_training vsc31443 thinking    -0.06         2016-03-07 16:43:28 
+UsageRecord Charge 20263680 lp_hpcinfo_training vsc31443 thinking    -0.09         2016-03-07 17:10:22 
+UsageRecord Charge 20263793 lp_hpcinfo_training vsc31443 thinking    -0.12         2016-03-07 18:09:56 
+UsageRecord Charge 20263848 lp_hpcinfo_training vsc31443 thinking    -3.29         2016-03-07 21:36:52 
+UsageRecord Charge 20263854 lp_hpcinfo_training vsc31443 thinking   -40.07         2016-03-07 22:53:11 
+UsageRecord Charge 20263864 lp_hpcinfo_training vsc31443 thinking   -70.27         2016-03-08 06:48:24 
+UsageRecord Charge 20264129 lp_hpcinfo_training vsc31443 thinking   -45.01         2016-03-08 20:49:23 
+UsageRecord Charge 20264726 lp_hpcinfo_training vsc31443 thinking    -0.01         2016-03-08 20:52:00 
+UsageRecord Charge 20264727 lp_hpcinfo_training vsc31443 thinking    -0.01         2016-03-08 20:53:55 
+UsageRecord Charge 20264148 lp_hpcinfo_training vsc31443 thinking  -101.97         2016-03-09 09:17:33 
+UsageRecord Charge 20264146 lp_hpcinfo_training vsc31443 thinking  -103.46         2016-03-09 09:32:58 
+UsageRecord Charge 20264147 lp_hpcinfo_training vsc31443 thinking  -103.46         2016-03-09 09:35:46 
+UsageRecord Charge 20264145 lp_hpcinfo_training vsc31443 thinking  -104.68         2016-03-09 09:43:12 
+UsageRecord Charge 20264732 lp_hpcinfo_training vsc31443 thinking   -63.61         2016-03-09 10:25:40 
+UsageRecord Charge 20264690 lp_hpcinfo_training vsc31443 thinking  -105.85         2016-03-09 16:49:49 
+UsageRecord Charge 20264688 lp_hpcinfo_training vsc31443 thinking  -107.06         2016-03-09 17:03:21 
+UsageRecord Charge 20264691 lp_hpcinfo_training vsc31443 thinking  -106.98         2016-03-09 17:06:04 
+UsageRecord Charge 20264637 lp_hpcinfo_training vsc31443 thinking  -114.35         2016-03-09 17:07:36 
+UsageRecord Charge 20265510 lp_hpcinfo_training vsc31443 thinking    -0.02         2016-03-09 17:18:57 
+UsageRecord Charge 20265512 lp_hpcinfo_training vsc31443 thinking    -0.18         2016-03-09 17:23:26 
+UsageRecord Charge 20265514 lp_hpcinfo_training vsc31443 thinking    -0.01         2016-03-09 17:26:51 
+UsageRecord Charge 20265515 lp_hpcinfo_training vsc31443 thinking   -17.70         2016-03-09 21:10:43 
+UsageRecord Charge 20265516 lp_hpcinfo_training vsc31443 thinking   -23.61         2016-03-09 22:27:52 
+UsageRecord Charge 20277331 lp_hpcinfo_training vsc31443 thinking   -40.94         2016-04-03 07:17:42 
+UsageRecord Charge 20277411 lp_hpcinfo_training vsc31443 thinking   -24.46         2016-04-03 17:18:14 
+UsageRecord Charge 20277466 lp_hpcinfo_training vsc31443 thinking    -0.01         2016-04-03 17:18:47 
+UsageRecord Charge 20277467 lp_hpcinfo_training vsc31443 thinking   -31.63         2016-04-03 22:04:31 
+UsageRecord Charge 20277930 lp_hpcinfo_training vsc31443 thinking    -1.76         2016-04-05 09:22:55 
+UsageRecord Charge 20278007 lp_hpcinfo_training vsc31443 thinking    -5.78         2016-04-05 12:08:18 
+UsageRecord Charge 20278411 lp_hpcinfo_training vsc31443 thinking    -8.23         2016-04-05 18:50:06 
+UsageRecord Charge 20283068 lp_hpcinfo_training vsc31366 thinking     0.00  105.37 2016-04-15 15:09:21 
+UsageRecord Charge 20283070 lp_hpcinfo_training vsc31366 thinking     0.00  105.37 2016-04-15 15:12:01 
+UsageRecord Charge 20283528 lp_hpcinfo_training vsc31443 thinking   -35.00   70.37 2016-04-18 14:02:52 
+UsageRecord Charge 20295887 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:17:07 
+UsageRecord Charge 20295890 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 14:17:39 
+UsageRecord Charge 20295891 lp_hpcinfo_training vsc31557 thinking     0.00 2000.37 2016-04-29 14:17:39 
+UsageRecord Charge 20295901 lp_hpcinfo_training vsc31557 thinking     0.00 2000.37 2016-04-29 14:24:05 
+UsageRecord Charge 20295916 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:26:28 
+UsageRecord Charge 20295925 lp_hpcinfo_training vsc31559 thinking     0.00 2000.37 2016-04-29 14:26:59 
+UsageRecord Charge 20295935 lp_hpcinfo_training vsc31559 thinking     0.00 2000.37 2016-04-29 14:27:59 
+UsageRecord Charge 20295941 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:29:35 
+UsageRecord Charge 20295942 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:30:07 
+UsageRecord Charge 20295943 lp_hpcinfo_training vsc31557 thinking     0.00 2000.37 2016-04-29 14:30:38 
+UsageRecord Charge 20295944 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 14:30:39 
+UsageRecord Charge 20295945 lp_hpcinfo_training vsc31558 thinking     0.00 2000.37 2016-04-29 14:30:39 
+UsageRecord Charge 20295946 lp_hpcinfo_training vsc31559 thinking     0.00 2000.37 2016-04-29 14:30:39 
+UsageRecord Charge 20295949 lp_hpcinfo_training vsc31558 thinking     0.00 2000.37 2016-04-29 14:32:42 
+UsageRecord Charge 20295950 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 14:36:49 
+UsageRecord Charge 20295952 lp_hpcinfo_training vsc31556 thinking     0.00 2000.37 2016-04-29 14:37:21 
+UsageRecord Charge 20295953 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:37:21 
+UsageRecord Charge 20295958 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 14:39:13 
+UsageRecord Charge 20295956 lp_hpcinfo_training vsc31559 thinking     0.00 2000.37 2016-04-29 14:41:03 
+UsageRecord Charge 20295963 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:42:27 
+UsageRecord Charge 20295965 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 14:45:29 
+UsageRecord Charge 20295966 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:45:58 
+UsageRecord Charge 20295969 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:48:38 
+UsageRecord Charge 20295970 lp_hpcinfo_training vsc31558 thinking     0.00 2000.37 2016-04-29 14:49:59 
+UsageRecord Charge 20295971 lp_hpcinfo_training vsc31551 thinking     0.00 2000.37 2016-04-29 14:50:28 
+UsageRecord Charge 20295972 lp_hpcinfo_training vsc31551 thinking     0.00 2000.37 2016-04-29 14:52:19 
+UsageRecord Charge 20295974 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:52:49 
+UsageRecord Charge 20295979 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 14:54:46 
+UsageRecord Charge 20295978 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:54:47 
+UsageRecord Charge 20295981 lp_hpcinfo_training vsc31547 thinking     0.00 2000.37 2016-04-29 14:56:08 
+UsageRecord Charge 20295983 lp_hpcinfo_training vsc31553 thinking     0.00 2000.37 2016-04-29 14:56:38 
+UsageRecord Charge 20295991 lp_hpcinfo_training vsc31558 thinking     0.00 2000.37 2016-04-29 14:59:20 
+UsageRecord Charge 20295992 lp_hpcinfo_training vsc31498 thinking     0.00 2000.37 2016-04-29 15:01:12 
+UsageRecord Charge 20295999 lp_hpcinfo_training vsc31141 thinking     0.00 2000.37 2016-04-29 15:02:37 
+UsageRecord Charge 20296081 lp_hpcinfo_training vsc31556 thinking     0.00 2000.37 2016-04-29 15:03:09 
+UsageRecord Charge 20296084 lp_hpcinfo_training vsc31556 thinking     0.00 2000.37 2016-04-29 15:04:12 
+UsageRecord Charge 20296000 lp_hpcinfo_training vsc30301 thinking     0.00 2000.37 2016-04-29 15:04:43 
+UsageRecord Charge 20295989 lp_hpcinfo_training vsc31547 thinking    -1.00 1999.37 2016-04-29 15:04:43 
+UsageRecord Charge 20296085 lp_hpcinfo_training vsc31554 thinking     0.00 1999.37 2016-04-29 15:04:43 
+UsageRecord Charge 20296086 lp_hpcinfo_training vsc31551 thinking     0.00 1999.37 2016-04-29 15:05:48 
+UsageRecord Charge 20296097 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:06:23 
+UsageRecord Charge 20295995 lp_hpcinfo_training vsc31557 thinking     0.00 1999.37 2016-04-29 15:06:59 
+UsageRecord Charge 20296100 lp_hpcinfo_training vsc31498 thinking     0.00 1999.37 2016-04-29 15:11:24 
+UsageRecord Charge 20296114 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:12:24 
+UsageRecord Charge 20296117 lp_hpcinfo_training vsc31558 thinking     0.00 1999.37 2016-04-29 15:14:39 
+UsageRecord Charge 20296119 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:16:00 
+UsageRecord Charge 20296120 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:16:00 
+UsageRecord Charge 20296121 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:17:00 
+UsageRecord Charge 20296122 lp_hpcinfo_training vsc31558 thinking     0.00 1999.37 2016-04-29 15:17:29 
+UsageRecord Charge 20296125 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:20:13 
+UsageRecord Charge 20296132 lp_hpcinfo_training vsc31558 thinking     0.00 1999.37 2016-04-29 15:23:13 
+UsageRecord Charge 20296217 lp_hpcinfo_training vsc31547 thinking     0.00 1999.37 2016-04-29 15:27:43 
+UsageRecord Charge 20296218 lp_hpcinfo_training vsc31558 thinking     0.00 1999.37 2016-04-29 15:27:43 
+UsageRecord Charge 20296220 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:28:14 
+UsageRecord Charge 20296221 lp_hpcinfo_training vsc31547 thinking     0.00 1999.37 2016-04-29 15:28:14 
+UsageRecord Charge 20296223 lp_hpcinfo_training vsc31547 thinking     0.00 1999.37 2016-04-29 15:30:06 
+UsageRecord Charge 20296224 lp_hpcinfo_training vsc31553 thinking     0.00 1999.37 2016-04-29 15:30:06 
+UsageRecord Charge 20296225 lp_hpcinfo_training vsc31554 thinking     0.00 1999.37 2016-04-29 15:30:06 
+UsageRecord Charge 20296239 lp_hpcinfo_training vsc31553 thinking    -1.00 1998.37 2016-04-29 15:52:40 
+UsageRecord Charge 20296226 lp_hpcinfo_training vsc31551 thinking    -4.00 1994.37 2016-04-29 16:22:19 
+UsageRecord Charge 20296418 lp_hpcinfo_training vsc30468 thinking     0.00 1994.37 2016-04-29 16:29:17 
+UsageRecord Charge 20296585 lp_hpcinfo_training vsc31141 thinking     0.00 1994.37 2016-04-29 19:02:11 
+UsageRecord Charge 20296586 lp_hpcinfo_training vsc31141 thinking     0.00 1994.37 2016-04-29 19:16:59 
+UsageRecord Charge 20297103 lp_hpcinfo_training vsc31558 thinking     0.00 1994.37 2016-05-01 21:30:48 
+UsageRecord Charge 20297106 lp_hpcinfo_training vsc31558 thinking     0.00 1994.37 2016-05-01 21:52:28 
+UsageRecord Charge 20297180 lp_hpcinfo_training vsc31558 thinking    -1.00 1993.37 2016-05-02 06:18:22 
+UsageRecord Charge 20297261 lp_hpcinfo_training vsc31141 thinking     0.00 1993.37 2016-05-02 10:18:49 
+UsageRecord Charge 20297294 lp_hpcinfo_training vsc31141 thinking     0.00 1993.37 2016-05-02 10:25:38 
+UsageRecord Charge 20297386 lp_hpcinfo_training vsc31141 thinking    -1.00 1992.37 2016-05-02 10:48:04 
+UsageRecord Charge 20297503 lp_hpcinfo_training vsc31141 thinking    -2.00 1990.37 2016-05-02 11:57:18 
+UsageRecord Charge 20297513 lp_hpcinfo_training vsc31141 thinking    -2.00 1988.37 2016-05-02 12:14:35 
+UsageRecord Charge 30017731 lp_hpcinfo_training vsc31141 cerebro     -2.00 1986.37 2016-05-02 13:14:02 
+UsageRecord Charge 30017732 lp_hpcinfo_training vsc31141 cerebro     -2.00 1984.37 2016-05-02 13:14:02 
+UsageRecord Charge 20297888 lp_hpcinfo_training vsc31141 thinking    -2.00 1982.37 2016-05-02 15:51:19 
+UsageRecord Charge 20298145 lp_hpcinfo_training vsc31141 thinking    -5.00 1977.37 2016-05-02 18:51:49 
+UsageRecord Charge 20298056 lp_hpcinfo_training vsc31558 thinking  -259.00 1718.37 2016-05-02 21:45:47 
+UsageRecord Charge 20298950 lp_hpcinfo_training vsc30301 thinking     0.00 1718.37 2016-05-03 16:32:04 
+UsageRecord Charge 20298932 lp_hpcinfo_training vsc30301 thinking     0.00 1718.37 2016-05-03 16:35:33 
+UsageRecord Charge 20298941 lp_hpcinfo_training vsc30301 thinking     0.00 1718.37 2016-05-03 16:35:33 
+UsageRecord Charge 20298951 lp_hpcinfo_training vsc30301 thinking     0.00 1718.37 2016-05-03 16:35:33 
+UsageRecord Charge 20298992 lp_hpcinfo_training vsc30301 thinking     0.00 1718.37 2016-05-03 17:02:47 
+UsageRecord Charge 20298998 lp_hpcinfo_training vsc30301 thinking   -10.00 1708.37 2016-05-03 19:04:04 
+UsageRecord Charge 20299187 lp_hpcinfo_training vsc30301 thinking    -7.00 1701.37 2016-05-04 01:11:07 
+UsageRecord Charge 20299209 lp_hpcinfo_training vsc30301 thinking    -7.00 1694.37 2016-05-04 09:51:21 
+UsageRecord Charge 20300111 lp_hpcinfo_training vsc31558 thinking -1282.00  412.37 2016-05-06 05:57:02 
+UsageRecord Charge 20300264 lp_hpcinfo_training vsc31558 thinking   -12.00  400.37 2016-05-06 10:32:19 
+UsageRecord Charge 20300619 lp_hpcinfo_training vsc31558 thinking    -8.00  392.37 2016-05-07 12:44:23 
+UsageRecord Charge 20303115 lp_hpcinfo_training vsc31558 thinking    -8.00  384.37 2016-05-12 08:18:06 
+UsageRecord Charge 20303181 lp_hpcinfo_training vsc31558 thinking    -3.00  381.37 2016-05-12 14:41:27 
+UsageRecord Charge 20306202 lp_hpcinfo_training vsc31558 thinking  -113.00  268.37 2016-05-19 08:22:19 
+UsageRecord Charge 20308184 lp_hpcinfo_training vsc31141 thinking     0.00  268.37 2016-05-20 11:56:32 
+UsageRecord Charge 20308221 lp_hpcinfo_training vsc31141 thinking     0.00  268.37 2016-05-20 12:05:28 
+UsageRecord Charge 20308234 lp_hpcinfo_training vsc31141 thinking     0.00  268.37 2016-05-20 12:31:28 
+UsageRecord Charge 20308236 lp_hpcinfo_training vsc31141 thinking     0.00  268.37 2016-05-20 12:39:08 
+UsageRecord Charge 20308239 lp_hpcinfo_training vsc31141 thinking     0.00  268.37 2016-05-20 12:54:24 
+UsageRecord Charge 20308252 lp_hpcinfo_training vsc31141 thinking    -1.00  267.37 2016-05-20 13:16:16 
+UsageRecord Charge 20308320 lp_hpcinfo_training vsc31141 thinking     0.00  267.37 2016-05-20 13:56:20 
+UsageRecord Charge 20308396 lp_hpcinfo_training vsc31141 thinking     0.00  267.37 2016-05-20 14:54:41 
+UsageRecord Charge 20308424 lp_hpcinfo_training vsc31141 thinking    -1.00  266.37 2016-05-20 15:43:37 
+UsageRecord Charge 20308437 lp_hpcinfo_training vsc31141 thinking    -2.00  264.37 2016-05-20 16:15:06 
+UsageRecord Charge 20308460 lp_hpcinfo_training vsc31141 thinking    -3.00  261.37 2016-05-20 16:47:43 
+UsageRecord Charge 20308571 lp_hpcinfo_training vsc31141 thinking    -6.00  255.37 2016-05-20 18:13:39 
+UsageRecord Charge 20308612 lp_hpcinfo_training vsc31141 thinking   -46.00  209.37 2016-05-20 20:56:25 
+UsageRecord Charge 20310694 lp_hpcinfo_training vsc31141 thinking   -45.00  164.37 2016-05-23 11:41:46 
+UsageRecord Charge 20310839 lp_hpcinfo_training vsc31141 thinking   -30.00  134.37 2016-05-23 14:47:49 
+UsageRecord Charge 20310897 lp_hpcinfo_training vsc31141 thinking   -30.00  104.37 2016-05-23 16:21:34 
+UsageRecord Charge 20311094 lp_hpcinfo_training vsc31141 thinking   -47.00   57.37 2016-05-23 19:32:39 
+UsageRecord Charge 20311876 lp_hpcinfo_training vsc31558 thinking   -17.00   40.37 2016-05-24 19:47:34 
+UsageRecord Charge 20311878 lp_hpcinfo_training vsc31558 thinking    -9.00   31.37 2016-05-24 19:59:18 
+UsageRecord Charge 20333610 lp_hpcinfo_training vsc31141 thinking     0.00   31.37 2016-07-12 14:49:34 
+UsageRecord Charge 20351586 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 10:50:53 
+UsageRecord Charge 20351609 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 11:19:25 
+UsageRecord Charge 20351614 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 11:21:37 
+UsageRecord Charge 20351626 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 11:42:54 
+UsageRecord Charge 20351748 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 14:18:20 
+UsageRecord Charge 20351761 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 14:44:24 
+UsageRecord Charge 20351764 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 14:57:29 
+UsageRecord Charge 20351792 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 15:12:23 
+UsageRecord Charge 20351796 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-05 15:16:14 
+UsageRecord Charge 20353553 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-09 15:50:33 
+UsageRecord Charge 20353715 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-09 18:33:02 
+UsageRecord Charge 20353718 lp_hpcinfo_training vsc31551 thinking     0.00   31.37 2016-08-09 18:46:10 
+UsageRecord Charge 20354111 lp_hpcinfo_training vsc31551 thinking    -1.00   30.37 2016-08-10 15:02:02 
+UsageRecord Charge 20354423 lp_hpcinfo_training vsc31551 thinking    -2.00   28.37 2016-08-10 18:46:28 
+UsageRecord Charge 20354433 lp_hpcinfo_training vsc31551 thinking    -2.00   26.37 2016-08-10 19:04:57 
+UsageRecord Charge 20354434 lp_hpcinfo_training vsc31551 thinking    -2.00   24.37 2016-08-10 19:20:03 
+UsageRecord Charge 20355030 lp_hpcinfo_training vsc31551 thinking    -2.00   22.37 2016-08-11 11:57:00 
+UsageRecord Charge 20355265 lp_hpcinfo_training vsc31551 thinking    -2.00   20.37 2016-08-11 16:24:24 
+UsageRecord Charge 20355523 lp_hpcinfo_training vsc31551 thinking    -3.00   17.37 2016-08-11 19:51:12 
+UsageRecord Charge 20358719 lp_hpcinfo_training vsc31551 thinking     0.00   17.37 2016-08-18 15:24:26 
+UsageRecord Charge 20369142 lp_hpcinfo_training vsc31498 thinking     0.00   17.37 2016-09-09 14:16:11 
+UsageRecord Charge 20379884 lp_hpcinfo_training vsc30468 thinking    -1.00 1016.37 2016-10-02 22:07:35 
+UsageRecord Charge 20380069 lp_hpcinfo_training vsc30931 thinking     0.00 2500.37 2016-10-03 11:22:52 
+UsageRecord Charge 20380074 lp_hpcinfo_training vsc30796 thinking     0.00 2500.37 2016-10-03 11:32:53 
+UsageRecord Charge 20380075 lp_hpcinfo_training vsc31684 thinking     0.00 2500.37 2016-10-03 11:35:52 
+UsageRecord Charge 20380076 lp_hpcinfo_training vsc31225 thinking     0.00 2500.37 2016-10-03 11:37:11 
+UsageRecord Charge 20380077 lp_hpcinfo_training vsc30931 thinking     0.00 2500.37 2016-10-03 11:39:19 
+UsageRecord Charge 20380079 lp_hpcinfo_training vsc31684 thinking     0.00 2500.37 2016-10-03 11:39:50 
+UsageRecord Charge 20380082 lp_hpcinfo_training vsc30796 thinking     0.00 2500.37 2016-10-03 11:40:20 
+UsageRecord Charge 20380083 lp_hpcinfo_training vsc30796 thinking     0.00 2500.37 2016-10-03 11:40:50 
+UsageRecord Charge 20380086 lp_hpcinfo_training vsc31410 thinking     0.00 2500.37 2016-10-03 11:42:47 
+UsageRecord Charge 20380091 lp_hpcinfo_training vsc31697 thinking     0.00 2500.37 2016-10-03 11:46:38 
+UsageRecord Charge 20380092 lp_hpcinfo_training vsc31694 thinking     0.00 2500.37 2016-10-03 11:46:38 
+UsageRecord Charge 20380093 lp_hpcinfo_training vsc31696 thinking     0.00 2500.37 2016-10-03 11:46:38 
+UsageRecord Charge 20380098 lp_hpcinfo_training vsc31684 thinking     0.00 2500.37 2016-10-03 11:46:38 
+UsageRecord Charge 20380111 lp_hpcinfo_training vsc30796 thinking     0.00 2500.37 2016-10-03 11:55:41 
+UsageRecord Charge 20380124 lp_hpcinfo_training vsc30796 thinking     0.00 2500.37 2016-10-03 12:05:40 
+UsageRecord Charge 20380127 lp_hpcinfo_training vsc30915 thinking     0.00 2500.37 2016-10-03 12:05:41 
+UsageRecord Charge 20380095 lp_hpcinfo_training vsc31225 thinking    -2.00 2498.37 2016-10-03 12:16:10 
+UsageRecord Charge 20380103 lp_hpcinfo_training vsc31684 thinking    -2.00 2496.37 2016-10-03 12:16:10 
+UsageRecord Charge 20380138 lp_hpcinfo_training vsc31696 thinking     0.00 2496.37 2016-10-03 12:18:13 
+UsageRecord Charge 20380141 lp_hpcinfo_training vsc31225 thinking     0.00 2496.37 2016-10-03 12:18:13 
+UsageRecord Charge 20380147 lp_hpcinfo_training vsc30796 thinking     0.00 2496.37 2016-10-03 12:18:13 
+UsageRecord Charge 20380142 lp_hpcinfo_training vsc31697 thinking     0.00 2496.37 2016-10-03 12:19:33 
+UsageRecord Charge 20380137 lp_hpcinfo_training vsc31691 thinking     0.00 2496.37 2016-10-03 12:20:48 
+UsageRecord Charge 20380157 lp_hpcinfo_training vsc31225 thinking     0.00 2496.37 2016-10-03 12:32:20 
+UsageRecord Charge 20380105 lp_hpcinfo_training vsc30931 thinking    -4.00 2492.37 2016-10-03 12:41:28 
+UsageRecord Charge 20380078 lp_hpcinfo_training vsc31688 thinking    -5.00 2487.37 2016-10-03 12:41:28 
+UsageRecord Charge 20380170 lp_hpcinfo_training vsc31225 thinking     0.00 2487.37 2016-10-03 12:48:50 
+UsageRecord Charge 20380172 lp_hpcinfo_training vsc31684 thinking    -1.00 2486.37 2016-10-03 12:56:14 
+UsageRecord Charge 20380116 lp_hpcinfo_training vsc31410 thinking    -5.00 2481.37 2016-10-03 12:58:57 
+UsageRecord Charge 20380122 lp_hpcinfo_training vsc31694 thinking    -5.00 2476.37 2016-10-03 13:05:37 
+UsageRecord Charge 20380156 lp_hpcinfo_training vsc31688 thinking     0.00 2476.37 2016-10-03 13:32:12 
+UsageRecord Charge 20380163 lp_hpcinfo_training vsc31225 thinking    -5.00 2471.37 2016-10-03 13:45:20 
+UsageRecord Charge 20380265 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 14:30:31 
+UsageRecord Charge 20380286 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 14:40:17 
+UsageRecord Charge 20380385 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 15:54:35 
+UsageRecord Charge 20380387 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 15:56:23 
+UsageRecord Charge 20380388 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 15:59:39 
+UsageRecord Charge 20380405 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 16:05:34 
+UsageRecord Charge 20380412 lp_hpcinfo_training vsc31691 thinking     0.00 2471.37 2016-10-03 16:15:09 
+UsageRecord Charge 20386458 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 10:40:29 
+UsageRecord Charge 20386470 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 10:45:58 
+UsageRecord Charge 20386487 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 11:31:02 
+UsageRecord Charge 20386614 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:37:34 
+UsageRecord Charge 20386616 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:41:03 
+UsageRecord Charge 20386621 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:45:51 
+UsageRecord Charge 20386625 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:51:30 
+UsageRecord Charge 20386627 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:54:19 
+UsageRecord Charge 20386628 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:56:29 
+UsageRecord Charge 20386631 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 12:58:19 
+UsageRecord Charge 20386633 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 13:02:36 
+UsageRecord Charge 20386634 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 13:05:25 
+UsageRecord Charge 20386635 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 13:07:35 
+UsageRecord Charge 20386637 lp_hpcinfo_training vsc31684 thinking     0.00 2471.37 2016-10-11 13:12:24 
+UsageRecord Charge 20386733 lp_hpcinfo_training vsc31721 thinking     0.00 2471.37 2016-10-11 14:09:31 
+UsageRecord Charge 20386735 lp_hpcinfo_training vsc31722 thinking     0.00 2471.37 2016-10-11 14:12:11 
+UsageRecord Charge 20386739 lp_hpcinfo_training vsc30996 thinking     0.00 2471.37 2016-10-11 14:14:01 
+UsageRecord Charge 20386736 lp_hpcinfo_training vsc31717 thinking     0.00 2471.37 2016-10-11 14:14:01 
+UsageRecord Charge 20386742 lp_hpcinfo_training vsc31725 thinking     0.00 2471.37 2016-10-11 14:14:02 
+UsageRecord Charge 20386738 lp_hpcinfo_training vsc31721 thinking     0.00 2471.37 2016-10-11 14:15:00 
+UsageRecord Charge 20386746 lp_hpcinfo_training vsc31717 thinking     0.00 2471.37 2016-10-11 14:16:50 
+UsageRecord Charge 20386747 lp_hpcinfo_training vsc31722 thinking     0.00 2471.37 2016-10-11 14:16:50 
+UsageRecord Charge 20386732 lp_hpcinfo_training vsc31626 thinking    -1.00 2470.37 2016-10-11 14:20:30 
+UsageRecord Charge 20386754 lp_hpcinfo_training vsc31729 thinking     0.00 2470.37 2016-10-11 14:21:21 
+UsageRecord Charge 20386757 lp_hpcinfo_training vsc31546 thinking     0.00 2470.37 2016-10-11 14:21:21 
+UsageRecord Charge 20386753 lp_hpcinfo_training vsc31722 thinking     0.00 2470.37 2016-10-11 14:22:19 
+UsageRecord Charge 20386752 lp_hpcinfo_training vsc31721 thinking    -1.00 2469.37 2016-10-11 14:25:02 
+UsageRecord Charge 20386761 lp_hpcinfo_training vsc31717 thinking     0.00 2469.37 2016-10-11 14:25:02 
+UsageRecord Charge 20386763 lp_hpcinfo_training vsc30996 thinking     0.00 2469.37 2016-10-11 14:26:02 
+UsageRecord Charge 20386764 lp_hpcinfo_training vsc31725 thinking     0.00 2469.37 2016-10-11 14:26:02 
+UsageRecord Charge 20386770 lp_hpcinfo_training vsc31726 thinking     0.00 2469.37 2016-10-11 14:27:52 
+UsageRecord Charge 20386771 lp_hpcinfo_training vsc31725 thinking     0.00 2469.37 2016-10-11 14:27:53 
+UsageRecord Charge 20386773 lp_hpcinfo_training vsc31725 thinking     0.00 2469.37 2016-10-11 14:28:45 
+UsageRecord Charge 20386776 lp_hpcinfo_training vsc31546 thinking     0.00 2469.37 2016-10-11 14:28:45 
+UsageRecord Charge 20386777 lp_hpcinfo_training vsc31721 thinking     0.00 2469.37 2016-10-11 14:28:45 
+UsageRecord Charge 20386760 lp_hpcinfo_training vsc31722 thinking    -1.00 2468.37 2016-10-11 14:30:34 
+UsageRecord Charge 20386779 lp_hpcinfo_training vsc31729 thinking     0.00 2468.37 2016-10-11 14:30:35 
+UsageRecord Charge 20386783 lp_hpcinfo_training vsc31721 thinking     0.00 2468.37 2016-10-11 14:31:34 
+UsageRecord Charge 20386782 lp_hpcinfo_training vsc31732 thinking     0.00 2468.37 2016-10-11 14:31:45 
+UsageRecord Charge 20386772 lp_hpcinfo_training vsc30996 thinking    -1.00 2467.37 2016-10-11 14:34:45 
+UsageRecord Charge 20386789 lp_hpcinfo_training vsc31729 thinking     0.00 2467.37 2016-10-11 14:34:45 
+UsageRecord Charge 20386774 lp_hpcinfo_training vsc31626 thinking    -1.00 2466.37 2016-10-11 14:35:43 
+UsageRecord Charge 20386797 lp_hpcinfo_training vsc31546 thinking     0.00 2466.37 2016-10-11 14:37:27 
+UsageRecord Charge 20386800 lp_hpcinfo_training vsc31586 thinking     0.00 2466.37 2016-10-11 14:38:26 
+UsageRecord Charge 20386802 lp_hpcinfo_training vsc31726 thinking     0.00 2466.37 2016-10-11 14:40:08 
+UsageRecord Charge 20386807 lp_hpcinfo_training vsc31546 thinking     0.00 2466.37 2016-10-11 14:42:41 
+UsageRecord Charge 20386823 lp_hpcinfo_training vsc31725 thinking     0.00 2466.37 2016-10-11 14:42:42 
+UsageRecord Charge 20386799 lp_hpcinfo_training vsc31626 thinking    -1.00 2465.37 2016-10-11 14:44:31 
+UsageRecord Charge 20386805 lp_hpcinfo_training vsc31717 thinking     0.00 2465.37 2016-10-11 14:44:31 
+UsageRecord Charge 20386837 lp_hpcinfo_training vsc31729 thinking     0.00 2465.37 2016-10-11 14:46:23 
+UsageRecord Charge 20386846 lp_hpcinfo_training vsc31725 thinking     0.00 2465.37 2016-10-11 14:47:15 
+UsageRecord Charge 20386847 lp_hpcinfo_training vsc31626 thinking     0.00 2465.37 2016-10-11 14:47:16 
+UsageRecord Charge 20386850 lp_hpcinfo_training vsc31586 thinking     0.00 2465.37 2016-10-11 14:48:06 
+UsageRecord Charge 20386845 lp_hpcinfo_training vsc31732 thinking     0.00 2465.37 2016-10-11 14:48:06 
+UsageRecord Charge 20386853 lp_hpcinfo_training vsc31723 thinking     0.00 2465.37 2016-10-11 14:48:57 
+UsageRecord Charge 20386852 lp_hpcinfo_training vsc31732 thinking     0.00 2465.37 2016-10-11 14:49:48 
+UsageRecord Charge 20386848 lp_hpcinfo_training vsc31546 thinking    -1.00 2464.37 2016-10-11 14:54:05 
+UsageRecord Charge 20386860 lp_hpcinfo_training vsc31586 thinking     0.00 2464.37 2016-10-11 14:54:05 
+UsageRecord Charge 20386839 lp_hpcinfo_training vsc31726 thinking    -1.00 2463.37 2016-10-11 14:55:04 
+UsageRecord Charge 20386857 lp_hpcinfo_training vsc31626 thinking     0.00 2463.37 2016-10-11 14:55:05 
+UsageRecord Charge 20386863 lp_hpcinfo_training vsc31586 thinking     0.00 2463.37 2016-10-11 14:56:01 
+UsageRecord Charge 20386861 lp_hpcinfo_training vsc31723 thinking     0.00 2463.37 2016-10-11 14:56:57 
+UsageRecord Charge 20386866 lp_hpcinfo_training vsc31734 thinking     0.00 2463.37 2016-10-11 14:56:57 
+UsageRecord Charge 20386858 lp_hpcinfo_training vsc31725 thinking    -1.00 2462.37 2016-10-11 14:58:39 
+UsageRecord Charge 20386870 lp_hpcinfo_training vsc31723 thinking     0.00 2462.37 2016-10-11 14:59:38 
+UsageRecord Charge 20386864 lp_hpcinfo_training vsc31732 thinking    -1.00 2461.37 2016-10-11 15:01:20 
+UsageRecord Charge 20386874 lp_hpcinfo_training vsc31734 thinking     0.00 2461.37 2016-10-11 15:02:20 
+UsageRecord Charge 20386875 lp_hpcinfo_training vsc31626 thinking     0.00 2461.37 2016-10-11 15:02:20 
+UsageRecord Charge 20386869 lp_hpcinfo_training vsc31586 thinking    -1.00 2460.37 2016-10-11 15:04:21 
+UsageRecord Charge 20386867 lp_hpcinfo_training vsc31626 thinking     0.00 2460.37 2016-10-11 15:06:17 
+UsageRecord Charge 20386873 lp_hpcinfo_training vsc31726 thinking    -1.00 2459.37 2016-10-11 15:07:59 
+UsageRecord Charge 20386881 lp_hpcinfo_training vsc31626 thinking     0.00 2459.37 2016-10-11 15:12:29 
+UsageRecord Charge 20387036 lp_hpcinfo_training vsc31723 thinking     0.00 2459.37 2016-10-11 15:14:12 
+UsageRecord Charge 20387040 lp_hpcinfo_training vsc31601 thinking     0.00 2459.37 2016-10-11 15:17:00 
+UsageRecord Charge 20387038 lp_hpcinfo_training vsc31723 thinking     0.00 2459.37 2016-10-11 15:17:00 
+UsageRecord Charge 20387041 lp_hpcinfo_training vsc31723 thinking    -1.00 2458.37 2016-10-11 15:25:54 
+UsageRecord Charge 20387047 lp_hpcinfo_training vsc31684 thinking     0.00 2458.37 2016-10-11 15:26:46 
+UsageRecord Charge 20387050 lp_hpcinfo_training vsc31727 thinking     0.00 2458.37 2016-10-11 15:27:46 
+UsageRecord Charge 20387046 lp_hpcinfo_training vsc31601 thinking     0.00 2458.37 2016-10-11 15:29:27 
+UsageRecord Charge 20387054 lp_hpcinfo_training vsc31684 thinking     0.00 2458.37 2016-10-11 15:36:32 
+UsageRecord Charge 20387062 lp_hpcinfo_training vsc31684 thinking     0.00 2458.37 2016-10-11 15:45:29 
+UsageRecord Charge 20387063 lp_hpcinfo_training vsc31684 thinking     0.00 2458.37 2016-10-11 15:49:01 
+UsageRecord Charge 20387071 lp_hpcinfo_training vsc31726 thinking     0.00 2458.37 2016-10-11 15:49:01 
+UsageRecord Charge 20387073 lp_hpcinfo_training vsc31722 thinking     0.00 2458.37 2016-10-11 15:50:00 
+UsageRecord Charge 20387072 lp_hpcinfo_training vsc31717 thinking     0.00 2458.37 2016-10-11 15:50:00 
+UsageRecord Charge 20387074 lp_hpcinfo_training vsc31729 thinking     0.00 2458.37 2016-10-11 15:50:52 
+UsageRecord Charge 20387075 lp_hpcinfo_training vsc31586 thinking     0.00 2458.37 2016-10-11 15:50:53 
+UsageRecord Charge 20387076 lp_hpcinfo_training vsc31717 thinking     0.00 2458.37 2016-10-11 15:51:44 
+UsageRecord Charge 20387077 lp_hpcinfo_training vsc31725 thinking     0.00 2458.37 2016-10-11 15:51:45 
+UsageRecord Charge 20387081 lp_hpcinfo_training vsc31725 thinking     0.00 2458.37 2016-10-11 15:51:45 
+UsageRecord Charge 20387079 lp_hpcinfo_training vsc31717 thinking     0.00 2458.37 2016-10-11 15:52:44 
+UsageRecord Charge 20387078 lp_hpcinfo_training vsc30996 thinking     0.00 2458.37 2016-10-11 15:52:44 
+UsageRecord Charge 20387080 lp_hpcinfo_training vsc31725 thinking     0.00 2458.37 2016-10-11 15:52:45 
+UsageRecord Charge 20387082 lp_hpcinfo_training vsc31729 thinking     0.00 2458.37 2016-10-11 15:53:38 
+UsageRecord Charge 20387083 lp_hpcinfo_training vsc31586 thinking     0.00 2458.37 2016-10-11 15:53:38 
+UsageRecord Charge 20387084 lp_hpcinfo_training vsc31726 thinking     0.00 2458.37 2016-10-11 15:53:39 
+UsageRecord Charge 20387085 lp_hpcinfo_training vsc31586 thinking     0.00 2458.37 2016-10-11 15:53:39 
+UsageRecord Charge 20387089 lp_hpcinfo_training vsc30996 thinking     0.00 2458.37 2016-10-11 15:53:39 
+UsageRecord Charge 20387088 lp_hpcinfo_training vsc31546 thinking     0.00 2458.37 2016-10-11 15:53:39 
+UsageRecord Charge 20387090 lp_hpcinfo_training vsc31652 thinking     0.00 2458.37 2016-10-11 15:53:40 
+UsageRecord Charge 20387086 lp_hpcinfo_training vsc31722 thinking     0.00 2458.37 2016-10-11 15:54:30 
+UsageRecord Charge 20387091 lp_hpcinfo_training vsc31726 thinking     0.00 2458.37 2016-10-11 15:54:30 
+UsageRecord Charge 20387092 lp_hpcinfo_training vsc31732 thinking     0.00 2458.37 2016-10-11 15:55:28 
+UsageRecord Charge 20387097 lp_hpcinfo_training vsc31729 thinking     0.00 2458.37 2016-10-11 15:56:20 
+UsageRecord Charge 20387094 lp_hpcinfo_training vsc31722 thinking     0.00 2458.37 2016-10-11 15:56:20 
+UsageRecord Charge 20387098 lp_hpcinfo_training vsc31717 thinking     0.00 2458.37 2016-10-11 15:56:21 
+UsageRecord Charge 20387093 lp_hpcinfo_training vsc31652 thinking     0.00 2458.37 2016-10-11 15:57:12 
+UsageRecord Charge 20387099 lp_hpcinfo_training vsc31732 thinking     0.00 2458.37 2016-10-11 15:57:12 
+UsageRecord Charge 20387102 lp_hpcinfo_training vsc31723 thinking     0.00 2458.37 2016-10-11 15:58:11 
+UsageRecord Charge 20387103 lp_hpcinfo_training vsc31732 thinking     0.00 2458.37 2016-10-11 16:01:12 
+UsageRecord Charge 20387100 lp_hpcinfo_training vsc31652 thinking    -1.00 2457.37 2016-10-11 16:03:02 
+UsageRecord Charge 20387105 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:03:03 
+UsageRecord Charge 20387107 lp_hpcinfo_training vsc31723 thinking     0.00 2457.37 2016-10-11 16:05:37 
+UsageRecord Charge 20387108 lp_hpcinfo_training vsc31601 thinking     0.00 2457.37 2016-10-11 16:05:38 
+UsageRecord Charge 20387109 lp_hpcinfo_training vsc31717 thinking     0.00 2457.37 2016-10-11 16:06:28 
+UsageRecord Charge 20387112 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:09:29 
+UsageRecord Charge 20387113 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:10:20 
+UsageRecord Charge 20387115 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:12:22 
+UsageRecord Charge 20387116 lp_hpcinfo_training vsc31723 thinking     0.00 2457.37 2016-10-11 16:13:13 
+UsageRecord Charge 20387118 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:18:28 
+UsageRecord Charge 20387121 lp_hpcinfo_training vsc31723 thinking     0.00 2457.37 2016-10-11 16:22:54 
+UsageRecord Charge 20387122 lp_hpcinfo_training vsc31723 thinking     0.00 2457.37 2016-10-11 16:23:46 
+UsageRecord Charge 20387123 lp_hpcinfo_training vsc31652 thinking     0.00 2457.37 2016-10-11 16:25:28 
+UsageRecord Charge 20387124 lp_hpcinfo_training vsc31723 thinking     0.00 2457.37 2016-10-11 16:30:34 
+UsageRecord Charge 20387174 lp_hpcinfo_training vsc31684 thinking     0.00 2457.37 2016-10-11 21:11:03 
+UsageRecord Charge 20387462 lp_hpcinfo_training vsc31684 thinking    -5.00 2452.37 2016-10-12 09:54:33 
+UsageRecord Charge 20387510 lp_hpcinfo_training vsc31722 thinking     0.00 2452.37 2016-10-12 10:41:30 
+UsageRecord Charge 20387522 lp_hpcinfo_training vsc31652 thinking     0.00 2452.37 2016-10-12 11:03:28 
+UsageRecord Charge 20387540 lp_hpcinfo_training vsc31652 thinking     0.00 2452.37 2016-10-12 11:29:30 
+UsageRecord Charge 20387499 lp_hpcinfo_training vsc31684 thinking    -5.00 2447.37 2016-10-12 11:33:13 
+UsageRecord Charge 20387543 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:34:05 
+UsageRecord Charge 20387552 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:40:08 
+UsageRecord Charge 20387558 lp_hpcinfo_training vsc31684 thinking     0.00 2447.37 2016-10-12 11:46:24 
+UsageRecord Charge 20387560 lp_hpcinfo_training vsc31684 thinking     0.00 2447.37 2016-10-12 11:48:06 
+UsageRecord Charge 20387561 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:48:57 
+UsageRecord Charge 20387566 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:49:56 
+UsageRecord Charge 20387572 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:53:41 
+UsageRecord Charge 20387576 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 11:59:46 
+UsageRecord Charge 20387582 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 12:02:47 
+UsageRecord Charge 20387585 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 12:05:20 
+UsageRecord Charge 20387587 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 12:11:25 
+UsageRecord Charge 20387588 lp_hpcinfo_training vsc31652 thinking     0.00 2447.37 2016-10-12 12:17:37 
+UsageRecord Charge 20387567 lp_hpcinfo_training vsc31684 thinking    -4.00 2443.37 2016-10-12 12:40:30 
+UsageRecord Charge 20387614 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 12:47:15 
+UsageRecord Charge 20387675 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 13:43:57 
+UsageRecord Charge 20387681 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 13:49:43 
+UsageRecord Charge 20387683 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 13:56:17 
+UsageRecord Charge 20387687 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 13:59:10 
+UsageRecord Charge 20387696 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:08:38 
+UsageRecord Charge 20387709 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:17:14 
+UsageRecord Charge 20387713 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:19:17 
+UsageRecord Charge 20387717 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:23:31 
+UsageRecord Charge 20387720 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:27:15 
+UsageRecord Charge 20387727 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:31:07 
+UsageRecord Charge 20387733 lp_hpcinfo_training vsc31652 thinking     0.00 2443.37 2016-10-12 14:38:04 
+UsageRecord Charge 20388346 lp_hpcinfo_training vsc30996 thinking     0.00 2443.37 2016-10-12 21:02:16 
+UsageRecord Charge 20388482 lp_hpcinfo_training vsc31684 thinking   -24.00 2419.37 2016-10-13 14:51:54 
+UsageRecord Charge 20389035 lp_hpcinfo_training vsc31684 thinking   -22.00 2397.37 2016-10-13 20:10:34 
+UsageRecord Charge 20390469 lp_hpcinfo_training vsc31684 thinking    -5.00 2392.37 2016-10-14 15:34:41 
+UsageRecord Charge 20392952 lp_hpcinfo_training vsc31663 thinking     0.00 2392.37 2016-10-18 11:17:03 
+UsageRecord Charge 20393190 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-18 12:34:24 
+UsageRecord Charge 20393192 lp_hpcinfo_training vsc31717 thinking     0.00 2392.37 2016-10-18 12:52:46 
+UsageRecord Charge 20393196 lp_hpcinfo_training vsc31717 thinking     0.00 2392.37 2016-10-18 12:52:46 
+UsageRecord Charge 20393205 lp_hpcinfo_training vsc31663 thinking     0.00 2392.37 2016-10-18 12:53:39 
+UsageRecord Charge 20393203 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-18 12:53:39 
+UsageRecord Charge 20393208 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-18 12:56:14 
+UsageRecord Charge 20393191 lp_hpcinfo_training vsc31573 thinking     0.00 2392.37 2016-10-18 12:57:56 
+UsageRecord Charge 20393776 lp_hpcinfo_training vsc31225 thinking     0.00 2392.37 2016-10-18 21:14:41 
+UsageRecord Charge 20393777 lp_hpcinfo_training vsc31225 thinking     0.00 2392.37 2016-10-18 21:28:34 
+UsageRecord Charge 20393772 lp_hpcinfo_training vsc31225 thinking     0.00 2392.37 2016-10-18 21:50:14 
+UsageRecord Charge 20394727 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 12:13:50 
+UsageRecord Charge 20394730 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 12:18:05 
+UsageRecord Charge 20394737 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 12:29:05 
+UsageRecord Charge 20394740 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 12:33:30 
+UsageRecord Charge 20394759 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 13:30:00 
+UsageRecord Charge 20394991 lp_hpcinfo_training vsc31652 thinking     0.00 2392.37 2016-10-20 14:52:33 
+UsageRecord Charge 20396453 lp_hpcinfo_training vsc31684 thinking   -12.00 2380.37 2016-10-21 14:49:47 
+UsageRecord Charge 20396855 lp_hpcinfo_training vsc31717 thinking    -1.00 2379.37 2016-10-21 15:23:36 
+UsageRecord Charge 20397300 lp_hpcinfo_training vsc31684 thinking   -18.00 2361.37 2016-10-22 00:24:06 
+UsageRecord Charge 20401093 lp_hpcinfo_training vsc31717 thinking    -1.00 2360.37 2016-10-24 12:22:47 
+UsageRecord Charge 20401105 lp_hpcinfo_training vsc31717 thinking    -1.00 2359.37 2016-10-24 12:29:56 
+UsageRecord Charge 20401119 lp_hpcinfo_training vsc31717 thinking    -1.00 2358.37 2016-10-24 12:37:53 
+UsageRecord Charge 20401170 lp_hpcinfo_training vsc31717 thinking    -1.00 2357.37 2016-10-24 13:35:56 
+UsageRecord Charge 20401173 lp_hpcinfo_training vsc31717 thinking    -1.00 2356.37 2016-10-24 13:42:41 
+UsageRecord Charge 20401201 lp_hpcinfo_training vsc31717 thinking    -1.00 2355.37 2016-10-24 14:04:34 
+UsageRecord Charge 20401215 lp_hpcinfo_training vsc31684 thinking     0.00 2355.37 2016-10-24 14:11:54 
+UsageRecord Charge 20401220 lp_hpcinfo_training vsc31717 thinking    -1.00 2354.37 2016-10-24 14:14:48 
+UsageRecord Charge 20401322 lp_hpcinfo_training vsc31717 thinking    -1.00 2353.37 2016-10-24 14:48:37 
+UsageRecord Charge 20401326 lp_hpcinfo_training vsc31717 thinking    -1.00 2352.37 2016-10-24 14:51:17 
+UsageRecord Charge 20401237 lp_hpcinfo_training vsc31684 thinking   -15.00 2337.37 2016-10-24 17:28:19 
+UsageRecord Charge 20401426 lp_hpcinfo_training vsc31717 thinking  -187.00 2150.37 2016-10-24 17:42:51 
+UsageRecord Charge 20402612 lp_hpcinfo_training vsc31684 thinking    -4.00 2146.37 2016-10-25 12:55:09 
+UsageRecord Charge 20403249 lp_hpcinfo_training vsc31684 thinking     0.00 2146.37 2016-10-25 17:38:47 
+UsageRecord Charge 20403335 lp_hpcinfo_training vsc31684 thinking     0.00 2146.37 2016-10-25 17:45:08 
+UsageRecord Charge 20403346 lp_hpcinfo_training vsc31684 thinking     0.00 2146.37 2016-10-25 17:48:51 
+UsageRecord Charge 20403358 lp_hpcinfo_training vsc31684 thinking   -63.00 2083.37 2016-10-26 07:00:32 
+UsageRecord Charge 20403619 lp_hpcinfo_training vsc31684 thinking    -4.00 2079.37 2016-10-26 10:57:10 
+UsageRecord Charge 20403683 lp_hpcinfo_training vsc31717 thinking  -124.00 1955.37 2016-10-26 13:45:37 
+UsageRecord Charge 20404070 lp_hpcinfo_training vsc31751 thinking     0.00 1955.37 2016-10-26 17:45:58 
+UsageRecord Charge 20404072 lp_hpcinfo_training vsc31757 thinking     0.00 1955.37 2016-10-26 17:45:59 
+UsageRecord Charge 20404073 lp_hpcinfo_training vsc31738 thinking     0.00 1955.37 2016-10-26 17:45:59 
+UsageRecord Charge 20404075 lp_hpcinfo_training vsc31759 thinking     0.00 1955.37 2016-10-26 17:46:57 
+UsageRecord Charge 20404076 lp_hpcinfo_training vsc31748 thinking     0.00 1955.37 2016-10-26 17:47:50 
+UsageRecord Charge 20404077 lp_hpcinfo_training vsc31738 thinking     0.00 1955.37 2016-10-26 17:47:50 
+UsageRecord Charge 20404078 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 17:47:51 
+UsageRecord Charge 20404079 lp_hpcinfo_training vsc31759 thinking     0.00 1955.37 2016-10-26 17:47:51 
+UsageRecord Charge 20404080 lp_hpcinfo_training vsc31752 thinking     0.00 1955.37 2016-10-26 17:48:42 
+UsageRecord Charge 20404081 lp_hpcinfo_training vsc31755 thinking     0.00 1955.37 2016-10-26 17:48:42 
+UsageRecord Charge 20404082 lp_hpcinfo_training vsc31738 thinking     0.00 1955.37 2016-10-26 17:49:34 
+UsageRecord Charge 20404071 lp_hpcinfo_training vsc31760 thinking     0.00 1955.37 2016-10-26 17:50:27 
+UsageRecord Charge 20404083 lp_hpcinfo_training vsc31757 thinking     0.00 1955.37 2016-10-26 17:50:28 
+UsageRecord Charge 20404084 lp_hpcinfo_training vsc31752 thinking     0.00 1955.37 2016-10-26 17:50:28 
+UsageRecord Charge 20404085 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 17:50:28 
+UsageRecord Charge 20404086 lp_hpcinfo_training vsc31751 thinking     0.00 1955.37 2016-10-26 17:50:28 
+UsageRecord Charge 20404087 lp_hpcinfo_training vsc31748 thinking     0.00 1955.37 2016-10-26 17:50:28 
+UsageRecord Charge 20404088 lp_hpcinfo_training vsc31749 thinking     0.00 1955.37 2016-10-26 17:51:19 
+UsageRecord Charge 20404090 lp_hpcinfo_training vsc31748 thinking     0.00 1955.37 2016-10-26 17:51:20 
+UsageRecord Charge 20404093 lp_hpcinfo_training vsc31762 thinking     0.00 1955.37 2016-10-26 17:53:03 
+UsageRecord Charge 20404094 lp_hpcinfo_training vsc31754 thinking     0.00 1955.37 2016-10-26 17:53:04 
+UsageRecord Charge 20404096 lp_hpcinfo_training vsc31753 thinking     0.00 1955.37 2016-10-26 17:54:03 
+UsageRecord Charge 20404095 lp_hpcinfo_training vsc31751 thinking     0.00 1955.37 2016-10-26 17:54:03 
+UsageRecord Charge 20404099 lp_hpcinfo_training vsc31738 thinking     0.00 1955.37 2016-10-26 17:58:48 
+UsageRecord Charge 20404100 lp_hpcinfo_training vsc31768 thinking     0.00 1955.37 2016-10-26 17:58:49 
+UsageRecord Charge 20404103 lp_hpcinfo_training vsc31769 thinking     0.00 1955.37 2016-10-26 18:01:22 
+UsageRecord Charge 20404102 lp_hpcinfo_training vsc31755 thinking     0.00 1955.37 2016-10-26 18:01:23 
+UsageRecord Charge 20404104 lp_hpcinfo_training vsc31769 thinking     0.00 1955.37 2016-10-26 18:01:23 
+UsageRecord Charge 20404105 lp_hpcinfo_training vsc31756 thinking     0.00 1955.37 2016-10-26 18:02:22 
+UsageRecord Charge 20404108 lp_hpcinfo_training vsc31767 thinking     0.00 1955.37 2016-10-26 18:02:23 
+UsageRecord Charge 20404109 lp_hpcinfo_training vsc31757 thinking     0.00 1955.37 2016-10-26 18:03:13 
+UsageRecord Charge 20404097 lp_hpcinfo_training vsc31748 thinking     0.00 1955.37 2016-10-26 18:03:13 
+UsageRecord Charge 20404112 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 18:04:05 
+UsageRecord Charge 20404111 lp_hpcinfo_training vsc31753 thinking     0.00 1955.37 2016-10-26 18:04:05 
+UsageRecord Charge 20404113 lp_hpcinfo_training vsc31738 thinking     0.00 1955.37 2016-10-26 18:05:06 
+UsageRecord Charge 20404114 lp_hpcinfo_training vsc31698 thinking     0.00 1955.37 2016-10-26 18:05:06 
+UsageRecord Charge 20404115 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 18:05:56 
+UsageRecord Charge 20404116 lp_hpcinfo_training vsc31756 thinking     0.00 1955.37 2016-10-26 18:06:48 
+UsageRecord Charge 20404117 lp_hpcinfo_training vsc31760 thinking     0.00 1955.37 2016-10-26 18:06:48 
+UsageRecord Charge 20404118 lp_hpcinfo_training vsc31749 thinking     0.00 1955.37 2016-10-26 18:06:49 
+UsageRecord Charge 20404119 lp_hpcinfo_training vsc31698 thinking     0.00 1955.37 2016-10-26 18:07:41 
+UsageRecord Charge 20404120 lp_hpcinfo_training vsc31762 thinking     0.00 1955.37 2016-10-26 18:07:42 
+UsageRecord Charge 20404121 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 18:07:42 
+UsageRecord Charge 20404122 lp_hpcinfo_training vsc31753 thinking     0.00 1955.37 2016-10-26 18:08:32 
+UsageRecord Charge 20404110 lp_hpcinfo_training vsc31751 thinking     0.00 1955.37 2016-10-26 18:08:33 
+UsageRecord Charge 20404123 lp_hpcinfo_training vsc31748 thinking     0.00 1955.37 2016-10-26 18:08:33 
+UsageRecord Charge 20404128 lp_hpcinfo_training vsc31757 thinking     0.00 1955.37 2016-10-26 18:10:17 
+UsageRecord Charge 20404127 lp_hpcinfo_training vsc31752 thinking     0.00 1955.37 2016-10-26 18:10:17 
+UsageRecord Charge 20404131 lp_hpcinfo_training vsc31759 thinking     0.00 1955.37 2016-10-26 18:10:18 
+UsageRecord Charge 20404133 lp_hpcinfo_training vsc31752 thinking     0.00 1955.37 2016-10-26 18:11:09 
+UsageRecord Charge 20404132 lp_hpcinfo_training vsc31751 thinking     0.00 1955.37 2016-10-26 18:11:09 
+UsageRecord Charge 20404135 lp_hpcinfo_training vsc31741 thinking     0.00 1955.37 2016-10-26 18:12:51 
+UsageRecord Charge 20404138 lp_hpcinfo_training vsc31752 thinking     0.00 1955.37 2016-10-26 18:14:41 
+UsageRecord Charge 20404130 lp_hpcinfo_training vsc31749 thinking     0.00 1955.37 2016-10-26 18:15:32 
+UsageRecord Charge 20404129 lp_hpcinfo_training vsc31755 thinking    -1.00 1954.37 2016-10-26 18:16:23 
+UsageRecord Charge 20404134 lp_hpcinfo_training vsc31748 thinking     0.00 1954.37 2016-10-26 18:17:14 
+UsageRecord Charge 20404126 lp_hpcinfo_training vsc31756 thinking    -1.00 1953.37 2016-10-26 18:19:47 
+UsageRecord Charge 20404144 lp_hpcinfo_training vsc31768 thinking     0.00 1953.37 2016-10-26 18:23:41 
+UsageRecord Charge 20404146 lp_hpcinfo_training vsc31750 thinking     0.00 1953.37 2016-10-26 18:28:38 
+UsageRecord Charge 20403743 lp_hpcinfo_training vsc31684 thinking   -67.00 1886.37 2016-10-27 01:39:51 
+UsageRecord Charge 20404360 lp_hpcinfo_training vsc31717 thinking  -279.00 1607.37 2016-10-27 15:49:02 
+UsageRecord Charge 20405009 lp_hpcinfo_training vsc31754 thinking     0.00 1607.37 2016-10-27 17:32:32 
+UsageRecord Charge 20404909 lp_hpcinfo_training vsc31717 thinking  -957.00  650.37 2016-10-28 12:24:07 
+UsageRecord Charge 20406034 lp_hpcinfo_training vsc31684 thinking    -5.00  645.37 2016-10-28 17:45:28 
+UsageRecord Charge 20406083 lp_hpcinfo_training vsc31684 thinking   -20.00  625.37 2016-10-28 22:07:02 
+UsageRecord Charge 20411077 lp_hpcinfo_training vsc31688 thinking     0.00  625.37 2016-11-02 22:07:35 
+UsageRecord Charge 20411328 lp_hpcinfo_training vsc31688 thinking     0.00  625.37 2016-11-03 16:00:25 
+UsageRecord Charge 20411578 lp_hpcinfo_training vsc31533 thinking     0.00  625.37 2016-11-08 16:02:34 
+UsageRecord Charge 20411579 lp_hpcinfo_training vsc31533 thinking     0.00  625.37 2016-11-08 16:02:34 
+UsageRecord Charge 20411514 lp_hpcinfo_training vsc31684 thinking    -2.00  623.37 2016-11-08 16:25:53 
+UsageRecord Charge 20417857 lp_hpcinfo_training vsc31652 thinking     0.00  623.37 2016-11-24 11:31:06 
+UsageRecord Charge 20417879 lp_hpcinfo_training vsc31652 thinking     0.00  623.37 2016-11-24 12:04:40 
+UsageRecord Charge 20417887 lp_hpcinfo_training vsc31652 thinking     0.00  623.37 2016-11-24 12:17:46 
+UsageRecord Charge 20429499 lp_hpcinfo_training vsc31798 thinking    -1.00 1999.37 2016-12-14 14:20:25 
+UsageRecord Charge 20429502 lp_hpcinfo_training vsc31798 thinking    -1.00 1998.37 2016-12-14 14:27:47 
+UsageRecord Charge 20429509 lp_hpcinfo_training vsc31798 thinking    -8.00 1990.37 2016-12-14 16:05:48 
+UsageRecord Charge 20429868 lp_hpcinfo_training vsc31798 thinking    -2.00 1988.37 2016-12-15 10:14:36 
+UsageRecord Charge 20429884 lp_hpcinfo_training vsc31798 thinking   -19.00 1969.37 2016-12-15 14:14:37 
+UsageRecord Charge 20430046 lp_hpcinfo_training vsc31798 thinking    -2.00 1967.37 2016-12-15 14:55:19 
+UsageRecord Charge 20430027 lp_hpcinfo_training vsc31798 thinking  -114.00 1853.37 2016-12-16 15:32:46 
+
+############################### End of Report ##################################
+

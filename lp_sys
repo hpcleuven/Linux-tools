@@ -1,0 +1,1478 @@
+################################################################################
+#
+# Includes fund 894 (lp_sys)
+# Generated on Fri Nov  3 16:30:54 2017.
+# Reporting fund activity from 2016-01-01 to 2017-12-31.
+#
+################################################################################
+
+Beginning Balance:              6183.23
+------------------ --------------------
+Total Credits:                140000.00
+Total Debits:                 -84206.25
+------------------ --------------------
+Ending Balance:                61976.98
+
+Warning: A discrepancy of                    0 credits was detected
+between the logged transactions and the historical fund balances.
+
+############################### Credit Detail ##################################
+
+Object Action  Instance Amount    Balance   Time                
+------ ------- -------- --------- --------- ------------------- 
+Fund   Deposit           10000.00  10000.00 2016-11-28 13:31:45 
+Fund   Deposit           30000.00  30000.00 2017-02-23 17:12:20 
+Fund   Deposit          100000.00 100000.00 2017-07-31 10:21:42 
+
+############################### Debit Detail ###################################
+
+Object      Action Instance     Account User     Machine  Amount    Balance  Time                
+----------- ------ ------------ ------- -------- -------- --------- -------- ------------------- 
+UsageRecord Charge 30015247     lp_sys  vsc30706 cerebro      -0.59          2016-01-07 16:29:02 
+UsageRecord Charge 30015248     lp_sys  vsc30706 cerebro      -0.75          2016-01-07 17:01:34 
+UsageRecord Charge 30015250     lp_sys  vsc30706 cerebro      -3.15          2016-01-07 17:53:14 
+UsageRecord Charge 30015249     lp_sys  vsc30706 cerebro     -17.06          2016-01-07 18:17:57 
+UsageRecord Charge 30015310     lp_sys  vsc30706 cerebro      -0.06          2016-01-12 15:29:03 
+UsageRecord Charge 30015311     lp_sys  vsc30706 cerebro      -0.35          2016-01-12 15:33:07 
+UsageRecord Charge 30015313     lp_sys  vsc30706 cerebro      -0.05          2016-01-12 15:36:00 
+UsageRecord Charge 30015312     lp_sys  vsc30706 cerebro      -0.08          2016-01-12 15:36:31 
+UsageRecord Charge 30015315     lp_sys  vsc30706 cerebro      -0.08          2016-01-12 15:40:56 
+UsageRecord Charge 30015317     lp_sys  vsc30706 cerebro      -0.03          2016-01-12 16:02:54 
+UsageRecord Charge 30015318     lp_sys  vsc30706 cerebro      -2.66          2016-01-12 17:00:01 
+UsageRecord Charge 30015319     lp_sys  vsc30706 cerebro      -0.06          2016-01-12 17:18:02 
+UsageRecord Charge 30015320     lp_sys  vsc30706 cerebro      -0.07          2016-01-12 17:22:26 
+UsageRecord Charge 30015321     lp_sys  vsc30706 cerebro      -0.06          2016-01-12 17:24:12 
+UsageRecord Charge 30015322     lp_sys  vsc30706 cerebro      -0.06          2016-01-12 17:26:17 
+UsageRecord Charge 30015514     lp_sys  vsc30706 cerebro      -0.06          2016-01-15 16:34:44 
+UsageRecord Charge 30015515     lp_sys  vsc30706 cerebro      -1.33          2016-01-15 16:58:17 
+UsageRecord Charge 30015516     lp_sys  vsc30706 cerebro      -0.78          2016-01-15 17:13:57 
+UsageRecord Charge 30015517     lp_sys  vsc30706 cerebro      -0.78          2016-01-15 17:29:35 
+UsageRecord Charge 30015526     lp_sys  vsc30706 cerebro     -82.91          2016-01-16 17:25:12 
+UsageRecord Charge 30015538     lp_sys  vsc30706 cerebro      -0.42          2016-01-18 15:20:59 
+UsageRecord Charge 30015539     lp_sys  vsc30706 cerebro      -0.68          2016-01-18 15:33:56 
+UsageRecord Charge 30015541     lp_sys  vsc30706 cerebro      -4.95          2016-01-18 17:01:14 
+UsageRecord Charge 30015536     lp_sys  vsc30706 cerebro    -165.92          2016-01-19 09:55:13 
+UsageRecord Charge 30015543     lp_sys  vsc30706 cerebro      -1.32          2016-01-19 10:45:08 
+UsageRecord Charge 30015542     lp_sys  vsc30706 cerebro      -2.70          2016-01-19 10:45:08 
+UsageRecord Charge 30015537     lp_sys  vsc30706 cerebro    -165.93          2016-01-19 11:55:00 
+UsageRecord Charge 30015540     lp_sys  vsc30706 cerebro    -165.88          2016-01-19 15:25:29 
+UsageRecord Charge 20245783     lp_sys  vsc20003 thinking     -0.72          2016-02-04 16:17:35 
+UsageRecord Charge 20247930     lp_sys  vsc30468 thinking     -0.01          2016-02-11 16:54:24 
+UsageRecord Charge 20254114     lp_sys  vsc30706 thinking     -0.01          2016-02-23 14:51:05 
+UsageRecord Charge 20254118     lp_sys  vsc30706 thinking     -2.70          2016-02-23 15:25:19 
+UsageRecord Charge 20254213     lp_sys  vsc30706 thinking     -0.01          2016-02-23 20:48:18 
+UsageRecord Charge 20257258     lp_sys  vsc30706 thinking     -0.07          2016-02-29 11:10:32 
+UsageRecord Charge 20257262     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:14:27 
+UsageRecord Charge 20257266     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:17:18 
+UsageRecord Charge 20257268     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:18:11 
+UsageRecord Charge 20257271     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:20:18 
+UsageRecord Charge 20257277     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:23:29 
+UsageRecord Charge 20257278     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:25:06 
+UsageRecord Charge 20257280     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:26:41 
+UsageRecord Charge 20257284     lp_sys  vsc30706 thinking     -0.01          2016-02-29 11:38:56 
+UsageRecord Charge 20257287     lp_sys  vsc30706 thinking     -0.07          2016-02-29 12:09:52 
+UsageRecord Charge 20257582     lp_sys  vsc30706 thinking     -0.07          2016-02-29 16:09:28 
+UsageRecord Charge 20257854     lp_sys  vsc30706 thinking     -0.07          2016-02-29 17:29:46 
+UsageRecord Charge 20258121     lp_sys  u0051749 thinking     -4.35          2016-03-01 01:18:28 
+UsageRecord Charge 20258124     lp_sys  u0051749 thinking     -4.32          2016-03-01 01:18:39 
+UsageRecord Charge 20258030     lp_sys  vsc30706 thinking   -300.36          2016-03-01 09:23:57 
+UsageRecord Charge 20257285     lp_sys  vsc30706 thinking    -62.35          2016-03-01 09:27:34 
+UsageRecord Charge 20258326     lp_sys  vsc30706 thinking     -0.02          2016-03-01 09:33:57 
+UsageRecord Charge 20258328     lp_sys  vsc30706 thinking    -69.18          2016-03-02 09:46:04 
+UsageRecord Charge 20259354     lp_sys  vsc30706 thinking    -15.58          2016-03-02 17:24:22 
+UsageRecord Charge 30016230     lp_sys  u0051749 cerebro      -1.97          2016-03-02 17:30:49 
+UsageRecord Charge 20260373     lp_sys  u0051749 thinking     -4.61          2016-03-03 11:46:31 
+UsageRecord Charge 20261108     lp_sys  vsc30706 thinking    -15.96          2016-03-04 15:21:15 
+UsageRecord Charge 20258327     lp_sys  vsc30706 thinking  -1821.26          2016-03-04 15:21:27 
+UsageRecord Charge 20261482     lp_sys  vsc30706 thinking     -1.72          2016-03-04 18:03:19 
+UsageRecord Charge 20264571     lp_sys  vsc30468 thinking     -0.01          2016-03-08 15:46:25 
+UsageRecord Charge 20264572     lp_sys  vsc30468 thinking     -0.01          2016-03-08 15:47:42 
+UsageRecord Charge 20264579     lp_sys  vsc30468 thinking     -0.01          2016-03-08 15:52:40 
+UsageRecord Charge 20264975     lp_sys  vsc30706 thinking     -0.04          2016-03-09 12:36:15 
+UsageRecord Charge 20264977     lp_sys  vsc30706 thinking     -0.04          2016-03-09 12:37:41 
+UsageRecord Charge 20265783     lp_sys  vsc30706 thinking     -3.36          2016-03-10 10:36:15 
+UsageRecord Charge 20266150     lp_sys  vsc30706 thinking     -2.66          2016-03-10 15:59:32 
+UsageRecord Charge 20271426     lp_sys  vsc30706 thinking     -0.02          2016-03-21 16:50:42 
+UsageRecord Charge 20271428     lp_sys  vsc30706 thinking     -0.02          2016-03-21 16:52:28 
+UsageRecord Charge 20271430     lp_sys  vsc30706 thinking     -0.75          2016-03-21 17:02:13 
+UsageRecord Charge 20271455     lp_sys  vsc30706 thinking     -0.59          2016-03-21 17:26:41 
+UsageRecord Charge 20271456     lp_sys  vsc30706 thinking     -0.59          2016-03-21 17:26:52 
+UsageRecord Charge 20271454     lp_sys  vsc30706 thinking     -0.61          2016-03-21 17:27:03 
+UsageRecord Charge 20271457     lp_sys  vsc30706 thinking     -0.60          2016-03-21 17:39:10 
+UsageRecord Charge 20271458     lp_sys  vsc30706 thinking     -0.60          2016-03-21 17:39:21 
+UsageRecord Charge 20271466     lp_sys  vsc30706 thinking     -0.88          2016-03-21 17:45:31 
+UsageRecord Charge 20271474     lp_sys  vsc30706 thinking     -2.58          2016-03-21 18:16:09 
+UsageRecord Charge 20271501     lp_sys  vsc30706 thinking    -25.14          2016-03-21 22:59:07 
+UsageRecord Charge 20271738     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:40 
+UsageRecord Charge 20271739     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:40 
+UsageRecord Charge 20271741     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:41 
+UsageRecord Charge 20271740     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:41 
+UsageRecord Charge 20271742     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:41 
+UsageRecord Charge 20271743     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:37:41 
+UsageRecord Charge 20271749     lp_sys  vsc30706 thinking     -0.02          2016-03-22 14:42:05 
+UsageRecord Charge 20271768     lp_sys  vsc30706 thinking     -0.12          2016-03-22 14:58:38 
+UsageRecord Charge 20271761     lp_sys  vsc30706 thinking     -1.44          2016-03-22 15:18:57 
+UsageRecord Charge 20271769     lp_sys  vsc30706 thinking    -19.46          2016-03-22 18:26:19 
+UsageRecord Charge 20271771     lp_sys  vsc30706 thinking    -20.31          2016-03-22 18:36:11 
+UsageRecord Charge 20272588     lp_sys  vsc30706 thinking     -2.29          2016-03-23 15:45:34 
+UsageRecord Charge 20272613     lp_sys  vsc30706 thinking     -0.20          2016-03-23 15:53:07 
+UsageRecord Charge 20272630     lp_sys  vsc30706 thinking     -0.35          2016-03-23 16:09:09 
+UsageRecord Charge 20272633     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272638     lp_sys  vsc30706 thinking     -0.11          2016-03-23 16:09:20 
+UsageRecord Charge 20272626     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272627     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272628     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272631     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272632     lp_sys  vsc30706 thinking     -0.36          2016-03-23 16:09:20 
+UsageRecord Charge 20272640     lp_sys  vsc30706 thinking     -0.10          2016-03-23 16:09:21 
+UsageRecord Charge 20272639     lp_sys  vsc30706 thinking     -0.10          2016-03-23 16:09:21 
+UsageRecord Charge 20272643     lp_sys  vsc30706 thinking     -0.10          2016-03-23 16:09:21 
+UsageRecord Charge 20272641     lp_sys  vsc30706 thinking     -0.10          2016-03-23 16:09:21 
+UsageRecord Charge 20272629     lp_sys  vsc30706 thinking     -0.37          2016-03-23 16:09:32 
+UsageRecord Charge 20272644     lp_sys  vsc30706 thinking     -0.11          2016-03-23 16:09:32 
+UsageRecord Charge 20272651     lp_sys  vsc30706 thinking     -1.06          2016-03-23 16:38:08 
+UsageRecord Charge 20272652     lp_sys  vsc30706 thinking     -1.06          2016-03-23 16:38:08 
+UsageRecord Charge 20272655     lp_sys  vsc30706 thinking     -1.06          2016-03-23 16:38:08 
+UsageRecord Charge 20272647     lp_sys  vsc30706 thinking     -1.10          2016-03-23 16:38:20 
+UsageRecord Charge 20272648     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272649     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272650     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272654     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272656     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272657     lp_sys  vsc30706 thinking     -1.07          2016-03-23 16:38:20 
+UsageRecord Charge 20272658     lp_sys  vsc30706 thinking     -1.08          2016-03-23 16:38:32 
+UsageRecord Charge 20272659     lp_sys  vsc30706 thinking     -1.08          2016-03-23 16:38:32 
+UsageRecord Charge 20272660     lp_sys  vsc30706 thinking     -1.08          2016-03-23 16:38:32 
+UsageRecord Charge 20272653     lp_sys  vsc30706 thinking     -1.09          2016-03-23 16:38:43 
+UsageRecord Charge 20273065     lp_sys  vsc30706 thinking    -11.78          2016-03-24 11:09:14 
+UsageRecord Charge 20273131     lp_sys  vsc30706 thinking     -0.03          2016-03-24 11:35:19 
+UsageRecord Charge 20273139     lp_sys  vsc30706 thinking     -0.04          2016-03-24 11:41:46 
+UsageRecord Charge 20273144     lp_sys  vsc30706 thinking     -0.90          2016-03-24 12:00:50 
+UsageRecord Charge 20273227     lp_sys  vsc30706 thinking     -3.81          2016-03-24 14:43:43 
+UsageRecord Charge 20273256     lp_sys  vsc30706 thinking     -0.12          2016-03-24 15:05:19 
+UsageRecord Charge 20273258     lp_sys  vsc30706 thinking     -1.96          2016-03-24 15:11:09 
+UsageRecord Charge 20273330     lp_sys  vsc30706 thinking     -4.61          2016-03-24 17:34:17 
+UsageRecord Charge 20273597     lp_sys  vsc30706 thinking     -0.03          2016-03-26 06:43:26 
+UsageRecord Charge 20273605     lp_sys  vsc30706 thinking     -4.66          2016-03-26 07:08:12 
+UsageRecord Charge 20280847     lp_sys  u0051749 thinking      0.00  3132.75 2016-04-11 13:02:36 
+UsageRecord Charge 20281264     lp_sys  vsc30706 thinking      0.00  3132.75 2016-04-12 11:01:11 
+UsageRecord Charge 20281272     lp_sys  vsc30706 thinking      0.00  3132.75 2016-04-12 11:02:33 
+UsageRecord Charge 20281273     lp_sys  vsc30706 thinking     -7.00  3125.75 2016-04-12 12:04:34 
+UsageRecord Charge 20281315     lp_sys  vsc30706 thinking      0.00  3125.75 2016-04-12 12:46:11 
+UsageRecord Charge 20282329     lp_sys  vsc30468 thinking      0.00  3125.75 2016-04-14 11:29:38 
+UsageRecord Charge 20285572     lp_sys  vsc30468 thinking      0.00  3125.75 2016-04-20 11:11:27 
+UsageRecord Charge 20285573     lp_sys  vsc30468 thinking      0.00  3125.75 2016-04-20 11:12:48 
+UsageRecord Charge 20292714     lp_sys  vsc30468 thinking      0.00  3125.75 2016-04-27 10:07:29 
+UsageRecord Charge 20297885     lp_sys  vsc30468 thinking      0.00  3125.75 2016-05-02 15:16:50 
+UsageRecord Charge 20297886     lp_sys  vsc30468 thinking      0.00  3125.75 2016-05-02 15:16:50 
+UsageRecord Charge 20300533     lp_sys  vsc30468 thinking      0.00  3125.75 2016-05-06 14:27:14 
+UsageRecord Charge 20302632     lp_sys  u0076109 thinking     -1.00  3124.75 2016-05-11 11:39:59 
+UsageRecord Charge 20302663     lp_sys  u0076109 thinking     -1.00  3123.75 2016-05-11 11:49:26 
+UsageRecord Charge 20302849     lp_sys  vsc30468 thinking      0.00  3123.75 2016-05-11 14:44:50 
+UsageRecord Charge 20302851     lp_sys  vsc30468 thinking      0.00  3123.75 2016-05-11 14:46:10 
+UsageRecord Charge 20302862     lp_sys  vsc30468 thinking      0.00  3123.75 2016-05-11 14:53:19 
+UsageRecord Charge 20302863     lp_sys  vsc30468 thinking      0.00  3123.75 2016-05-11 16:17:20 
+UsageRecord Charge 20302890     lp_sys  u0076109 thinking     -5.00  3118.75 2016-05-11 16:17:20 
+UsageRecord Charge 20303197     lp_sys  u0076109 thinking      0.00  3118.75 2016-05-12 10:33:16 
+UsageRecord Charge 20305689     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 12:10:23 
+UsageRecord Charge 20305694     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 12:20:57 
+UsageRecord Charge 20305743     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:04:34 
+UsageRecord Charge 20305744     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:09:04 
+UsageRecord Charge 20305746     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:16:14 
+UsageRecord Charge 20305747     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:17:19 
+UsageRecord Charge 20305752     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:22:23 
+UsageRecord Charge 20305755     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:34:07 
+UsageRecord Charge 20305756     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:39:04 
+UsageRecord Charge 20305758     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:44:36 
+UsageRecord Charge 20305781     lp_sys  vsc30484 thinking      0.00  3118.75 2016-05-18 13:56:39 
+UsageRecord Charge 20305778     lp_sys  vsc30484 thinking     -1.00  3117.75 2016-05-18 13:57:39 
+UsageRecord Charge 20305782     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 13:58:41 
+UsageRecord Charge 20305837     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 14:30:49 
+UsageRecord Charge 20305956     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 14:51:36 
+UsageRecord Charge 20305975     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:06:09 
+UsageRecord Charge 20305981     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:07:11 
+UsageRecord Charge 20305988     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:14:20 
+UsageRecord Charge 20305991     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:26:38 
+UsageRecord Charge 20305989     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:26:38 
+UsageRecord Charge 20306008     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 15:43:05 
+UsageRecord Charge 20306032     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 16:09:30 
+UsageRecord Charge 20306035     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 16:09:30 
+UsageRecord Charge 20306041     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 16:37:01 
+UsageRecord Charge 20306043     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 16:49:34 
+UsageRecord Charge 20306045     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-18 16:55:06 
+UsageRecord Charge 20306221     lp_sys  vsc30484 thinking     -1.00  3116.75 2016-05-19 08:55:33 
+UsageRecord Charge 20306225     lp_sys  vsc30484 thinking     -1.00  3115.75 2016-05-19 09:06:49 
+UsageRecord Charge 20308094     lp_sys  vsc30484 thinking      0.00  3115.75 2016-05-20 10:28:21 
+UsageRecord Charge 20308118     lp_sys  vsc30484 thinking      0.00  3115.75 2016-05-20 10:48:04 
+UsageRecord Charge 20308140     lp_sys  vsc30484 thinking      0.00  3115.75 2016-05-20 10:59:16 
+UsageRecord Charge 20312288     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 15:12:36 
+UsageRecord Charge 20312315     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 15:28:42 
+UsageRecord Charge 20312323     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 15:37:48 
+UsageRecord Charge 20312343     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 15:56:35 
+UsageRecord Charge 20312347     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 15:59:50 
+UsageRecord Charge 20312409     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-25 16:57:59 
+UsageRecord Charge 20313018     lp_sys  vsc30484 thinking      0.00    -2.72 2016-05-26 08:19:06 
+UsageRecord Charge 20313019     lp_sys  vsc30484 thinking      0.00  3115.75 2016-05-26 08:26:25 
+UsageRecord Charge 20313034     lp_sys  vsc30484 thinking     -1.00  3114.75 2016-05-26 08:53:15 
+UsageRecord Charge 20313056     lp_sys  vsc30484 thinking     -1.00  3113.75 2016-05-26 09:43:47 
+UsageRecord Charge 20319588     lp_sys  vsc30706 thinking      0.00  3113.75 2016-06-07 20:52:15 
+UsageRecord Charge 20319589     lp_sys  vsc30706 thinking     -1.00  3112.75 2016-06-07 20:56:56 
+UsageRecord Charge 20319591     lp_sys  vsc30706 thinking      0.00  3112.75 2016-06-07 20:59:06 
+UsageRecord Charge 20322336     lp_sys  vsc30706 thinking      0.00  3112.75 2016-06-12 22:08:25 
+UsageRecord Charge 20322787     lp_sys  vsc30468 thinking     -1.00  3111.75 2016-06-17 16:14:48 
+UsageRecord Charge 20325297     lp_sys  vsc30706 thinking     -4.00  3107.75 2016-06-22 21:33:12 
+UsageRecord Charge 20325298     lp_sys  vsc30706 thinking     -4.00  3103.75 2016-06-22 21:38:42 
+UsageRecord Charge 20325299     lp_sys  vsc30706 thinking   -151.00  2952.75 2016-06-22 22:09:09 
+UsageRecord Charge 20325300     lp_sys  vsc30706 thinking   -147.00  2805.75 2016-06-22 22:50:29 
+UsageRecord Charge 20325301     lp_sys  vsc30706 thinking   -141.00  2664.75 2016-06-22 23:28:30 
+UsageRecord Charge 20325342     lp_sys  vsc30706 thinking     -2.00  2662.75 2016-06-23 00:09:44 
+UsageRecord Charge 20325340     lp_sys  vsc30706 thinking     -2.00  2660.75 2016-06-23 00:09:44 
+UsageRecord Charge 20325337     lp_sys  vsc30706 thinking     -2.00  2658.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325338     lp_sys  vsc30706 thinking     -2.00  2656.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325339     lp_sys  vsc30706 thinking     -2.00  2654.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325341     lp_sys  vsc30706 thinking     -2.00  2652.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325343     lp_sys  vsc30706 thinking     -2.00  2650.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325344     lp_sys  vsc30706 thinking     -2.00  2648.75 2016-06-23 00:10:14 
+UsageRecord Charge 20325345     lp_sys  vsc30706 thinking     -2.00  2646.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325346     lp_sys  vsc30706 thinking     -2.00  2644.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325347     lp_sys  vsc30706 thinking     -2.00  2642.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325348     lp_sys  vsc30706 thinking     -2.00  2640.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325349     lp_sys  vsc30706 thinking     -2.00  2638.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325350     lp_sys  vsc30706 thinking     -2.00  2636.75 2016-06-23 00:10:15 
+UsageRecord Charge 20325351     lp_sys  vsc30706 thinking     -2.00  2634.75 2016-06-23 00:10:16 
+UsageRecord Charge 20325352     lp_sys  vsc30706 thinking     -2.00  2632.75 2016-06-23 00:10:16 
+UsageRecord Charge 20328995     lp_sys  vsc30484 thinking      0.00    -2.72 2016-07-05 14:38:19 
+UsageRecord Charge 20330391     lp_sys  vsc30706 thinking    -81.00  2551.75 2016-07-08 12:04:17 
+UsageRecord Charge 20334397     lp_sys  vsc30706 thinking    -80.00  2471.75 2016-07-12 22:40:02 
+UsageRecord Charge 20352857     lp_sys  vsc30706 thinking     -2.00  2469.75 2016-08-08 13:48:12 
+UsageRecord Charge 20352861     lp_sys  vsc30706 thinking     -3.00  2466.75 2016-08-08 13:52:16 
+UsageRecord Charge 20352866     lp_sys  vsc30706 thinking     -2.00  2464.75 2016-08-08 13:56:05 
+UsageRecord Charge 20352877     lp_sys  vsc30706 thinking     -3.00  2461.75 2016-08-08 13:58:55 
+UsageRecord Charge 20352884     lp_sys  vsc30706 thinking    -60.00  2401.75 2016-08-08 14:20:26 
+UsageRecord Charge 20353376     lp_sys  vsc30706 thinking     -2.00  2399.75 2016-08-09 10:41:12 
+UsageRecord Charge 20353378     lp_sys  vsc30706 thinking     -3.00  2396.75 2016-08-09 10:42:50 
+UsageRecord Charge 20356162     lp_sys  vsc30706 thinking     -2.00  2394.75 2016-08-12 15:51:29 
+UsageRecord Charge 20356163     lp_sys  vsc30706 thinking     -2.00  2392.75 2016-08-12 15:52:57 
+UsageRecord Charge 20356165     lp_sys  vsc30706 thinking     -6.00  2386.75 2016-08-12 15:57:49 
+UsageRecord Charge 20356173     lp_sys  vsc30706 thinking    -59.00  2327.75 2016-08-12 16:21:45 
+UsageRecord Charge 20356178     lp_sys  vsc30706 thinking    -14.00  2313.75 2016-08-12 16:27:15 
+UsageRecord Charge 20356183     lp_sys  vsc30706 thinking   -159.00  2154.75 2016-08-12 17:17:27 
+UsageRecord Charge 20356251     lp_sys  vsc30706 thinking   -551.00  1603.75 2016-08-12 19:59:02 
+UsageRecord Charge 20357769     lp_sys  vsc30706 thinking   -588.00  1015.75 2016-08-16 21:00:13 
+UsageRecord Charge 20358267     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 13:42:29 
+UsageRecord Charge 20358278     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:00:40 
+UsageRecord Charge 20358282     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:07:50 
+UsageRecord Charge 20358299     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:26:36 
+UsageRecord Charge 20358306     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:32:36 
+UsageRecord Charge 20358311     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:36:32 
+UsageRecord Charge 20358316     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 14:39:48 
+UsageRecord Charge 20358341     lp_sys  vsc30484 thinking      0.00  1015.75 2016-08-17 15:06:44 
+UsageRecord Charge 20358397     lp_sys  vsc30706 thinking   -669.00   346.75 2016-08-17 20:03:57 
+UsageRecord Charge 20363321     lp_sys  vsc30484 thinking      0.00   346.75 2016-08-30 11:58:11 
+UsageRecord Charge 20363329     lp_sys  vsc30484 thinking      0.00   346.75 2016-08-30 12:01:29 
+UsageRecord Charge 20363333     lp_sys  vsc30484 thinking      0.00   346.75 2016-08-30 12:12:21 
+UsageRecord Charge 20363340     lp_sys  vsc30484 thinking      0.00   346.75 2016-08-30 12:22:34 
+UsageRecord Charge 20368768     lp_sys  vsc30468 thinking     -1.00   345.75 2016-09-08 16:14:54 
+UsageRecord Charge 20370438     lp_sys  vsc30706 thinking     -1.00   344.75 2016-09-12 14:14:33 
+UsageRecord Charge 20370347     lp_sys  vsc30706 thinking      0.00    -2.72 2016-09-12 20:14:49 
+UsageRecord Charge 20372575     lp_sys  vsc30484 thinking      0.00   344.75 2016-09-15 14:46:20 
+UsageRecord Charge 20372579     lp_sys  vsc30484 thinking      0.00   344.75 2016-09-15 14:57:48 
+UsageRecord Charge 20372583     lp_sys  vsc30484 thinking      0.00   344.75 2016-09-15 15:03:43 
+UsageRecord Charge 20372587     lp_sys  vsc30484 thinking     -1.00   343.75 2016-09-15 15:24:46 
+UsageRecord Charge 20374609     lp_sys  vsc30484 thinking      0.00   343.75 2016-09-16 14:26:58 
+UsageRecord Charge 20374669     lp_sys  vsc30484 thinking      0.00   343.75 2016-09-16 15:51:25 
+UsageRecord Charge 20374676     lp_sys  vsc30484 thinking      0.00   343.75 2016-09-16 16:02:43 
+UsageRecord Charge 20375528     lp_sys  vsc30484 thinking     -5.00   338.75 2016-09-20 09:47:18 
+UsageRecord Charge 20377619     lp_sys  vsc30484 thinking     -7.00   331.75 2016-09-26 16:49:16 
+UsageRecord Charge 20377830     lp_sys  vsc30484 thinking    -75.00   256.75 2016-09-28 00:17:18 
+UsageRecord Charge 30020304     lp_sys  vsc30484 cerebro       0.00    -2.72 2016-10-04 09:26:55 
+UsageRecord Charge 30020307     lp_sys  vsc30484 cerebro       0.00    -2.72 2016-10-04 10:00:02 
+UsageRecord Charge 30020311     lp_sys  vsc30484 cerebro    -143.00   113.75 2016-10-06 04:51:53 
+UsageRecord Charge 30020427     lp_sys  vsc30484 cerebro       0.00    -2.72 2016-10-06 09:39:01 
+UsageRecord Charge 30020429     lp_sys  vsc30484 cerebro      -6.00   107.75 2016-10-06 11:23:36 
+UsageRecord Charge 30020431     lp_sys  vsc30484 cerebro      -2.00   105.75 2016-10-06 12:28:52 
+UsageRecord Charge 30020432     lp_sys  vsc30484 cerebro      -1.00   104.75 2016-10-06 12:45:35 
+UsageRecord Charge 30020433     lp_sys  vsc30484 cerebro       0.00    -2.72 2016-10-06 12:51:05 
+UsageRecord Charge 30020434     lp_sys  vsc30484 cerebro      -7.00    97.75 2016-10-06 14:51:58 
+UsageRecord Charge 30020435     lp_sys  vsc30484 cerebro     -58.00    39.75 2016-10-07 08:18:23 
+UsageRecord Charge 30020441     lp_sys  vsc30484 cerebro       0.00    -2.72 2016-10-07 10:13:30 
+UsageRecord Charge 30020442     lp_sys  vsc30484 cerebro      -5.00    34.75 2016-10-07 11:31:56 
+UsageRecord Charge 20403426     lp_sys  vsc40023 thinking    -19.00    15.75 2016-10-26 00:01:40 
+UsageRecord Charge 20413827     lp_sys  vsc30484 thinking      0.00    15.75 2016-11-16 15:38:12 
+UsageRecord Charge 20414751     lp_sys  vsc30484 thinking      0.00    15.75 2016-11-17 12:24:42 
+UsageRecord Charge 20419096     lp_sys  vsc30468 thinking     -5.00 10010.75 2016-11-28 13:38:51 
+UsageRecord Charge 20419114     lp_sys  vsc30468 thinking     -1.00 10009.75 2016-11-28 14:00:52 
+UsageRecord Charge 20419112     lp_sys  vsc30468 thinking     -3.00 10006.75 2016-11-28 14:17:54 
+UsageRecord Charge 20419127     lp_sys  vsc30468 thinking     -3.00 10003.75 2016-11-28 14:43:15 
+UsageRecord Charge 20419157     lp_sys  vsc30468 thinking      0.00 10003.75 2016-11-28 14:43:16 
+UsageRecord Charge 20419150     lp_sys  vsc30468 thinking     -1.00 10002.75 2016-11-28 14:53:50 
+UsageRecord Charge 20419148     lp_sys  vsc30468 thinking     -2.00 10000.75 2016-11-28 15:08:58 
+UsageRecord Charge 20419183     lp_sys  vsc30468 thinking     -2.00  9998.75 2016-11-28 15:27:21 
+UsageRecord Charge 20419185     lp_sys  vsc30468 thinking     -4.00  9994.75 2016-11-28 15:38:05 
+UsageRecord Charge 20419166     lp_sys  vsc30468 thinking     -8.00  9986.75 2016-11-28 15:51:04 
+UsageRecord Charge 20419170     lp_sys  vsc30468 thinking     -3.00  9983.75 2016-11-28 15:51:56 
+UsageRecord Charge 20419212     lp_sys  vsc30468 thinking     -2.00  9981.75 2016-11-28 16:03:29 
+UsageRecord Charge 20419239     lp_sys  vsc30468 thinking     -4.00  9977.75 2016-11-29 03:10:58 
+UsageRecord Charge 20419144     lp_sys  vsc30468 thinking     -3.00  9974.75 2016-11-29 03:13:28 
+UsageRecord Charge 20419242     lp_sys  vsc30468 thinking     -4.00  9970.75 2016-11-29 04:52:04 
+UsageRecord Charge 20419243     lp_sys  vsc30468 thinking     -3.00  9967.75 2016-11-29 05:00:05 
+UsageRecord Charge 20419580     lp_sys  vsc30468 thinking     -1.00  9966.75 2016-11-29 08:59:33 
+UsageRecord Charge 20419588     lp_sys  vsc30468 thinking   -134.00  9832.75 2016-11-29 11:33:44 
+UsageRecord Charge 20419817     lp_sys  vsc30468 thinking     -2.00  9830.75 2016-11-29 16:58:37 
+UsageRecord Charge 20419801     lp_sys  vsc30468 thinking    -48.00  9782.75 2016-11-29 17:39:55 
+UsageRecord Charge 20420097     lp_sys  vsc30468 thinking     -1.00  9781.75 2016-11-30 08:57:56 
+UsageRecord Charge 20420098     lp_sys  vsc30468 thinking     -1.00  9780.75 2016-11-30 09:02:19 
+UsageRecord Charge 20420100     lp_sys  vsc30468 thinking     -1.00  9779.75 2016-11-30 09:06:15 
+UsageRecord Charge 20420101     lp_sys  vsc30468 thinking      0.00  9779.75 2016-11-30 09:07:05 
+UsageRecord Charge 20420102     lp_sys  vsc30468 thinking     -1.00  9778.75 2016-12-01 04:35:53 
+UsageRecord Charge 20422004     lp_sys  vsc30468 thinking     -1.00  9777.75 2016-12-02 09:34:48 
+UsageRecord Charge 20422015     lp_sys  vsc30468 thinking     -1.00  9776.75 2016-12-02 09:51:13 
+UsageRecord Charge 20422005     lp_sys  vsc30468 thinking     -1.00  9775.75 2016-12-02 09:51:13 
+UsageRecord Charge 20422042     lp_sys  vsc30468 thinking     -2.00  9773.75 2016-12-02 10:57:43 
+UsageRecord Charge 20423678     lp_sys  vsc30468 thinking    -85.00  9688.75 2016-12-05 11:20:50 
+UsageRecord Charge 30021655     lp_sys  vsc30468 cerebro      -1.00  9687.75 2016-12-06 16:10:43 
+UsageRecord Charge 30021659     lp_sys  vsc30468 cerebro    -208.00  9479.75 2016-12-07 02:08:00 
+UsageRecord Charge 30021656     lp_sys  vsc30468 cerebro    -341.00  9138.75 2016-12-07 07:04:06 
+UsageRecord Charge 20425647     lp_sys  vsc30468 thinking      0.00  9138.75 2016-12-07 16:48:38 
+UsageRecord Charge 20425655     lp_sys  vsc30468 thinking      0.00  9138.75 2016-12-07 16:51:58 
+UsageRecord Charge 20429360     lp_sys  vsc40485 thinking      0.00  9138.75 2016-12-14 10:10:55 
+UsageRecord Charge 20429363     lp_sys  vsc40485 thinking     -1.00  9137.75 2016-12-14 10:25:36 
+UsageRecord Charge 20429559     lp_sys  vsc30484 thinking      0.00  9137.75 2016-12-14 15:32:25 
+UsageRecord Charge 20429667     lp_sys  vsc40485 thinking     -3.00  9134.75 2016-12-14 19:46:05 
+UsageRecord Charge 20429369     lp_sys  vsc40485 thinking      0.00  9134.75 2016-12-15 04:44:54 
+UsageRecord Charge 20429666     lp_sys  vsc40485 thinking      0.00  9134.75 2016-12-15 04:46:14 
+UsageRecord Charge 20429858     lp_sys  vsc30706 thinking      0.00  9134.75 2016-12-15 09:26:11 
+UsageRecord Charge 20430127     lp_sys  vsc40485 thinking     -3.00  9131.75 2016-12-15 17:12:30 
+UsageRecord Charge 20429938     lp_sys  vsc40485 thinking      0.00  9131.75 2016-12-15 18:02:15 
+UsageRecord Charge 20430123     lp_sys  vsc40485 thinking     -1.00  9130.75 2016-12-15 18:16:33 
+UsageRecord Charge 20430193     lp_sys  vsc40485 thinking     -3.00  9127.75 2016-12-15 19:12:12 
+UsageRecord Charge 20430196     lp_sys  vsc40485 thinking     -1.00  9126.75 2016-12-15 19:30:07 
+UsageRecord Charge 20430204     lp_sys  vsc40485 thinking     -3.00  9123.75 2016-12-15 20:02:00 
+UsageRecord Charge 20430241     lp_sys  vsc40485 thinking     -3.00  9120.75 2016-12-15 20:18:13 
+UsageRecord Charge 20430609     lp_sys  vsc40485 thinking     -1.00  9119.75 2016-12-16 16:28:47 
+UsageRecord Charge 20430611     lp_sys  vsc40485 thinking     -2.00  9117.75 2016-12-16 17:17:50 
+UsageRecord Charge 20431522     lp_sys  vsc30706 thinking     -7.00  9110.75 2016-12-19 15:01:47 
+UsageRecord Charge 20433581     lp_sys  vsc40485 thinking     -3.00  9107.75 2016-12-21 14:31:04 
+UsageRecord Charge 20433634     lp_sys  vsc40485 thinking     -3.00  9104.75 2016-12-21 15:38:16 
+UsageRecord Charge 20433688     lp_sys  vsc40485 thinking      0.00  9104.75 2016-12-21 15:39:52 
+UsageRecord Charge 20433699     lp_sys  vsc40485 thinking     -1.00  9103.75 2016-12-21 16:08:57 
+UsageRecord Charge 20433720     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 16:14:43 
+UsageRecord Charge 20433726     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 16:20:23 
+UsageRecord Charge 20433725     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 16:26:07 
+UsageRecord Charge 20433724     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 16:26:07 
+UsageRecord Charge 20433755     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 16:51:07 
+UsageRecord Charge 20433881     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 18:37:55 
+UsageRecord Charge 20433905     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 18:41:31 
+UsageRecord Charge 20433907     lp_sys  vsc40485 thinking      0.00  9103.75 2016-12-21 18:44:57 
+UsageRecord Charge 20433740     lp_sys  vsc40485 thinking     -7.00  9096.75 2016-12-21 18:56:50 
+UsageRecord Charge 20433852     lp_sys  vsc40485 thinking     -8.00  9088.75 2016-12-21 21:04:44 
+UsageRecord Charge 20434153     lp_sys  vsc40485 thinking      0.00  9088.75 2016-12-22 10:44:36 
+UsageRecord Charge 20434165     lp_sys  vsc40485 thinking     -3.00  9085.75 2016-12-22 11:50:03 
+UsageRecord Charge 20433739     lp_sys  vsc40485 thinking    -63.00  9022.75 2016-12-22 14:28:42 
+UsageRecord Charge 20433741     lp_sys  vsc40485 thinking    -63.00  8959.75 2016-12-22 14:30:03 
+UsageRecord Charge 20434265     lp_sys  vsc40485 thinking     -3.00  8956.75 2016-12-22 15:09:52 
+UsageRecord Charge 20433906     lp_sys  vsc40485 thinking    -63.00  8893.75 2016-12-22 16:43:28 
+UsageRecord Charge 20434397     lp_sys  vsc40485 thinking      0.00  8893.75 2016-12-22 17:42:03 
+UsageRecord Charge 20434163     lp_sys  vsc40485 thinking    -21.00  8872.75 2016-12-22 18:01:05 
+UsageRecord Charge 20434402     lp_sys  vsc40485 thinking     -3.00  8869.75 2016-12-22 20:03:46 
+UsageRecord Charge 20434303[0]  lp_sys  vsc40485 thinking    -35.00  8834.75 2016-12-23 03:33:07 
+UsageRecord Charge 20434303[1]  lp_sys  vsc40485 thinking    -35.00  8799.75 2016-12-23 04:59:15 
+UsageRecord Charge 20434303[2]  lp_sys  vsc40485 thinking    -36.00  8763.75 2016-12-23 06:33:34 
+UsageRecord Charge 20434303[3]  lp_sys  vsc40485 thinking    -35.00  8728.75 2016-12-23 09:11:58 
+UsageRecord Charge 20434303[4]  lp_sys  vsc40485 thinking    -35.00  8693.75 2016-12-23 15:48:18 
+UsageRecord Charge 20434303[5]  lp_sys  vsc40485 thinking    -35.00  8658.75 2016-12-23 17:13:16 
+UsageRecord Charge 20434303[6]  lp_sys  vsc40485 thinking    -32.00  8626.75 2016-12-23 17:51:01 
+UsageRecord Charge 20434303[7]  lp_sys  vsc40485 thinking    -25.00  8601.75 2016-12-23 17:51:01 
+UsageRecord Charge 20434303[8]  lp_sys  vsc40485 thinking     -6.00  8595.75 2016-12-23 17:51:02 
+UsageRecord Charge 20434303[9]  lp_sys  vsc40485 thinking     -2.00  8593.75 2016-12-23 17:51:02 
+UsageRecord Charge 20434773     lp_sys  vsc40485 thinking      0.00  8593.75 2016-12-23 18:23:06 
+UsageRecord Charge 20434772     lp_sys  vsc40485 thinking     -2.00  8591.75 2016-12-23 18:42:54 
+UsageRecord Charge 20434777     lp_sys  vsc40485 thinking    -47.00  8544.75 2016-12-24 10:40:53 
+UsageRecord Charge 20434780[3]  lp_sys  vsc40485 thinking    -57.00  8487.75 2016-12-24 14:42:53 
+UsageRecord Charge 20434780[1]  lp_sys  vsc40485 thinking    -59.00  8428.75 2016-12-24 15:16:00 
+UsageRecord Charge 20434780[0]  lp_sys  vsc40485 thinking    -59.00  8369.75 2016-12-24 15:17:58 
+UsageRecord Charge 20434780[2]  lp_sys  vsc40485 thinking    -59.00  8310.75 2016-12-24 15:17:58 
+UsageRecord Charge 20434780[4]  lp_sys  vsc40485 thinking    -57.00  8253.75 2016-12-25 06:42:56 
+UsageRecord Charge 20434780[5]  lp_sys  vsc40485 thinking    -57.00  8196.75 2016-12-25 10:44:43 
+UsageRecord Charge 20434780[6]  lp_sys  vsc40485 thinking    -59.00  8137.75 2016-12-25 11:54:29 
+UsageRecord Charge 20434780[8]  lp_sys  vsc40485 thinking    -59.00  8078.75 2016-12-25 11:55:49 
+UsageRecord Charge 20434780[7]  lp_sys  vsc40485 thinking    -59.00  8019.75 2016-12-25 11:55:49 
+UsageRecord Charge 20434780[9]  lp_sys  vsc40485 thinking    -57.00  7962.75 2016-12-26 02:33:46 
+UsageRecord Charge 20434784[51] lp_sys  vsc40485 thinking    -57.00  7905.75 2016-12-26 08:17:55 
+UsageRecord Charge 20434784[52] lp_sys  vsc40485 thinking    -59.00  7846.75 2016-12-26 08:52:30 
+UsageRecord Charge 20434784[53] lp_sys  vsc40485 thinking    -59.00  7787.75 2016-12-26 08:53:49 
+UsageRecord Charge 20434784[56] lp_sys  vsc40485 thinking    -59.00  7728.75 2016-12-26 09:35:31 
+UsageRecord Charge 20434781[16] lp_sys  vsc40485 thinking    -57.00  7671.75 2016-12-27 04:19:43 
+UsageRecord Charge 20434781[12] lp_sys  vsc40485 thinking    -59.00  7612.75 2016-12-27 05:28:01 
+UsageRecord Charge 20434781[17] lp_sys  vsc40485 thinking    -59.00  7553.75 2016-12-27 05:29:21 
+UsageRecord Charge 20434781[13] lp_sys  vsc40485 thinking    -59.00  7494.75 2016-12-27 06:12:21 
+UsageRecord Charge 20434781[27] lp_sys  vsc40485 thinking    -59.00  7435.75 2016-12-27 08:32:19 
+UsageRecord Charge 20434781[28] lp_sys  vsc40485 thinking    -57.00  7378.75 2016-12-28 00:20:10 
+UsageRecord Charge 20434781[29] lp_sys  vsc40485 thinking    -59.00  7319.75 2016-12-28 02:03:38 
+UsageRecord Charge 20434781[30] lp_sys  vsc40485 thinking    -59.00  7260.75 2016-12-28 02:04:59 
+UsageRecord Charge 20434784[57] lp_sys  vsc40485 thinking    -59.00  7201.75 2016-12-28 02:49:11 
+UsageRecord Charge 20434784[58] lp_sys  vsc40485 thinking    -59.00  7142.75 2016-12-28 05:08:33 
+UsageRecord Charge 20434784[60] lp_sys  vsc40485 thinking    -60.00  7082.75 2016-12-28 08:14:51 
+UsageRecord Charge 20434784[59] lp_sys  vsc40485 thinking    -63.00  7019.75 2016-12-28 09:08:09 
+UsageRecord Charge 20434784[61] lp_sys  vsc40485 thinking    -57.00  6962.75 2016-12-28 20:20:43 
+UsageRecord Charge 20434784[63] lp_sys  vsc40485 thinking    -59.00  6903.75 2016-12-28 22:40:30 
+UsageRecord Charge 20434784[62] lp_sys  vsc40485 thinking    -59.00  6844.75 2016-12-28 22:40:30 
+UsageRecord Charge 20434784[64] lp_sys  vsc40485 thinking    -59.00  6785.75 2016-12-28 23:26:31 
+UsageRecord Charge 20434784[65] lp_sys  vsc40485 thinking    -59.00  6726.75 2016-12-29 01:44:25 
+UsageRecord Charge 20434784[66] lp_sys  vsc40485 thinking    -60.00  6666.75 2016-12-29 05:18:26 
+UsageRecord Charge 20434784[68] lp_sys  vsc40485 thinking    -63.00  6603.75 2016-12-29 07:10:48 
+UsageRecord Charge 20434784[69] lp_sys  vsc40485 thinking    -57.00  6546.75 2016-12-29 16:20:33 
+UsageRecord Charge 20434784[70] lp_sys  vsc40485 thinking    -59.00  6487.75 2016-12-29 19:16:30 
+UsageRecord Charge 20434784[71] lp_sys  vsc40485 thinking    -59.00  6428.75 2016-12-29 19:17:51 
+UsageRecord Charge 20434784[78] lp_sys  vsc40485 thinking      0.00  6428.75 2016-12-29 19:19:12 
+UsageRecord Charge 20434784[72] lp_sys  vsc40485 thinking    -59.00  6369.75 2016-12-29 20:02:34 
+UsageRecord Charge 20434784[73] lp_sys  vsc40485 thinking    -59.00  6310.75 2016-12-29 22:20:54 
+UsageRecord Charge 20434784[74] lp_sys  vsc40485 thinking    -60.00  6250.75 2016-12-30 02:22:38 
+UsageRecord Charge 20434784[77] lp_sys  vsc40485 thinking    -22.00  6228.75 2016-12-30 03:04:36 
+UsageRecord Charge 20434784[75] lp_sys  vsc40485 thinking    -63.00  6165.75 2016-12-30 05:13:38 
+UsageRecord Charge 20434784[76] lp_sys  vsc40485 thinking    -57.00  6108.75 2016-12-30 12:20:19 
+UsageRecord Charge 20434781[14] lp_sys  vsc40485 thinking    -59.00  6049.75 2016-12-30 15:54:35 
+UsageRecord Charge 20434784[55] lp_sys  vsc40485 thinking    -59.00  5990.75 2016-12-30 16:39:40 
+UsageRecord Charge 20434780[10] lp_sys  vsc40485 thinking    -59.00  5931.75 2016-12-30 18:57:37 
+UsageRecord Charge 20434781[18] lp_sys  vsc40485 thinking    -60.00  5871.75 2016-12-30 23:26:14 
+UsageRecord Charge 20434781[22] lp_sys  vsc40485 thinking    -59.00  5812.75 2016-12-30 23:40:27 
+UsageRecord Charge 20434781[15] lp_sys  vsc40485 thinking    -63.00  5749.75 2016-12-31 03:16:19 
+UsageRecord Charge 20434781[19] lp_sys  vsc40485 thinking    -57.00  5692.75 2016-12-31 08:21:01 
+UsageRecord Charge 20434781[23] lp_sys  vsc40485 thinking    -59.00  5633.75 2016-12-31 12:30:23 
+UsageRecord Charge 20434781[20] lp_sys  vsc40485 thinking    -59.00  5574.75 2016-12-31 13:16:21 
+UsageRecord Charge 20434781[21] lp_sys  vsc40485 thinking    -57.00  5517.75 2016-12-31 14:00:06 
+UsageRecord Charge 20434781[24] lp_sys  vsc40485 thinking    -59.00  5458.75 2016-12-31 15:34:36 
+UsageRecord Charge 20434781[26] lp_sys  vsc40485 thinking    -59.00  5399.75 2016-12-31 20:17:26 
+UsageRecord Charge 20434781[25] lp_sys  vsc40485 thinking    -60.00  5339.75 2016-12-31 20:29:31 
+UsageRecord Charge 20434784[54] lp_sys  vsc40485 thinking    -63.00  5276.75 2017-01-01 01:18:56 
+UsageRecord Charge 20434781[11] lp_sys  vsc40485 thinking    -57.00  5219.75 2017-01-01 04:20:52 
+UsageRecord Charge 20434784[67] lp_sys  vsc40485 thinking    -59.00  5160.75 2017-01-01 09:06:08 
+UsageRecord Charge 20441786     lp_sys  vsc30484 thinking     -5.00  5155.75 2017-01-06 13:17:03 
+UsageRecord Charge 30021966     lp_sys  vsc30484 cerebro       0.00  5155.75 2017-01-12 12:53:20 
+UsageRecord Charge 20447151     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 10:56:24 
+UsageRecord Charge 20447375     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:42:13 
+UsageRecord Charge 20447380     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:47:52 
+UsageRecord Charge 20447385     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:53:35 
+UsageRecord Charge 20447387     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:53:35 
+UsageRecord Charge 20447390     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:56:43 
+UsageRecord Charge 20447391     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 13:59:43 
+UsageRecord Charge 20447394     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-16 14:03:51 
+UsageRecord Charge 30022019     lp_sys  vsc30468 cerebro       0.00  5155.75 2017-01-17 09:00:33 
+UsageRecord Charge 20448320     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-17 10:56:29 
+UsageRecord Charge 20448327     lp_sys  vsc30468 thinking      0.00  5155.75 2017-01-17 11:04:37 
+UsageRecord Charge 30022028     lp_sys  vsc30484 cerebro       0.00  5155.75 2017-01-17 12:03:46 
+UsageRecord Charge 20448403     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-17 12:11:07 
+UsageRecord Charge 20448569     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-17 14:02:32 
+UsageRecord Charge 20448577     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-17 14:06:42 
+UsageRecord Charge 20449301     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 14:09:52 
+UsageRecord Charge 20449312     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 14:22:07 
+UsageRecord Charge 20449334     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 14:30:38 
+UsageRecord Charge 20449352     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 14:59:05 
+UsageRecord Charge 20449382     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 15:23:49 
+UsageRecord Charge 20449416     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-18 15:45:26 
+UsageRecord Charge 20450110     lp_sys  vsc30484 thinking      0.00  5155.75 2017-01-20 08:34:58 
+UsageRecord Charge 20450111     lp_sys  vsc30484 thinking     -5.00  5150.75 2017-01-20 09:19:02 
+UsageRecord Charge 20451118     lp_sys  vsc30468 thinking     -1.00  5149.75 2017-01-24 08:44:25 
+UsageRecord Charge 20451120     lp_sys  vsc30468 thinking    -86.00  5063.75 2017-01-24 10:34:10 
+UsageRecord Charge 20451185     lp_sys  vsc30468 thinking   -126.00  4937.75 2017-01-24 13:54:41 
+UsageRecord Charge 20451210     lp_sys  vsc30468 thinking   -256.00  4681.75 2017-01-24 15:52:51 
+UsageRecord Charge 20451182     lp_sys  vsc30468 thinking   -198.00  4483.75 2017-01-24 16:00:24 
+UsageRecord Charge 20451186     lp_sys  vsc30468 thinking   -264.00  4219.75 2017-01-24 16:00:24 
+UsageRecord Charge 20451434     lp_sys  vsc30484 thinking     -2.00  4217.75 2017-01-25 08:59:16 
+UsageRecord Charge 20451435     lp_sys  vsc30484 thinking      0.00  4217.75 2017-01-25 09:05:52 
+UsageRecord Charge 20451436     lp_sys  vsc30484 thinking      0.00  4217.75 2017-01-25 09:10:32 
+UsageRecord Charge 20451437     lp_sys  vsc30484 thinking     -4.00  4213.75 2017-01-25 10:04:57 
+UsageRecord Charge 20451560     lp_sys  vsc30484 thinking     -2.00  4211.75 2017-01-25 13:23:41 
+UsageRecord Charge 20451925     lp_sys  vsc30484 thinking      0.00  4211.75 2017-01-26 11:10:37 
+UsageRecord Charge 20452084     lp_sys  vsc30484 thinking      0.00  4211.75 2017-01-26 11:31:30 
+UsageRecord Charge 20452218     lp_sys  vsc30484 thinking      0.00  4211.75 2017-01-26 13:13:55 
+UsageRecord Charge 20452231     lp_sys  vsc30484 thinking     -1.00  4210.75 2017-01-26 13:30:36 
+UsageRecord Charge 20452236     lp_sys  vsc30484 thinking      0.00  4210.75 2017-01-26 13:31:56 
+UsageRecord Charge 20452237     lp_sys  vsc30484 thinking      0.00  4210.75 2017-01-26 13:36:52 
+UsageRecord Charge 20452239     lp_sys  vsc30484 thinking     -4.00  4206.75 2017-01-26 14:05:01 
+UsageRecord Charge 20452272     lp_sys  vsc30484 thinking    -10.00  4196.75 2017-01-26 15:27:31 
+UsageRecord Charge 20452324     lp_sys  vsc30484 thinking    -10.00  4186.75 2017-01-26 15:57:17 
+UsageRecord Charge 20452481     lp_sys  vsc30484 thinking   -458.00  3728.75 2017-01-29 13:37:46 
+UsageRecord Charge 20453575     lp_sys  vsc30484 thinking    -18.00  3710.75 2017-01-30 10:43:11 
+UsageRecord Charge 20453620     lp_sys  vsc30484 thinking    -30.00  3680.75 2017-01-30 13:51:04 
+UsageRecord Charge 20454690     lp_sys  vsc30468 thinking      0.00  3680.75 2017-02-01 12:33:29 
+UsageRecord Charge 20453754     lp_sys  vsc30484 thinking   -641.00  3039.75 2017-02-01 13:56:20 
+UsageRecord Charge 20457343     lp_sys  vsc30484 thinking      0.00  3039.75 2017-02-07 13:15:03 
+UsageRecord Charge 20457346     lp_sys  vsc30484 thinking      0.00  3039.75 2017-02-07 13:23:33 
+UsageRecord Charge 20457347     lp_sys  vsc30484 thinking     -5.00  3034.75 2017-02-07 14:25:41 
+UsageRecord Charge 20457411     lp_sys  vsc30468 thinking      0.00  3034.75 2017-02-07 15:00:14 
+UsageRecord Charge 20457412     lp_sys  vsc30468 thinking      0.00    -2.72 2017-02-07 15:04:21 
+UsageRecord Charge 20457478     lp_sys  vsc30468 thinking      0.00    -2.72 2017-02-07 15:51:00 
+UsageRecord Charge 20458111     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 10:18:45 
+UsageRecord Charge 20458149     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 10:36:47 
+UsageRecord Charge 20458165     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 10:39:29 
+UsageRecord Charge 20458178     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 11:12:44 
+UsageRecord Charge 20458181     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 11:12:45 
+UsageRecord Charge 20458188     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 11:20:15 
+UsageRecord Charge 20458208     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 11:35:51 
+UsageRecord Charge 20458221     lp_sys  vsc30484 thinking      0.00  3034.75 2017-02-09 11:43:17 
+UsageRecord Charge 20459443     lp_sys  vsc30706 thinking      0.00  3034.75 2017-02-13 12:36:44 
+UsageRecord Charge 20459468     lp_sys  vsc30706 thinking      0.00  3034.75 2017-02-13 12:39:52 
+UsageRecord Charge 20459502     lp_sys  vsc30706 thinking     -1.00  3033.75 2017-02-13 13:58:34 
+UsageRecord Charge 20459519     lp_sys  vsc30706 thinking      0.00  3033.75 2017-02-13 14:09:50 
+UsageRecord Charge 20459521     lp_sys  vsc30706 thinking      0.00  3033.75 2017-02-13 14:17:59 
+UsageRecord Charge 20459526     lp_sys  vsc30706 thinking     -2.00  3031.75 2017-02-13 14:29:39 
+UsageRecord Charge 20459528     lp_sys  vsc30706 thinking   -108.00  2923.75 2017-02-13 15:42:05 
+UsageRecord Charge 20459591     lp_sys  vsc30706 thinking   -372.00  2551.75 2017-02-13 19:16:53 
+UsageRecord Charge 20459661     lp_sys  vsc30706 thinking     -3.00  2548.75 2017-02-13 19:19:53 
+UsageRecord Charge 20459841     lp_sys  vsc30706 thinking     -2.00  2546.75 2017-02-14 09:59:06 
+UsageRecord Charge 20459869     lp_sys  vsc30706 thinking    -45.00  2501.75 2017-02-14 10:49:47 
+UsageRecord Charge 20459925     lp_sys  vsc30484 thinking      0.00  2501.75 2017-02-14 12:15:48 
+UsageRecord Charge 20459931     lp_sys  vsc30484 thinking      0.00  2501.75 2017-02-14 12:25:08 
+UsageRecord Charge 20459937     lp_sys  vsc30484 thinking     -2.00  2499.75 2017-02-14 12:53:52 
+UsageRecord Charge 20459941     lp_sys  vsc30484 thinking    -29.00  2470.75 2017-02-14 15:09:13 
+UsageRecord Charge 20459924     lp_sys  vsc30706 thinking   -331.00  2139.75 2017-02-14 15:18:59 
+UsageRecord Charge 20460048     lp_sys  vsc30484 thinking      0.00  2139.75 2017-02-14 15:23:19 
+UsageRecord Charge 20460053     lp_sys  vsc30484 thinking      0.00  2139.75 2017-02-14 15:33:50 
+UsageRecord Charge 20460076     lp_sys  vsc30484 thinking      0.00  2139.75 2017-02-14 15:51:54 
+UsageRecord Charge 20460088     lp_sys  vsc30484 thinking      0.00  2139.75 2017-02-14 16:06:13 
+UsageRecord Charge 20460093     lp_sys  vsc30484 thinking     -1.00  2138.75 2017-02-14 16:16:54 
+UsageRecord Charge 20460125     lp_sys  vsc30484 thinking      0.00    -2.72 2017-02-14 18:28:43 
+UsageRecord Charge 20460129     lp_sys  vsc30484 thinking      0.00    -2.72 2017-02-14 18:57:54 
+UsageRecord Charge 20460131     lp_sys  vsc30484 thinking      0.00  2138.75 2017-02-14 19:05:23 
+UsageRecord Charge 20460133     lp_sys  vsc30484 thinking     -2.00  2136.75 2017-02-14 19:22:32 
+UsageRecord Charge 20460264     lp_sys  vsc30484 thinking     -3.00  2133.75 2017-02-15 08:21:44 
+UsageRecord Charge 20460265     lp_sys  vsc30484 thinking     -1.00  2132.75 2017-02-15 08:29:04 
+UsageRecord Charge 20460275     lp_sys  vsc30484 thinking     -1.00  2131.75 2017-02-15 08:55:14 
+UsageRecord Charge 20460347     lp_sys  vsc30706 thinking    -10.00  2121.75 2017-02-15 14:37:56 
+UsageRecord Charge 20460435     lp_sys  vsc30706 thinking      0.00  2121.75 2017-02-15 14:44:57 
+UsageRecord Charge 20460440     lp_sys  vsc30706 thinking      0.00  2121.75 2017-02-15 14:56:28 
+UsageRecord Charge 20460448     lp_sys  vsc30706 thinking      0.00  2121.75 2017-02-15 15:21:40 
+UsageRecord Charge 20460455     lp_sys  vsc30706 thinking     -1.00  2120.75 2017-02-15 15:41:10 
+UsageRecord Charge 20460469     lp_sys  vsc30706 thinking     -2.00  2118.75 2017-02-15 16:07:40 
+UsageRecord Charge 20460488     lp_sys  vsc30706 thinking     -2.00  2116.75 2017-02-15 16:28:12 
+UsageRecord Charge 20460497     lp_sys  vsc30706 thinking      0.00  2116.75 2017-02-15 16:35:40 
+UsageRecord Charge 20460508     lp_sys  vsc30706 thinking      0.00  2116.75 2017-02-15 16:40:30 
+UsageRecord Charge 20460517     lp_sys  vsc30706 thinking      0.00  2116.75 2017-02-15 16:50:27 
+UsageRecord Charge 20460539     lp_sys  vsc30706 thinking     -1.00  2115.75 2017-02-15 16:59:21 
+UsageRecord Charge 20460510     lp_sys  vsc30706 thinking     -2.00  2113.75 2017-02-15 17:14:33 
+UsageRecord Charge 20460620     lp_sys  vsc30706 thinking     -1.00  2112.75 2017-02-15 23:28:18 
+UsageRecord Charge 20460798     lp_sys  vsc30706 thinking      0.00  2112.75 2017-02-16 10:17:20 
+UsageRecord Charge 20460819     lp_sys  vsc30706 thinking      0.00  2112.75 2017-02-16 10:31:49 
+UsageRecord Charge 20460820     lp_sys  vsc30706 thinking     -1.00  2111.75 2017-02-16 10:38:12 
+UsageRecord Charge 20460824     lp_sys  vsc30706 thinking      0.00  2111.75 2017-02-16 10:44:11 
+UsageRecord Charge 20460838     lp_sys  vsc30706 thinking     -1.00  2110.75 2017-02-16 11:08:19 
+UsageRecord Charge 20460952     lp_sys  vsc30706 thinking     -1.00  2109.75 2017-02-16 14:28:22 
+UsageRecord Charge 20461003     lp_sys  vsc30706 thinking     -1.00  2108.75 2017-02-16 14:42:28 
+UsageRecord Charge 20461025     lp_sys  vsc30706 thinking     -2.00  2106.75 2017-02-16 15:26:31 
+UsageRecord Charge 20461149     lp_sys  vsc30706 thinking     -3.00  2103.75 2017-02-16 17:24:02 
+UsageRecord Charge 20461175     lp_sys  vsc30706 thinking     -6.00  2097.75 2017-02-16 18:20:34 
+UsageRecord Charge 20461205     lp_sys  vsc30706 thinking     -1.00  2096.75 2017-02-16 18:34:33 
+UsageRecord Charge 20461228     lp_sys  vsc30706 thinking     -1.00  2095.75 2017-02-16 19:15:04 
+UsageRecord Charge 20461237     lp_sys  vsc30706 thinking      0.00  2095.75 2017-02-16 19:16:24 
+UsageRecord Charge 20461239     lp_sys  vsc30706 thinking      0.00  2095.75 2017-02-16 19:19:05 
+UsageRecord Charge 20461366     lp_sys  vsc30706 thinking      0.00  2095.75 2017-02-17 10:21:52 
+UsageRecord Charge 20461683     lp_sys  vsc30706 thinking    -17.00  2078.75 2017-02-17 20:24:45 
+UsageRecord Charge 20462091     lp_sys  vsc30706 thinking     -2.00  2076.75 2017-02-19 14:05:49 
+UsageRecord Charge 20462104     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:16:00 
+UsageRecord Charge 20462103     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:17:20 
+UsageRecord Charge 20462102     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:17:20 
+UsageRecord Charge 20462105     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:17:21 
+UsageRecord Charge 20462109     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:22:40 
+UsageRecord Charge 20462112     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:32:15 
+UsageRecord Charge 20462111     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:33:35 
+UsageRecord Charge 20462110     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:33:35 
+UsageRecord Charge 20462113     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:33:36 
+UsageRecord Charge 20462129     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:42:58 
+UsageRecord Charge 20462128     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:44:18 
+UsageRecord Charge 20462127     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:44:18 
+UsageRecord Charge 20462130     lp_sys  vsc30706 thinking      0.00  2076.75 2017-02-19 14:44:19 
+UsageRecord Charge 20462149     lp_sys  vsc30706 thinking     -7.00  2069.75 2017-02-19 16:15:44 
+UsageRecord Charge 20462345     lp_sys  vsc30484 thinking      0.00    -2.72 2017-02-20 10:47:14 
+UsageRecord Charge 20462349     lp_sys  vsc30484 thinking      0.00    -2.72 2017-02-20 11:07:07 
+UsageRecord Charge 20462350     lp_sys  vsc30484 thinking      0.00  2069.75 2017-02-20 11:07:07 
+UsageRecord Charge 30022451     lp_sys  vsc30484 cerebro       0.00  2069.75 2017-02-20 11:26:46 
+UsageRecord Charge 20462363     lp_sys  vsc30706 thinking     -5.00  2064.75 2017-02-20 11:29:50 
+UsageRecord Charge 20462366     lp_sys  vsc30706 thinking    -14.00  2050.75 2017-02-20 11:43:09 
+UsageRecord Charge 20462383     lp_sys  vsc30706 thinking    -24.00  2026.75 2017-02-20 14:27:18 
+UsageRecord Charge 20462367     lp_sys  vsc30706 thinking   -365.00  1661.75 2017-02-20 15:08:10 
+UsageRecord Charge 20462384     lp_sys  vsc30706 thinking    -24.00  1637.75 2017-02-20 16:31:57 
+UsageRecord Charge 20462597     lp_sys  vsc30706 thinking     -3.00  1634.75 2017-02-20 17:10:00 
+UsageRecord Charge 20462606     lp_sys  vsc30706 thinking     -2.00  1632.75 2017-02-20 17:20:04 
+UsageRecord Charge 20462495     lp_sys  vsc30706 thinking   -274.00  1358.75 2017-02-20 17:41:55 
+UsageRecord Charge 20462615     lp_sys  vsc30706 thinking     -9.00  1349.75 2017-02-20 18:10:01 
+UsageRecord Charge 20462627     lp_sys  vsc30706 thinking   -133.00  1216.75 2017-02-20 18:57:59 
+UsageRecord Charge 20462646     lp_sys  vsc30706 thinking     -9.00  1207.75 2017-02-20 18:58:00 
+UsageRecord Charge 20462649     lp_sys  vsc30706 thinking    -69.00  1138.75 2017-02-21 00:59:24 
+UsageRecord Charge 20462651     lp_sys  vsc30706 thinking  -1247.00  -108.25 2017-02-22 21:40:20 
+UsageRecord Charge 20464943     lp_sys  vsc30706 thinking      0.00 30000.00 2017-02-23 17:16:19 
+UsageRecord Charge 20464974     lp_sys  vsc30706 thinking      0.00 30000.00 2017-02-23 17:32:29 
+UsageRecord Charge 20464980     lp_sys  vsc30706 thinking     -1.00 29999.00 2017-02-23 17:38:18 
+UsageRecord Charge 20464992     lp_sys  vsc30706 thinking     -2.00 29997.00 2017-02-23 17:42:31 
+UsageRecord Charge 20465007     lp_sys  vsc30706 thinking     -3.00 29994.00 2017-02-23 18:06:43 
+UsageRecord Charge 20464984     lp_sys  vsc30706 thinking     -6.00 29988.00 2017-02-23 18:09:25 
+UsageRecord Charge 20465008     lp_sys  vsc30706 thinking     -2.00 29986.00 2017-02-23 18:10:46 
+UsageRecord Charge 20465010     lp_sys  vsc30706 thinking     -1.00 29985.00 2017-02-23 18:16:36 
+UsageRecord Charge 20465017     lp_sys  vsc30706 thinking   -109.00 29876.00 2017-02-23 19:24:58 
+UsageRecord Charge 20465441     lp_sys  vsc30706 thinking     -3.00 29873.00 2017-02-24 10:57:42 
+UsageRecord Charge 20465446     lp_sys  vsc30706 thinking     -9.00 29864.00 2017-02-24 11:08:32 
+UsageRecord Charge 20465464     lp_sys  vsc30706 thinking     -3.00 29861.00 2017-02-24 11:23:12 
+UsageRecord Charge 20465479     lp_sys  vsc30706 thinking    -11.00 29850.00 2017-02-24 11:34:12 
+UsageRecord Charge 20466857     lp_sys  vsc30706 thinking    -79.00 29771.00 2017-02-28 01:22:08 
+UsageRecord Charge 20468806     lp_sys  vsc30706 thinking      0.00 29771.00 2017-03-02 14:44:39 
+UsageRecord Charge 20468808     lp_sys  vsc30706 thinking      0.00 29771.00 2017-03-02 14:47:40 
+UsageRecord Charge 20468814     lp_sys  vsc30706 thinking      0.00 29771.00 2017-03-02 14:51:51 
+UsageRecord Charge 20468811     lp_sys  vsc30706 thinking     -1.00 29770.00 2017-03-02 14:54:32 
+UsageRecord Charge 20468781     lp_sys  vsc30706 thinking      0.00 29770.00 2017-03-02 15:38:58 
+UsageRecord Charge 20468851     lp_sys  vsc30706 thinking     -4.00 29766.00 2017-03-02 16:05:21 
+UsageRecord Charge 20468850     lp_sys  vsc30706 thinking     -4.00 29762.00 2017-03-02 16:05:21 
+UsageRecord Charge 20468852     lp_sys  vsc30706 thinking     -4.00 29758.00 2017-03-02 16:05:22 
+UsageRecord Charge 20469053     lp_sys  vsc30706 thinking      0.00 29758.00 2017-03-03 00:37:34 
+UsageRecord Charge 20469054     lp_sys  vsc30706 thinking      0.00 29758.00 2017-03-03 00:37:35 
+UsageRecord Charge 20469057     lp_sys  vsc30706 thinking     -1.00 29757.00 2017-03-03 00:51:15 
+UsageRecord Charge 30022681     lp_sys  vsc30706 cerebro      -5.00 29752.00 2017-03-08 22:59:35 
+UsageRecord Charge 30022682     lp_sys  vsc30706 cerebro  -11437.00 18315.00 2017-03-11 23:03:58 
+UsageRecord Charge 30022683     lp_sys  vsc30706 cerebro       0.00 18315.00 2017-03-11 23:07:02 
+UsageRecord Charge 20474772     lp_sys  vsc30484 thinking      0.00 18315.00 2017-03-15 12:37:53 
+UsageRecord Charge 20474779     lp_sys  vsc30484 thinking      0.00 18315.00 2017-03-15 12:46:16 
+UsageRecord Charge 20474790     lp_sys  vsc30484 thinking      0.00 18315.00 2017-03-15 13:08:16 
+UsageRecord Charge 20474807     lp_sys  vsc30484 thinking     -1.00 18314.00 2017-03-15 13:56:04 
+UsageRecord Charge 20474809     lp_sys  vsc30484 thinking      0.00 18314.00 2017-03-15 13:57:15 
+UsageRecord Charge 20474821     lp_sys  vsc30484 thinking      0.00 18314.00 2017-03-15 13:58:26 
+UsageRecord Charge 30022834     lp_sys  vsc30484 cerebro       0.00 18314.00 2017-03-20 13:56:23 
+UsageRecord Charge 30022833     lp_sys  vsc30484 cerebro     -11.00 18303.00 2017-03-20 15:12:55 
+UsageRecord Charge 20478038     lp_sys  vsc30706 thinking      0.00 18303.00 2017-03-21 11:16:31 
+UsageRecord Charge 20478027     lp_sys  vsc30706 thinking      0.00 18303.00 2017-03-21 11:17:48 
+UsageRecord Charge 20478036     lp_sys  vsc30706 thinking      0.00 18303.00 2017-03-21 11:19:00 
+UsageRecord Charge 20478048     lp_sys  vsc30706 thinking     -1.00 18302.00 2017-03-21 11:23:58 
+UsageRecord Charge 20478051     lp_sys  vsc30706 thinking      0.00 18302.00 2017-03-21 11:31:33 
+UsageRecord Charge 20478070     lp_sys  vsc30706 thinking      0.00 18302.00 2017-03-21 11:41:33 
+UsageRecord Charge 20478072     lp_sys  vsc30706 thinking      0.00 18302.00 2017-03-21 11:58:30 
+UsageRecord Charge 20478107     lp_sys  vsc30706 thinking      0.00 18302.00 2017-03-21 12:25:26 
+UsageRecord Charge 20478110     lp_sys  vsc30706 thinking      0.00 18302.00 2017-03-21 12:27:52 
+UsageRecord Charge 20478205     lp_sys  vsc30706 thinking     -1.00 18301.00 2017-03-21 14:16:01 
+UsageRecord Charge 20478210     lp_sys  vsc30706 thinking     -2.00 18299.00 2017-03-21 14:32:32 
+UsageRecord Charge 20478220     lp_sys  vsc30706 thinking     -3.00 18296.00 2017-03-21 14:47:12 
+UsageRecord Charge 20478845     lp_sys  vsc30706 thinking      0.00 18296.00 2017-03-22 12:26:13 
+UsageRecord Charge 20478892     lp_sys  vsc30706 thinking      0.00 18296.00 2017-03-22 14:20:07 
+UsageRecord Charge 20478900     lp_sys  vsc30706 thinking      0.00 18296.00 2017-03-22 15:17:56 
+UsageRecord Charge 20478937     lp_sys  vsc30706 thinking      0.00 18296.00 2017-03-22 15:41:22 
+UsageRecord Charge 20478938     lp_sys  vsc30706 thinking     -1.00 18295.00 2017-03-22 15:58:21 
+UsageRecord Charge 20479216     lp_sys  vsc30484 thinking  -1144.00 17151.00 2017-03-24 11:40:18 
+UsageRecord Charge 20479211     lp_sys  vsc30484 thinking  -3207.00 13944.00 2017-03-24 12:01:08 
+UsageRecord Charge 20479218     lp_sys  vsc30484 thinking   -572.00 13372.00 2017-03-24 12:35:30 
+UsageRecord Charge 20479221     lp_sys  vsc30484 thinking  -1144.00 12228.00 2017-03-24 12:36:42 
+UsageRecord Charge 20479222     lp_sys  vsc30484 thinking   -572.00 11656.00 2017-03-24 15:27:54 
+UsageRecord Charge 20479714     lp_sys  vsc30706 thinking      0.00 11656.00 2017-03-24 15:27:54 
+UsageRecord Charge 20479715     lp_sys  vsc30706 thinking     -1.00 11655.00 2017-03-24 15:29:06 
+UsageRecord Charge 20479750     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-24 15:46:59 
+UsageRecord Charge 20479748     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-24 15:53:00 
+UsageRecord Charge 20480943     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 10:58:44 
+UsageRecord Charge 20480956     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 11:15:29 
+UsageRecord Charge 20480945     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 11:17:53 
+UsageRecord Charge 20480959     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 11:20:16 
+UsageRecord Charge 20480978     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 11:36:18 
+UsageRecord Charge 20481009     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 12:39:57 
+UsageRecord Charge 20481110     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 14:45:09 
+UsageRecord Charge 20481130     lp_sys  vsc30706 thinking      0.00 11655.00 2017-03-27 15:18:09 
+UsageRecord Charge 20481647     lp_sys  vsc30484 thinking     -1.00 11654.00 2017-03-28 10:50:09 
+UsageRecord Charge 20481660     lp_sys  vsc30484 thinking     -1.00 11653.00 2017-03-28 11:08:11 
+UsageRecord Charge 20481685     lp_sys  vsc30484 thinking      0.00 11653.00 2017-03-28 11:35:21 
+UsageRecord Charge 20481690     lp_sys  vsc30484 thinking     -1.00 11652.00 2017-03-28 11:46:35 
+UsageRecord Charge 20481742     lp_sys  vsc30484 thinking      0.00 11652.00 2017-03-28 12:24:18 
+UsageRecord Charge 20482272     lp_sys  vsc30484 thinking     -4.00 11648.00 2017-03-29 12:20:01 
+UsageRecord Charge 20483241     lp_sys  vsc30706 thinking      0.00 11648.00 2017-03-30 15:21:44 
+UsageRecord Charge 20483051     lp_sys  vsc30706 thinking     -4.00 11644.00 2017-03-30 15:43:12 
+UsageRecord Charge 20483247     lp_sys  vsc30706 thinking     -1.00 11643.00 2017-03-30 15:43:12 
+UsageRecord Charge 20483339     lp_sys  vsc30706 thinking      0.00 11643.00 2017-03-30 17:18:35 
+UsageRecord Charge 20483342     lp_sys  vsc30706 thinking     -1.00 11642.00 2017-03-30 17:22:17 
+UsageRecord Charge 20483257     lp_sys  vsc30706 thinking   -408.00 11234.00 2017-03-31 22:17:18 
+UsageRecord Charge 20483237     lp_sys  vsc30706 thinking   -302.00 10932.00 2017-04-02 05:55:53 
+UsageRecord Charge 20483259     lp_sys  vsc30706 thinking   -962.00  9970.00 2017-04-02 16:11:55 
+UsageRecord Charge 30022945     lp_sys  vsc30484 cerebro      -1.00  9969.00 2017-04-03 12:44:43 
+UsageRecord Charge 30022946     lp_sys  vsc30484 cerebro      -1.00  9968.00 2017-04-03 13:01:03 
+UsageRecord Charge 30022949     lp_sys  vsc30484 cerebro      -1.00  9967.00 2017-04-03 13:59:24 
+UsageRecord Charge 20485317     lp_sys  vsc30484 thinking      0.00  9967.00 2017-04-03 14:58:04 
+UsageRecord Charge 20485327     lp_sys  vsc30484 thinking      0.00  9967.00 2017-04-03 15:16:48 
+UsageRecord Charge 20485336     lp_sys  vsc30484 thinking      0.00  9967.00 2017-04-03 15:30:01 
+UsageRecord Charge 20485339     lp_sys  vsc30484 thinking     -6.00  9961.00 2017-04-03 15:55:03 
+UsageRecord Charge 20485667     lp_sys  vsc30484 thinking     -1.00  9960.00 2017-04-04 08:49:27 
+UsageRecord Charge 20485669     lp_sys  vsc30484 thinking      0.00  9960.00 2017-04-04 09:00:17 
+UsageRecord Charge 20485893     lp_sys  vsc30484 thinking     -4.00  9956.00 2017-04-04 12:35:48 
+UsageRecord Charge 20485972     lp_sys  vsc30484 thinking     -3.00  9953.00 2017-04-04 13:04:25 
+UsageRecord Charge 20485289     lp_sys  vsc30706 thinking   -349.00  9604.00 2017-04-04 16:26:02 
+UsageRecord Charge 20486310     lp_sys  vsc30484 thinking     -1.00  9603.00 2017-04-04 19:18:41 
+UsageRecord Charge 20486350     lp_sys  vsc30484 thinking     -1.00  9602.00 2017-04-04 20:04:53 
+UsageRecord Charge 20485292     lp_sys  vsc30706 thinking   -291.00  9311.00 2017-04-05 12:45:14 
+UsageRecord Charge 20487703     lp_sys  vsc30484 thinking     -1.00  9310.00 2017-04-06 08:09:23 
+UsageRecord Charge 20487848     lp_sys  vsc30484 thinking     -2.00  9308.00 2017-04-06 09:40:39 
+UsageRecord Charge 20487866     lp_sys  vsc30484 thinking     -4.00  9304.00 2017-04-06 09:55:02 
+UsageRecord Charge 20488219     lp_sys  vsc30484 thinking     -3.00  9301.00 2017-04-06 13:51:56 
+UsageRecord Charge 20488224     lp_sys  vsc30484 thinking     -2.00  9299.00 2017-04-06 14:00:58 
+UsageRecord Charge 20488235     lp_sys  vsc30484 thinking     -3.00  9296.00 2017-04-06 14:15:05 
+UsageRecord Charge 20488239     lp_sys  vsc30484 thinking     -1.00  9295.00 2017-04-06 14:33:39 
+UsageRecord Charge 20488266     lp_sys  vsc30484 thinking     -6.00  9289.00 2017-04-06 15:37:51 
+UsageRecord Charge 20488307     lp_sys  vsc30484 thinking     -1.00  9288.00 2017-04-06 16:04:13 
+UsageRecord Charge 30022996     lp_sys  vsc30484 cerebro      -4.00  9284.00 2017-04-07 09:39:13 
+UsageRecord Charge 20488953     lp_sys  vsc30484 thinking     -1.00  9283.00 2017-04-07 10:11:16 
+UsageRecord Charge 20488927     lp_sys  vsc30484 thinking     -7.00  9276.00 2017-04-07 11:24:26 
+UsageRecord Charge 20489329     lp_sys  vsc30484 thinking      0.00  9276.00 2017-04-07 13:24:54 
+UsageRecord Charge 20492257     lp_sys  vsc30484 thinking    -16.00  9260.00 2017-04-10 12:44:58 
+UsageRecord Charge 20492289     lp_sys  vsc30484 thinking     -3.00  9257.00 2017-04-10 12:54:00 
+UsageRecord Charge 20492290     lp_sys  vsc30484 thinking     -1.00  9256.00 2017-04-10 12:56:43 
+UsageRecord Charge 20492302     lp_sys  vsc30484 thinking     -1.00  9255.00 2017-04-10 13:17:46 
+UsageRecord Charge 20492307     lp_sys  vsc30484 thinking     -1.00  9254.00 2017-04-10 13:30:41 
+UsageRecord Charge 20492316     lp_sys  vsc30484 thinking     -1.00  9253.00 2017-04-10 13:42:55 
+UsageRecord Charge 20492319     lp_sys  vsc30484 thinking     -1.00  9252.00 2017-04-10 13:49:36 
+UsageRecord Charge 20492324     lp_sys  vsc30484 thinking    -13.00  9239.00 2017-04-10 14:26:29 
+UsageRecord Charge 20492388     lp_sys  vsc30484 thinking     -2.00  9237.00 2017-04-10 15:20:41 
+UsageRecord Charge 20492395     lp_sys  vsc30484 thinking     -4.00  9233.00 2017-04-10 15:55:14 
+UsageRecord Charge 20492419     lp_sys  vsc30484 thinking     -2.00  9231.00 2017-04-10 15:59:58 
+UsageRecord Charge 20492430     lp_sys  vsc30484 thinking     -9.00  9222.00 2017-04-10 16:51:22 
+UsageRecord Charge 20492749     lp_sys  vsc30484 thinking     -3.00  9219.00 2017-04-11 08:44:36 
+UsageRecord Charge 20492777     lp_sys  vsc30484 thinking    -11.00  9208.00 2017-04-11 09:02:13 
+UsageRecord Charge 20492787     lp_sys  vsc30484 thinking    -23.00  9185.00 2017-04-11 09:30:42 
+UsageRecord Charge 20492819     lp_sys  vsc30484 thinking     -7.00  9178.00 2017-04-11 09:46:32 
+UsageRecord Charge 20492907     lp_sys  vsc30484 thinking    -23.00  9155.00 2017-04-11 11:04:51 
+UsageRecord Charge 20492953     lp_sys  vsc30484 thinking   -158.00  8997.00 2017-04-11 13:51:16 
+UsageRecord Charge 20493062     lp_sys  vsc30484 thinking   -147.00  8850.00 2017-04-11 16:06:14 
+UsageRecord Charge 20493129     lp_sys  vsc30484 thinking     -1.00  8849.00 2017-04-11 16:48:54 
+UsageRecord Charge 20493132     lp_sys  vsc30484 thinking     -3.00  8846.00 2017-04-11 17:05:03 
+UsageRecord Charge 20493133     lp_sys  vsc30484 thinking     -3.00  8843.00 2017-04-11 17:06:14 
+UsageRecord Charge 20493135     lp_sys  vsc30484 thinking     -3.00  8840.00 2017-04-11 17:07:26 
+UsageRecord Charge 20493161     lp_sys  vsc30484 thinking     -3.00  8837.00 2017-04-11 17:08:37 
+UsageRecord Charge 20493489     lp_sys  vsc30484 thinking     -1.00  8836.00 2017-04-12 09:00:15 
+UsageRecord Charge 20493517     lp_sys  vsc30484 thinking     -2.00  8834.00 2017-04-12 09:49:14 
+UsageRecord Charge 20493522     lp_sys  vsc30484 thinking    -18.00  8816.00 2017-04-12 10:12:35 
+UsageRecord Charge 20493531     lp_sys  vsc30484 thinking     -2.00  8814.00 2017-04-12 10:18:04 
+UsageRecord Charge 20493495     lp_sys  vsc30484 thinking   -123.00  8691.00 2017-04-12 10:19:14 
+UsageRecord Charge 20493542     lp_sys  vsc30484 thinking    -92.00  8599.00 2017-04-12 11:21:49 
+UsageRecord Charge 20493582     lp_sys  vsc30484 thinking     -3.00  8596.00 2017-04-12 11:28:28 
+UsageRecord Charge 20493584     lp_sys  vsc30484 thinking     -3.00  8593.00 2017-04-12 11:34:28 
+UsageRecord Charge 20493591     lp_sys  vsc30484 thinking    -49.00  8544.00 2017-04-12 12:27:53 
+UsageRecord Charge 20493659     lp_sys  vsc30484 thinking    -15.00  8529.00 2017-04-12 13:00:52 
+UsageRecord Charge 20493660     lp_sys  vsc30484 thinking    -11.00  8518.00 2017-04-12 13:03:20 
+UsageRecord Charge 20493694     lp_sys  vsc30484 thinking    -11.00  8507.00 2017-04-12 13:58:30 
+UsageRecord Charge 20493653     lp_sys  vsc30484 thinking   -264.00  8243.00 2017-04-12 16:24:09 
+UsageRecord Charge 20493827     lp_sys  vsc30484 thinking   -201.00  8042.00 2017-04-12 22:09:32 
+UsageRecord Charge 30023021     lp_sys  vsc30484 cerebro      -5.00  8037.00 2017-04-13 09:25:20 
+UsageRecord Charge 20494187     lp_sys  vsc30484 thinking    -66.00  7971.00 2017-04-13 09:49:35 
+UsageRecord Charge 20494236     lp_sys  vsc30484 thinking    -55.00  7916.00 2017-04-13 11:34:39 
+UsageRecord Charge 20494269     lp_sys  vsc30484 thinking   -254.00  7662.00 2017-04-13 15:59:32 
+UsageRecord Charge 20494238     lp_sys  vsc30484 thinking   -270.00  7392.00 2017-04-14 03:36:23 
+UsageRecord Charge 20494830     lp_sys  vsc30484 thinking     -8.00  7384.00 2017-04-14 09:01:26 
+UsageRecord Charge 20494856     lp_sys  vsc30484 thinking    -15.00  7369.00 2017-04-14 09:36:09 
+UsageRecord Charge 20494889     lp_sys  vsc30484 thinking    -15.00  7354.00 2017-04-14 09:55:21 
+UsageRecord Charge 20494926     lp_sys  vsc30484 thinking     -8.00  7346.00 2017-04-14 10:11:19 
+UsageRecord Charge 20494982     lp_sys  vsc30484 thinking     -1.00  7345.00 2017-04-14 10:39:23 
+UsageRecord Charge 20495016     lp_sys  vsc30484 thinking     -8.00  7337.00 2017-04-14 11:21:29 
+UsageRecord Charge 20495052     lp_sys  vsc30484 thinking    -69.00  7268.00 2017-04-14 14:18:22 
+UsageRecord Charge 20516136     lp_sys  vsc30484 thinking     -0.48  7267.52 2017-05-10 15:40:19 
+UsageRecord Charge 20515145     lp_sys  vsc30484 thinking     -0.67  7266.85 2017-05-11 10:11:20 
+UsageRecord Charge 20514896     lp_sys  vsc30484 thinking    -33.28  7233.57 2017-05-12 08:49:54 
+UsageRecord Charge 20517335     lp_sys  vsc30484 thinking     -1.73  7231.84 2017-05-12 11:43:43 
+UsageRecord Charge 20517398     lp_sys  vsc30484 thinking     -1.21  7230.63 2017-05-12 12:06:32 
+UsageRecord Charge 20518949     lp_sys  vsc30484 thinking     -0.11  7230.52 2017-05-15 08:40:27 
+UsageRecord Charge 20518994     lp_sys  vsc30484 thinking     -0.35  7230.17 2017-05-15 10:38:17 
+UsageRecord Charge 30023441     lp_sys  vsc30484 cerebro      -5.97  7224.20 2017-05-15 14:17:30 
+UsageRecord Charge 20519172     lp_sys  vsc30484 thinking     -1.36  7222.84 2017-05-15 15:38:57 
+UsageRecord Charge 20519492     lp_sys  vsc30484 thinking     -1.42  7221.42 2017-05-16 11:02:10 
+UsageRecord Charge 20519437     lp_sys  vsc30484 thinking     -1.79  7219.63 2017-05-16 12:08:29 
+UsageRecord Charge 20519571     lp_sys  vsc30484 thinking     -1.15  7218.48 2017-05-16 12:35:25 
+UsageRecord Charge 20519443     lp_sys  vsc30484 thinking     -0.58  7217.90 2017-05-16 12:54:45 
+UsageRecord Charge 20519462     lp_sys  vsc30484 thinking     -0.34  7217.56 2017-05-16 12:58:58 
+UsageRecord Charge 20519452     lp_sys  vsc30484 thinking     -0.34  7217.22 2017-05-16 13:51:35 
+UsageRecord Charge 20520110     lp_sys  vsc30484 thinking    -29.27  7187.95 2017-05-17 14:41:50 
+UsageRecord Charge 20520683     lp_sys  vsc30484 thinking     -6.79  7181.16 2017-05-18 09:58:41 
+UsageRecord Charge 20520960     lp_sys  vsc30484 thinking    -91.22  7089.94 2017-05-19 11:14:36 
+UsageRecord Charge 20520749     lp_sys  vsc30484 thinking   -480.80  6609.14 2017-05-21 10:52:23 
+UsageRecord Charge 20522939     lp_sys  vsc30484 thinking    -48.22  6560.92 2017-05-22 18:09:36 
+UsageRecord Charge 20536784     lp_sys  vsc30484 thinking     -0.08  6560.84 2017-06-13 08:32:34 
+UsageRecord Charge 20536792     lp_sys  vsc30484 thinking     -0.08  6560.76 2017-06-13 09:00:36 
+UsageRecord Charge 20536794     lp_sys  vsc30484 thinking     -0.08  6560.68 2017-06-13 09:05:11 
+UsageRecord Charge 20536921     lp_sys  vsc30484 thinking     -0.16  6560.52 2017-06-13 12:17:07 
+UsageRecord Charge 20537580     lp_sys  vsc30484 thinking     -0.04  6560.48 2017-06-14 09:30:22 
+UsageRecord Charge 20537610     lp_sys  vsc30484 thinking     -0.23  6560.25 2017-06-14 10:14:21 
+UsageRecord Charge 20537665     lp_sys  vsc30484 thinking     -0.08  6560.17 2017-06-14 11:19:40 
+UsageRecord Charge 20537668     lp_sys  vsc30484 thinking     -0.04  6560.13 2017-06-14 11:23:17 
+UsageRecord Charge 20537675     lp_sys  vsc30484 thinking     -0.04  6560.09 2017-06-14 11:26:56 
+UsageRecord Charge 20537767     lp_sys  vsc30484 thinking     -0.04  6560.05 2017-06-14 13:06:41 
+UsageRecord Charge 20537770     lp_sys  vsc30484 thinking     -0.08  6559.97 2017-06-14 13:14:22 
+UsageRecord Charge 20537777     lp_sys  vsc30484 thinking     -0.08  6559.89 2017-06-14 13:22:09 
+UsageRecord Charge 20537789     lp_sys  vsc30484 thinking     -0.04  6559.85 2017-06-14 13:35:33 
+UsageRecord Charge 20537790     lp_sys  vsc30484 thinking     -0.08  6559.77 2017-06-14 13:37:05 
+UsageRecord Charge 20537796     lp_sys  vsc30484 thinking     -0.04  6559.73 2017-06-14 13:44:51 
+UsageRecord Charge 20537806     lp_sys  vsc30484 thinking     -0.04  6559.69 2017-06-14 13:51:32 
+UsageRecord Charge 20537809     lp_sys  vsc30484 thinking     -0.08  6559.61 2017-06-14 13:55:39 
+UsageRecord Charge 20537811     lp_sys  vsc30484 thinking     -0.04  6559.57 2017-06-14 13:57:43 
+UsageRecord Charge 20537816     lp_sys  vsc30484 thinking     -0.16  6559.41 2017-06-14 14:05:56 
+UsageRecord Charge 20537823     lp_sys  vsc30484 thinking     -0.16  6559.25 2017-06-14 14:12:03 
+UsageRecord Charge 20537825     lp_sys  vsc30484 thinking     -0.07  6559.18 2017-06-14 14:13:36 
+UsageRecord Charge 20537831     lp_sys  vsc30484 thinking     -0.16  6559.02 2017-06-14 14:19:13 
+UsageRecord Charge 20537835     lp_sys  vsc30484 thinking     -0.08  6558.94 2017-06-14 14:21:48 
+UsageRecord Charge 20537841     lp_sys  vsc30484 thinking     -0.08  6558.86 2017-06-14 14:26:56 
+UsageRecord Charge 30024128     lp_sys  vsc30484 cerebro      -1.08  6557.78 2017-06-15 15:28:04 
+UsageRecord Charge 30024129     lp_sys  vsc30484 cerebro      -1.72  6556.06 2017-06-15 15:28:04 
+UsageRecord Charge 30024130     lp_sys  vsc30484 cerebro      -1.19  6554.87 2017-06-15 15:32:13 
+UsageRecord Charge 20538953     lp_sys  vsc30484 thinking     -0.08  6554.79 2017-06-16 09:45:40 
+UsageRecord Charge 20538994     lp_sys  vsc30484 thinking     -0.16  6554.63 2017-06-16 10:29:55 
+UsageRecord Charge 20539149     lp_sys  vsc30484 thinking     -0.04  6554.59 2017-06-16 13:43:34 
+UsageRecord Charge 20539898     lp_sys  vsc30484 thinking     -0.08  6554.51 2017-06-19 10:20:36 
+UsageRecord Charge 20539903     lp_sys  vsc30484 thinking     -0.08  6554.43 2017-06-19 10:29:18 
+UsageRecord Charge 20539907     lp_sys  vsc30484 thinking     -0.08  6554.35 2017-06-19 10:32:54 
+UsageRecord Charge 20539933     lp_sys  vsc30484 thinking     -0.08  6554.27 2017-06-19 11:15:48 
+UsageRecord Charge 20539934     lp_sys  vsc30484 thinking     -0.08  6554.19 2017-06-19 11:18:21 
+UsageRecord Charge 20539935     lp_sys  vsc30484 thinking     -0.08  6554.11 2017-06-19 11:22:57 
+UsageRecord Charge 20539950     lp_sys  vsc30484 thinking     -0.04  6554.07 2017-06-19 11:34:46 
+UsageRecord Charge 20539953     lp_sys  vsc30484 thinking     -0.08  6553.99 2017-06-19 11:38:20 
+UsageRecord Charge 20539970     lp_sys  vsc30484 thinking     -0.08  6553.91 2017-06-19 12:11:02 
+UsageRecord Charge 20539974     lp_sys  vsc30484 thinking     -0.04  6553.87 2017-06-19 12:33:28 
+UsageRecord Charge 20540056     lp_sys  vsc30484 thinking     -0.04  6553.83 2017-06-19 12:43:10 
+UsageRecord Charge 20540058     lp_sys  vsc30484 thinking     -0.04  6553.79 2017-06-19 12:57:07 
+UsageRecord Charge 20540060     lp_sys  vsc30484 thinking     -0.04  6553.75 2017-06-19 12:58:40 
+UsageRecord Charge 20540062     lp_sys  vsc30484 thinking     -0.08  6553.67 2017-06-19 13:08:30 
+UsageRecord Charge 20540071     lp_sys  vsc30484 thinking     -0.04  6553.63 2017-06-19 13:29:12 
+UsageRecord Charge 20540074     lp_sys  vsc30484 thinking     -0.04  6553.59 2017-06-19 13:32:19 
+UsageRecord Charge 20540087     lp_sys  vsc30484 thinking     -0.04  6553.55 2017-06-19 13:43:45 
+UsageRecord Charge 20540103     lp_sys  vsc30484 thinking     -0.04  6553.51 2017-06-19 14:08:05 
+UsageRecord Charge 20540120     lp_sys  vsc30484 thinking     -0.04  6553.47 2017-06-19 14:30:26 
+UsageRecord Charge 20540126     lp_sys  vsc30484 thinking     -0.04  6553.43 2017-06-19 14:44:56 
+UsageRecord Charge 20540127     lp_sys  vsc30484 thinking     -0.04  6553.39 2017-06-19 14:52:42 
+UsageRecord Charge 20540130     lp_sys  vsc30484 thinking     -0.04  6553.35 2017-06-19 14:58:56 
+UsageRecord Charge 20540134     lp_sys  vsc30484 thinking     -0.04  6553.31 2017-06-19 15:02:03 
+UsageRecord Charge 20540138     lp_sys  vsc30484 thinking     -0.04  6553.27 2017-06-19 15:08:17 
+UsageRecord Charge 20540149     lp_sys  vsc30484 thinking     -0.04  6553.23 2017-06-19 15:19:13 
+UsageRecord Charge 20540662     lp_sys  vsc30484 thinking     -0.12  6553.11 2017-06-20 10:03:59 
+UsageRecord Charge 20540675     lp_sys  vsc30484 thinking     -0.04  6553.07 2017-06-20 10:18:32 
+UsageRecord Charge 20540681     lp_sys  vsc30484 thinking     -0.04  6553.03 2017-06-20 10:28:24 
+UsageRecord Charge 20540690     lp_sys  vsc30484 thinking     -0.06  6552.97 2017-06-20 10:35:40 
+UsageRecord Charge 20540723     lp_sys  vsc30484 thinking     -0.04  6552.93 2017-06-20 10:58:40 
+UsageRecord Charge 20540746     lp_sys  vsc30484 thinking     -0.04  6552.89 2017-06-20 11:25:13 
+UsageRecord Charge 20540762     lp_sys  vsc30484 thinking     -0.04  6552.85 2017-06-20 11:48:36 
+UsageRecord Charge 20540765     lp_sys  vsc30484 thinking     -0.04  6552.81 2017-06-20 11:52:15 
+UsageRecord Charge 20540771     lp_sys  vsc30484 thinking     -0.04  6552.77 2017-06-20 11:58:29 
+UsageRecord Charge 20540779     lp_sys  vsc30484 thinking     -0.04  6552.73 2017-06-20 12:06:17 
+UsageRecord Charge 20540780     lp_sys  vsc30484 thinking     -0.04  6552.69 2017-06-20 12:12:29 
+UsageRecord Charge 20540791     lp_sys  vsc30484 thinking     -0.04  6552.65 2017-06-20 12:20:20 
+UsageRecord Charge 20540800     lp_sys  vsc30484 thinking     -0.04  6552.61 2017-06-20 12:25:35 
+UsageRecord Charge 20540811     lp_sys  vsc30484 thinking     -0.04  6552.57 2017-06-20 12:30:19 
+UsageRecord Charge 20540813     lp_sys  vsc30484 thinking     -0.04  6552.53 2017-06-20 12:33:57 
+UsageRecord Charge 20540816     lp_sys  vsc30484 thinking     -0.35  6552.18 2017-06-20 12:39:39 
+UsageRecord Charge 20540831     lp_sys  vsc30484 thinking     -0.35  6551.83 2017-06-20 12:48:02 
+UsageRecord Charge 20540872     lp_sys  vsc30484 thinking     -0.62  6551.21 2017-06-20 13:21:55 
+UsageRecord Charge 20540882     lp_sys  vsc30484 thinking     -1.74  6549.47 2017-06-20 13:28:42 
+UsageRecord Charge 20540894     lp_sys  vsc30484 thinking     -1.72  6547.75 2017-06-20 13:41:11 
+UsageRecord Charge 20540900     lp_sys  vsc30484 thinking     -1.72  6546.03 2017-06-20 13:52:33 
+UsageRecord Charge 20540905     lp_sys  vsc30484 thinking     -0.24  6545.79 2017-06-20 14:00:53 
+UsageRecord Charge 20540912     lp_sys  vsc30484 thinking     -0.23  6545.56 2017-06-20 14:03:30 
+UsageRecord Charge 20540918     lp_sys  vsc30484 thinking     -0.36  6545.20 2017-06-20 14:12:21 
+UsageRecord Charge 20540921     lp_sys  vsc30484 thinking     -0.52  6544.68 2017-06-20 14:17:00 
+UsageRecord Charge 20540924     lp_sys  vsc30484 thinking     -0.47  6544.21 2017-06-20 14:25:49 
+UsageRecord Charge 20540927     lp_sys  vsc30484 thinking     -0.47  6543.74 2017-06-20 14:28:56 
+UsageRecord Charge 20540930     lp_sys  vsc30484 thinking     -3.47  6540.27 2017-06-20 14:36:11 
+UsageRecord Charge 20540945     lp_sys  vsc30484 thinking     -0.23  6540.04 2017-06-20 14:57:00 
+UsageRecord Charge 20540966     lp_sys  vsc30484 thinking     -0.23  6539.81 2017-06-20 15:22:28 
+UsageRecord Charge 20540971     lp_sys  vsc30484 thinking     -0.58  6539.23 2017-06-20 15:25:05 
+UsageRecord Charge 20540975     lp_sys  vsc30484 thinking     -0.86  6538.37 2017-06-20 15:31:48 
+UsageRecord Charge 20540987     lp_sys  vsc30484 thinking     -0.23  6538.14 2017-06-20 15:43:14 
+UsageRecord Charge 20540990     lp_sys  vsc30484 thinking     -0.23  6537.91 2017-06-20 15:48:25 
+UsageRecord Charge 20540994     lp_sys  vsc30484 thinking     -0.46  6537.45 2017-06-20 15:54:06 
+UsageRecord Charge 20540999     lp_sys  vsc30484 thinking     -0.69  6536.76 2017-06-20 16:05:28 
+UsageRecord Charge 20541069     lp_sys  vsc30706 thinking     -0.59  6536.17 2017-06-20 17:14:02 
+UsageRecord Charge 20541070     lp_sys  vsc30706 thinking     -1.76  6534.41 2017-06-20 17:16:39 
+UsageRecord Charge 20541517     lp_sys  vsc30706 thinking     -1.40  6533.01 2017-06-21 11:36:17 
+UsageRecord Charge 20541518     lp_sys  vsc30706 thinking     -0.93  6532.08 2017-06-21 11:38:24 
+UsageRecord Charge 20541520     lp_sys  vsc30706 thinking     -0.53  6531.55 2017-06-21 11:38:55 
+UsageRecord Charge 20541519     lp_sys  vsc30706 thinking     -0.59  6530.96 2017-06-21 11:38:55 
+UsageRecord Charge 30024152     lp_sys  vsc30706 cerebro      -4.08  6526.88 2017-06-21 12:04:33 
+UsageRecord Charge 30024153     lp_sys  vsc30706 cerebro      -2.53  6524.35 2017-06-21 12:06:45 
+UsageRecord Charge 30024155     lp_sys  vsc30706 cerebro      -4.14  6520.21 2017-06-21 12:13:33 
+UsageRecord Charge 30024154     lp_sys  vsc30706 cerebro      -8.69  6511.52 2017-06-21 12:16:11 
+UsageRecord Charge 30024157     lp_sys  vsc30706 cerebro      -2.68  6508.84 2017-06-21 12:16:11 
+UsageRecord Charge 30024158     lp_sys  vsc30706 cerebro      -1.71  6507.13 2017-06-21 12:17:14 
+UsageRecord Charge 30024156     lp_sys  vsc30706 cerebro      -1.99  6505.14 2017-06-21 12:19:19 
+UsageRecord Charge 30024159     lp_sys  vsc30706 cerebro      -1.07  6504.07 2017-06-21 12:20:52 
+UsageRecord Charge 20541554     lp_sys  vsc30484 thinking     -0.70  6503.37 2017-06-21 12:47:27 
+UsageRecord Charge 30024160     lp_sys  vsc30706 cerebro     -58.77  6444.60 2017-06-21 13:18:10 
+UsageRecord Charge 30024161     lp_sys  vsc30706 cerebro      -0.65  6443.95 2017-06-21 13:19:15 
+UsageRecord Charge 30024162     lp_sys  vsc30706 cerebro     -36.46  6407.49 2017-06-21 13:56:09 
+UsageRecord Charge 30024163     lp_sys  vsc30706 cerebro      -3.64  6403.85 2017-06-21 13:59:19 
+UsageRecord Charge 30024164     lp_sys  vsc30706 cerebro      -6.08  6397.77 2017-06-21 14:10:29 
+UsageRecord Charge 30024165     lp_sys  vsc30706 cerebro      -3.13  6394.64 2017-06-21 14:13:12 
+UsageRecord Charge 30024170     lp_sys  vsc30706 cerebro      -0.75  6393.89 2017-06-21 14:13:44 
+UsageRecord Charge 30024167     lp_sys  vsc30706 cerebro      -1.50  6392.39 2017-06-21 14:13:44 
+UsageRecord Charge 30024169     lp_sys  vsc30706 cerebro      -1.11  6391.28 2017-06-21 14:15:19 
+UsageRecord Charge 30024166     lp_sys  vsc30706 cerebro      -2.90  6388.38 2017-06-21 14:16:21 
+UsageRecord Charge 30024168     lp_sys  vsc30706 cerebro      -1.13  6387.25 2017-06-21 14:17:01 
+UsageRecord Charge 30024171     lp_sys  vsc30706 cerebro      -0.60  6386.65 2017-06-21 14:17:32 
+UsageRecord Charge 20541780     lp_sys  vsc30484 thinking     -0.82  6385.83 2017-06-21 15:19:40 
+UsageRecord Charge 20541792     lp_sys  vsc30484 thinking     -0.23  6385.60 2017-06-21 15:28:29 
+UsageRecord Charge 20541802     lp_sys  vsc30484 thinking     -0.23  6385.37 2017-06-21 15:37:20 
+UsageRecord Charge 20541842     lp_sys  vsc30484 thinking     -0.23  6385.14 2017-06-21 16:03:28 
+UsageRecord Charge 20541843     lp_sys  vsc30484 thinking     -0.23  6384.91 2017-06-21 16:06:33 
+UsageRecord Charge 20541844     lp_sys  vsc30484 thinking     -0.23  6384.68 2017-06-21 16:11:12 
+UsageRecord Charge 20541847     lp_sys  vsc30484 thinking     -0.46  6384.22 2017-06-21 16:16:24 
+UsageRecord Charge 20541516     lp_sys  vsc30706 thinking     -1.85  6382.37 2017-06-22 09:07:07 
+UsageRecord Charge 20541515     lp_sys  vsc30706 thinking     -1.72  6380.65 2017-06-22 09:51:40 
+UsageRecord Charge 20542274     lp_sys  vsc30484 thinking     -0.41  6380.24 2017-06-22 13:35:55 
+UsageRecord Charge 20542287     lp_sys  vsc30484 thinking     -5.67  6374.57 2017-06-22 14:34:59 
+UsageRecord Charge 20542315     lp_sys  vsc30484 thinking    -20.59  6353.98 2017-06-22 16:10:55 
+UsageRecord Charge 30024184     lp_sys  vsc30706 cerebro      -1.57  6352.41 2017-06-23 10:23:51 
+UsageRecord Charge 30024188     lp_sys  vsc30706 cerebro      -0.32  6352.09 2017-06-23 10:24:58 
+UsageRecord Charge 30024186     lp_sys  vsc30706 cerebro      -0.75  6351.34 2017-06-23 10:26:02 
+UsageRecord Charge 30024185     lp_sys  vsc30706 cerebro      -1.01  6350.33 2017-06-23 10:26:02 
+UsageRecord Charge 30024189     lp_sys  vsc30706 cerebro      -0.22  6350.11 2017-06-23 10:26:03 
+UsageRecord Charge 30024187     lp_sys  vsc30706 cerebro      -0.48  6349.63 2017-06-23 10:27:04 
+UsageRecord Charge 30024190     lp_sys  vsc30706 cerebro      -1.07  6348.56 2017-06-23 10:41:11 
+UsageRecord Charge 30024194     lp_sys  vsc30706 cerebro      -0.20  6348.36 2017-06-23 10:41:47 
+UsageRecord Charge 30024191     lp_sys  vsc30706 cerebro      -0.53  6347.83 2017-06-23 10:42:20 
+UsageRecord Charge 30024192     lp_sys  vsc30706 cerebro      -0.40  6347.43 2017-06-23 10:42:20 
+UsageRecord Charge 30024195     lp_sys  vsc30706 cerebro      -0.13  6347.30 2017-06-23 10:42:20 
+UsageRecord Charge 30024193     lp_sys  vsc30706 cerebro      -0.36  6346.94 2017-06-23 10:43:22 
+UsageRecord Charge 30024196     lp_sys  vsc30706 cerebro      -1.46  6345.48 2017-06-23 10:46:32 
+UsageRecord Charge 30024197     lp_sys  vsc30706 cerebro      -0.74  6344.74 2017-06-23 10:48:09 
+UsageRecord Charge 30024198     lp_sys  vsc30706 cerebro      -0.56  6344.18 2017-06-23 10:49:14 
+UsageRecord Charge 30024199     lp_sys  vsc30706 cerebro      -0.37  6343.81 2017-06-23 10:50:16 
+UsageRecord Charge 30024200     lp_sys  vsc30706 cerebro      -0.19  6343.62 2017-06-23 10:51:53 
+UsageRecord Charge 30024201     lp_sys  vsc30706 cerebro      -0.12  6343.50 2017-06-23 10:54:00 
+UsageRecord Charge 30024202     lp_sys  vsc30706 cerebro      -1.95  6341.55 2017-06-23 10:59:50 
+UsageRecord Charge 30024203     lp_sys  vsc30706 cerebro      -0.97  6340.58 2017-06-23 11:01:57 
+UsageRecord Charge 30024204     lp_sys  vsc30706 cerebro      -0.73  6339.85 2017-06-23 11:04:04 
+UsageRecord Charge 30024205     lp_sys  vsc30706 cerebro      -0.49  6339.36 2017-06-23 11:06:12 
+UsageRecord Charge 30024206     lp_sys  vsc30706 cerebro      -0.31  6339.05 2017-06-23 11:08:52 
+UsageRecord Charge 30024207     lp_sys  vsc30706 cerebro      -0.24  6338.81 2017-06-23 11:13:05 
+UsageRecord Charge 30024214     lp_sys  vsc30706 cerebro      -0.62  6338.19 2017-06-23 11:21:59 
+UsageRecord Charge 30024215     lp_sys  vsc30706 cerebro      -1.21  6336.98 2017-06-23 11:25:40 
+UsageRecord Charge 20541514     lp_sys  vsc30706 thinking     -2.09  6334.89 2017-06-23 11:42:22 
+UsageRecord Charge 20541513     lp_sys  vsc30706 thinking     -3.19  6331.70 2017-06-23 22:30:59 
+UsageRecord Charge 20546657     lp_sys  vsc30051 thinking     -0.08  6331.62 2017-06-27 16:37:59 
+UsageRecord Charge 20546658     lp_sys  vsc30051 thinking     -0.08  6331.54 2017-06-27 16:38:00 
+UsageRecord Charge 20546672     lp_sys  vsc30051 thinking     -0.11  6331.43 2017-06-27 17:01:45 
+UsageRecord Charge 20546673     lp_sys  vsc30051 thinking     -0.11  6331.32 2017-06-27 17:01:45 
+UsageRecord Charge 20546995     lp_sys  vsc30051 thinking     -0.08  6331.24 2017-06-28 09:00:34 
+UsageRecord Charge 20546994     lp_sys  vsc30051 thinking     -0.08  6331.16 2017-06-28 09:00:34 
+UsageRecord Charge 20547094     lp_sys  vsc30484 thinking     -0.79  6330.37 2017-06-28 11:34:28 
+UsageRecord Charge 20547138     lp_sys  vsc30484 thinking     -0.82  6329.55 2017-06-28 12:03:18 
+UsageRecord Charge 20547178     lp_sys  vsc30484 thinking     -1.05  6328.50 2017-06-28 12:24:30 
+UsageRecord Charge 20547194     lp_sys  vsc30484 thinking     -1.37  6327.13 2017-06-28 12:39:25 
+UsageRecord Charge 20547197     lp_sys  vsc30484 thinking     -0.99  6326.14 2017-06-28 12:58:51 
+UsageRecord Charge 20547241     lp_sys  vsc30484 thinking     -0.16  6325.98 2017-06-28 13:46:12 
+UsageRecord Charge 20547244     lp_sys  vsc30484 thinking     -0.92  6325.06 2017-06-28 13:56:04 
+UsageRecord Charge 20547248     lp_sys  vsc30484 thinking     -0.82  6324.24 2017-06-28 14:02:46 
+UsageRecord Charge 20547259     lp_sys  vsc30484 thinking     -0.16  6324.08 2017-06-28 14:10:27 
+UsageRecord Charge 20547280     lp_sys  vsc30484 thinking     -0.91  6323.17 2017-06-28 14:32:16 
+UsageRecord Charge 20547284     lp_sys  vsc30484 thinking     -0.89  6322.28 2017-06-28 14:40:27 
+UsageRecord Charge 20547292     lp_sys  vsc30484 thinking     -0.16  6322.12 2017-06-28 14:44:03 
+UsageRecord Charge 20547311     lp_sys  vsc30484 thinking     -0.90  6321.22 2017-06-28 14:59:59 
+UsageRecord Charge 20547330     lp_sys  vsc30484 thinking     -0.45  6320.77 2017-06-28 15:34:00 
+UsageRecord Charge 20547419     lp_sys  vsc30484 thinking     -1.37  6319.40 2017-06-28 16:20:20 
+UsageRecord Charge 20547731     lp_sys  vsc30484 thinking     -0.45  6318.95 2017-06-29 08:46:22 
+UsageRecord Charge 20547738     lp_sys  vsc30484 thinking     -1.46  6317.49 2017-06-29 09:06:12 
+UsageRecord Charge 20547741     lp_sys  vsc30484 thinking     -1.29  6316.20 2017-06-29 09:13:51 
+UsageRecord Charge 20547744     lp_sys  vsc30484 thinking     -1.14  6315.06 2017-06-29 09:22:02 
+UsageRecord Charge 20547757     lp_sys  vsc30484 thinking     -0.32  6314.74 2017-06-29 09:36:22 
+UsageRecord Charge 20547762     lp_sys  vsc30484 thinking     -0.97  6313.77 2017-06-29 09:42:30 
+UsageRecord Charge 20547765     lp_sys  vsc30484 thinking     -0.33  6313.44 2017-06-29 09:49:10 
+UsageRecord Charge 20547794     lp_sys  vsc30051 thinking     -0.08  6313.36 2017-06-29 10:07:15 
+UsageRecord Charge 20547795     lp_sys  vsc30051 thinking     -0.08  6313.28 2017-06-29 10:07:15 
+UsageRecord Charge 20547797     lp_sys  vsc30051 thinking     -0.04  6313.24 2017-06-29 10:09:18 
+UsageRecord Charge 20547796     lp_sys  vsc30051 thinking     -0.04  6313.20 2017-06-29 10:09:18 
+UsageRecord Charge 20547799     lp_sys  vsc30484 thinking     -0.32  6312.88 2017-06-29 10:15:25 
+UsageRecord Charge 20547803     lp_sys  vsc30484 thinking     -0.98  6311.90 2017-06-29 10:23:05 
+UsageRecord Charge 20547822     lp_sys  vsc30484 thinking     -0.66  6311.24 2017-06-29 10:35:26 
+UsageRecord Charge 20547837     lp_sys  vsc30484 thinking     -0.68  6310.56 2017-06-29 10:45:03 
+UsageRecord Charge 20547842     lp_sys  vsc30051 thinking     -0.04  6310.52 2017-06-29 10:59:22 
+UsageRecord Charge 20547843     lp_sys  vsc30051 thinking     -0.04  6310.48 2017-06-29 10:59:22 
+UsageRecord Charge 20547900     lp_sys  vsc30484 thinking     -0.90  6309.58 2017-06-29 12:30:49 
+UsageRecord Charge 20547903     lp_sys  vsc30484 thinking     -0.88  6308.70 2017-06-29 12:36:52 
+UsageRecord Charge 20548494     lp_sys  vsc30051 thinking     -0.17  6308.53 2017-06-30 09:11:41 
+UsageRecord Charge 20548493     lp_sys  vsc30051 thinking     -0.12  6308.41 2017-06-30 09:11:41 
+UsageRecord Charge 20548497     lp_sys  vsc30051 thinking     -0.08  6308.33 2017-06-30 09:26:29 
+UsageRecord Charge 20548523     lp_sys  vsc30051 thinking     -0.06  6308.27 2017-06-30 10:36:54 
+UsageRecord Charge 20548522     lp_sys  vsc30051 thinking     -0.06  6308.21 2017-06-30 10:36:54 
+UsageRecord Charge 20546372     lp_sys  vsc30484 thinking  -1003.92  5304.29 2017-06-30 11:18:45 
+UsageRecord Charge 20548539     lp_sys  vsc30051 thinking     -0.04  5304.25 2017-06-30 11:20:18 
+UsageRecord Charge 20548543     lp_sys  vsc30484 thinking     -2.16  5302.09 2017-06-30 11:36:37 
+UsageRecord Charge 20548559     lp_sys  vsc30051 thinking     -0.04  5302.05 2017-06-30 11:45:24 
+UsageRecord Charge 20548547     lp_sys  vsc30484 thinking     -3.45  5298.60 2017-06-30 11:47:28 
+UsageRecord Charge 20548563     lp_sys  vsc30051 thinking     -0.04  5298.56 2017-06-30 11:57:18 
+UsageRecord Charge 20548586     lp_sys  vsc30051 thinking     -0.04  5298.52 2017-06-30 12:14:24 
+UsageRecord Charge 20548637     lp_sys  vsc30051 thinking     -0.12  5298.40 2017-06-30 14:25:55 
+UsageRecord Charge 20548560     lp_sys  vsc30484 thinking    -65.93  5232.47 2017-06-30 14:35:37 
+UsageRecord Charge 20548643     lp_sys  vsc30706 thinking     -0.23  5232.24 2017-06-30 14:39:11 
+UsageRecord Charge 20548650     lp_sys  vsc30706 thinking     -0.23  5232.01 2017-06-30 14:42:47 
+UsageRecord Charge 20548664     lp_sys  vsc30051 thinking     -0.08  5231.93 2017-06-30 15:23:34 
+UsageRecord Charge 20548689     lp_sys  vsc30051 thinking     -0.08  5231.85 2017-06-30 16:22:50 
+UsageRecord Charge 20548688     lp_sys  vsc30051 thinking     -0.08  5231.77 2017-06-30 16:22:50 
+UsageRecord Charge 20548694     lp_sys  vsc30051 thinking     -0.08  5231.69 2017-06-30 16:32:01 
+UsageRecord Charge 20548695     lp_sys  vsc30051 thinking     -0.08  5231.61 2017-06-30 16:32:01 
+UsageRecord Charge 20548701     lp_sys  vsc30051 thinking     -0.08  5231.53 2017-06-30 16:50:21 
+UsageRecord Charge 20548730     lp_sys  vsc30051 thinking     -0.08  5231.45 2017-06-30 17:00:39 
+UsageRecord Charge 20548987     lp_sys  vsc30051 thinking     -0.04  5231.41 2017-06-30 17:23:04 
+UsageRecord Charge 20551193     lp_sys  vsc30484 thinking    -69.82  5161.59 2017-07-04 15:56:12 
+UsageRecord Charge 20551897     lp_sys  vsc30484 thinking    -30.19  5131.40 2017-07-05 13:44:31 
+UsageRecord Charge 20552065     lp_sys  vsc30484 thinking     -0.11  5131.29 2017-07-05 15:00:46 
+UsageRecord Charge 20552068     lp_sys  vsc30484 thinking     -0.11  5131.18 2017-07-05 15:06:24 
+UsageRecord Charge 20552080     lp_sys  vsc30484 thinking     -0.24  5130.94 2017-07-05 15:23:16 
+UsageRecord Charge 20552083     lp_sys  vsc30484 thinking     -0.12  5130.82 2017-07-05 15:33:35 
+UsageRecord Charge 20552084     lp_sys  vsc30484 thinking     -0.12  5130.70 2017-07-05 15:36:39 
+UsageRecord Charge 20552085     lp_sys  vsc30484 thinking     -0.12  5130.58 2017-07-05 15:38:42 
+UsageRecord Charge 20552086     lp_sys  vsc30484 thinking     -4.27  5126.31 2017-07-05 16:00:43 
+UsageRecord Charge 20552880     lp_sys  vsc30484 thinking     -7.22  5119.09 2017-07-06 09:31:55 
+UsageRecord Charge 20553005     lp_sys  vsc30484 thinking     -0.77  5118.32 2017-07-06 10:46:15 
+UsageRecord Charge 20553009     lp_sys  vsc30484 thinking     -1.10  5117.22 2017-07-06 10:46:15 
+UsageRecord Charge 20553084     lp_sys  vsc30051 thinking     -0.11  5117.11 2017-07-06 11:32:34 
+UsageRecord Charge 20553135     lp_sys  vsc30051 thinking     -0.12  5116.99 2017-07-06 11:55:13 
+UsageRecord Charge 20553012     lp_sys  vsc30484 thinking    -14.14  5102.85 2017-07-06 12:07:03 
+UsageRecord Charge 20553151     lp_sys  vsc30484 thinking     -9.30  5093.55 2017-07-06 12:46:05 
+UsageRecord Charge 20553248     lp_sys  vsc30051 thinking     -0.08  5093.47 2017-07-06 13:35:54 
+UsageRecord Charge 20553204     lp_sys  vsc30484 thinking    -18.34  5075.13 2017-07-06 13:43:05 
+UsageRecord Charge 20553270     lp_sys  vsc30484 thinking    -19.84  5055.29 2017-07-06 15:06:27 
+UsageRecord Charge 20553343     lp_sys  vsc30484 thinking     -1.47  5053.82 2017-07-06 15:19:17 
+UsageRecord Charge 20553379     lp_sys  vsc30484 thinking     -0.17  5053.65 2017-07-06 15:26:04 
+UsageRecord Charge 20553426     lp_sys  vsc30484 thinking     -2.33  5051.32 2017-07-06 15:56:19 
+UsageRecord Charge 20553485     lp_sys  vsc30051 thinking     -0.08  5051.24 2017-07-06 16:26:47 
+UsageRecord Charge 20553496     lp_sys  vsc30051 thinking     -0.08  5051.16 2017-07-06 16:41:15 
+UsageRecord Charge 20553522     lp_sys  vsc30051 thinking     -0.08  5051.08 2017-07-06 16:56:43 
+UsageRecord Charge 20553928     lp_sys  vsc30484 thinking     -4.30  5046.78 2017-07-07 08:24:07 
+UsageRecord Charge 20554010     lp_sys  vsc30051 thinking     -0.08  5046.70 2017-07-07 10:12:51 
+UsageRecord Charge 20553952     lp_sys  vsc30484 thinking    -34.65  5012.05 2017-07-07 10:49:35 
+UsageRecord Charge 20554063     lp_sys  vsc30051 thinking     -0.08  5011.97 2017-07-07 11:10:06 
+UsageRecord Charge 20554064     lp_sys  vsc30051 thinking     -0.08  5011.89 2017-07-07 11:10:06 
+UsageRecord Charge 20556431     lp_sys  vsc30002 thinking     -0.08  5011.81 2017-07-10 10:41:26 
+UsageRecord Charge 20556432     lp_sys  vsc30002 thinking     -0.08  5011.73 2017-07-10 10:41:26 
+UsageRecord Charge 20556823     lp_sys  vsc30002 thinking     -0.08  5011.65 2017-07-10 15:07:14 
+UsageRecord Charge 20556859     lp_sys  vsc30002 thinking     -0.08  5011.57 2017-07-10 15:55:19 
+UsageRecord Charge 20556868     lp_sys  vsc30002 thinking     -0.04  5011.53 2017-07-10 15:59:26 
+UsageRecord Charge 20559198     lp_sys  vsc30002 thinking     -0.08  5011.45 2017-07-12 14:03:32 
+UsageRecord Charge 20559200     lp_sys  vsc30002 thinking     -0.04  5011.41 2017-07-12 14:08:09 
+UsageRecord Charge 20559207     lp_sys  vsc30002 thinking     -0.12  5011.29 2017-07-12 14:19:26 
+UsageRecord Charge 20559214     lp_sys  vsc30002 thinking     -0.14  5011.15 2017-07-12 14:40:02 
+UsageRecord Charge 20559215     lp_sys  vsc30002 thinking     -0.14  5011.01 2017-07-12 14:40:02 
+UsageRecord Charge 20560234     lp_sys  vsc30484 thinking    -19.20  4991.81 2017-07-13 14:14:02 
+UsageRecord Charge 20560285     lp_sys  vsc30484 thinking    -19.09  4972.72 2017-07-13 15:34:10 
+UsageRecord Charge 20561095     lp_sys  vsc30484 thinking     -1.83  4970.89 2017-07-14 09:13:51 
+UsageRecord Charge 20561197     lp_sys  vsc30484 thinking     -0.87  4970.02 2017-07-14 09:25:22 
+UsageRecord Charge 20561206     lp_sys  vsc30484 thinking     -0.83  4969.19 2017-07-14 09:35:52 
+UsageRecord Charge 20561210     lp_sys  vsc30484 thinking     -6.68  4962.51 2017-07-14 10:17:57 
+UsageRecord Charge 20561242     lp_sys  vsc30484 thinking     -1.64  4960.87 2017-07-14 10:28:18 
+UsageRecord Charge 20561253     lp_sys  vsc30484 thinking    -15.58  4945.29 2017-07-14 12:06:22 
+UsageRecord Charge 20561285     lp_sys  vsc30484 thinking     -5.20  4940.09 2017-07-14 13:11:51 
+UsageRecord Charge 20561362     lp_sys  vsc30484 thinking    -22.82  4917.27 2017-07-14 15:36:03 
+UsageRecord Charge 20561532     lp_sys  vsc30484 thinking     -1.73  4915.54 2017-07-14 15:43:50 
+UsageRecord Charge 20561546     lp_sys  vsc30484 thinking    -32.98  4882.56 2017-07-14 18:17:13 
+UsageRecord Charge 20562979     lp_sys  vsc30484 thinking    -30.41  4852.15 2017-07-17 13:15:43 
+UsageRecord Charge 20563161     lp_sys  vsc30484 thinking     -2.89  4849.26 2017-07-17 13:33:56 
+UsageRecord Charge 20563176     lp_sys  vsc30484 thinking    -19.87  4829.39 2017-07-17 15:39:03 
+UsageRecord Charge 20563315     lp_sys  vsc30484 thinking     -3.45  4825.94 2017-07-17 15:59:16 
+UsageRecord Charge 20563334     lp_sys  vsc30484 thinking     -3.24  4822.70 2017-07-17 16:13:50 
+UsageRecord Charge 20563988     lp_sys  vsc30484 thinking     -3.48  4819.22 2017-07-18 08:17:02 
+UsageRecord Charge 20563994     lp_sys  vsc30484 thinking    -12.07  4807.15 2017-07-18 09:33:03 
+UsageRecord Charge 20564033     lp_sys  vsc30484 thinking     -0.45  4806.70 2017-07-18 09:38:43 
+UsageRecord Charge 20564035     lp_sys  vsc30484 thinking     -7.51  4799.19 2017-07-18 10:01:12 
+UsageRecord Charge 20564049     lp_sys  vsc30484 thinking     -3.92  4795.27 2017-07-18 10:34:09 
+UsageRecord Charge 20564070     lp_sys  vsc30484 thinking     -0.06  4795.21 2017-07-18 10:42:49 
+UsageRecord Charge 20564067     lp_sys  vsc30484 thinking     -3.18  4792.03 2017-07-18 10:52:50 
+UsageRecord Charge 20564078     lp_sys  vsc30484 thinking     -0.04  4791.99 2017-07-18 10:53:21 
+UsageRecord Charge 20564079     lp_sys  vsc30484 thinking     -0.33  4791.66 2017-07-18 10:53:52 
+UsageRecord Charge 20564089     lp_sys  vsc30484 thinking     -0.82  4790.84 2017-07-18 11:03:19 
+UsageRecord Charge 20564099     lp_sys  vsc30484 thinking     -4.88  4785.96 2017-07-18 11:31:17 
+UsageRecord Charge 20564116     lp_sys  vsc30484 thinking     -1.13  4784.83 2017-07-18 11:50:46 
+UsageRecord Charge 20564150     lp_sys  vsc30484 thinking     -0.82  4784.01 2017-07-18 12:01:03 
+UsageRecord Charge 20564174     lp_sys  vsc30484 thinking     -0.24  4783.77 2017-07-18 12:25:34 
+UsageRecord Charge 20564158     lp_sys  vsc30484 thinking    -16.75  4767.02 2017-07-18 13:10:39 
+UsageRecord Charge 20564196     lp_sys  vsc30484 thinking     -0.24  4766.78 2017-07-18 13:12:12 
+UsageRecord Charge 20564231     lp_sys  vsc30484 thinking     -1.29  4765.49 2017-07-18 13:53:37 
+UsageRecord Charge 20564028     lp_sys  vsc30484 thinking    -53.03  4712.46 2017-07-18 15:07:36 
+UsageRecord Charge 20564246     lp_sys  vsc30484 thinking     -8.43  4704.03 2017-07-18 15:54:35 
+UsageRecord Charge 20564282     lp_sys  vsc30484 thinking     -7.71  4696.32 2017-07-18 15:56:09 
+UsageRecord Charge 20564218     lp_sys  vsc30484 thinking     -2.04  4694.28 2017-07-19 07:17:42 
+UsageRecord Charge 20564657     lp_sys  vsc30484 thinking     -3.57  4690.71 2017-07-19 08:41:50 
+UsageRecord Charge 20564665     lp_sys  vsc30484 thinking     -2.27  4688.44 2017-07-19 08:49:29 
+UsageRecord Charge 20564666     lp_sys  vsc30484 thinking     -3.90  4684.54 2017-07-19 08:54:36 
+UsageRecord Charge 20564669     lp_sys  vsc30484 thinking     -2.92  4681.62 2017-07-19 08:59:12 
+UsageRecord Charge 20564638     lp_sys  vsc30484 thinking    -26.59  4655.03 2017-07-19 09:54:40 
+UsageRecord Charge 20564675     lp_sys  vsc30484 thinking    -40.43  4614.60 2017-07-19 11:05:28 
+UsageRecord Charge 30024377     lp_sys  vsc30484 cerebro      -0.06  4614.54 2017-07-19 12:18:56 
+UsageRecord Charge 30024378     lp_sys  vsc30484 cerebro      -0.37  4614.17 2017-07-19 12:25:18 
+UsageRecord Charge 20564851     lp_sys  vsc30484 thinking     -7.93  4606.24 2017-07-19 12:33:31 
+UsageRecord Charge 30024379     lp_sys  vsc30484 cerebro      -2.47  4603.77 2017-07-19 13:06:56 
+UsageRecord Charge 30024380     lp_sys  vsc30484 cerebro     -17.57  4586.20 2017-07-19 14:52:17 
+UsageRecord Charge 30024381     lp_sys  vsc30484 cerebro      -1.94  4584.26 2017-07-19 15:08:12 
+UsageRecord Charge 30024382     lp_sys  vsc30484 cerebro      -3.31  4580.95 2017-07-19 15:14:50 
+UsageRecord Charge 20564919     lp_sys  vsc30706 thinking     -0.32  4580.63 2017-07-19 15:40:32 
+UsageRecord Charge 20564921     lp_sys  vsc30706 thinking     -0.20  4580.43 2017-07-19 15:46:39 
+UsageRecord Charge 20564920     lp_sys  vsc30706 thinking     -0.34  4580.09 2017-07-19 15:52:47 
+UsageRecord Charge 20564786     lp_sys  vsc30484 thinking    -85.18  4494.91 2017-07-19 15:58:54 
+UsageRecord Charge 20564925     lp_sys  vsc30484 thinking     -2.02  4492.89 2017-07-19 16:05:06 
+UsageRecord Charge 20564929     lp_sys  vsc30706 thinking     -3.65  4489.24 2017-07-19 16:32:12 
+UsageRecord Charge 30024383     lp_sys  vsc30484 cerebro     -23.14  4466.10 2017-07-19 16:35:47 
+UsageRecord Charge 20564935     lp_sys  vsc30484 thinking   -552.60  3913.50 2017-07-20 07:58:57 
+UsageRecord Charge 30024389     lp_sys  vsc30484 cerebro      -3.56  3909.94 2017-07-20 09:31:46 
+UsageRecord Charge 30024390     lp_sys  vsc30484 cerebro      -4.17  3905.77 2017-07-20 09:54:25 
+UsageRecord Charge 30024391     lp_sys  vsc30484 cerebro      -1.49  3904.28 2017-07-20 10:00:06 
+UsageRecord Charge 30024392     lp_sys  vsc30484 cerebro      -7.21  3897.07 2017-07-20 10:26:41 
+UsageRecord Charge 30024393     lp_sys  vsc30484 cerebro      -3.63  3893.44 2017-07-20 11:05:04 
+UsageRecord Charge 20565106     lp_sys  vsc30484 thinking   -119.67  3773.77 2017-07-20 12:57:51 
+UsageRecord Charge 20565348     lp_sys  vsc30484 thinking     -1.61  3772.16 2017-07-20 13:03:27 
+UsageRecord Charge 20565359     lp_sys  vsc30484 thinking     -0.81  3771.35 2017-07-20 13:07:36 
+UsageRecord Charge 20565362     lp_sys  vsc30484 thinking    -49.70  3721.65 2017-07-20 15:12:54 
+UsageRecord Charge 20565487     lp_sys  vsc30484 thinking     -7.18  3714.47 2017-07-20 15:37:28 
+UsageRecord Charge 20567325     lp_sys  vsc30484 thinking     -2.28  3712.19 2017-07-24 09:08:35 
+UsageRecord Charge 20567335     lp_sys  vsc30484 thinking     -1.50  3710.69 2017-07-24 09:30:45 
+UsageRecord Charge 20567500     lp_sys  vsc30484 thinking    -23.35  3687.34 2017-07-24 13:56:09 
+UsageRecord Charge 20567653     lp_sys  vsc30484 thinking     -7.71  3679.63 2017-07-24 14:29:25 
+UsageRecord Charge 20568183     lp_sys  vsc30484 thinking   -183.54  3496.09 2017-07-25 15:52:33 
+UsageRecord Charge 20568916     lp_sys  vsc30484 thinking   -373.16  3122.93 2017-07-26 15:50:00 
+UsageRecord Charge 30024409     lp_sys  vsc30484 cerebro      -4.41  3118.52 2017-07-27 08:27:21 
+UsageRecord Charge 20569878     lp_sys  vsc30484 thinking     -2.02  3116.50 2017-07-27 08:42:08 
+UsageRecord Charge 20569880     lp_sys  vsc30484 thinking   -551.35  2565.15 2017-07-27 16:25:05 
+UsageRecord Charge 20570891     lp_sys  vsc30484 thinking     -0.24  2564.91 2017-07-28 08:17:24 
+UsageRecord Charge 20570933     lp_sys  vsc30484 thinking     -8.07  2556.84 2017-07-28 09:26:34 
+UsageRecord Charge 20570941     lp_sys  vsc30484 thinking     -0.90  2555.94 2017-07-28 09:42:55 
+UsageRecord Charge 20570949     lp_sys  vsc30484 thinking   -132.84  2423.10 2017-07-28 11:03:35 
+UsageRecord Charge 20571029     lp_sys  vsc30484 thinking     -1.61  2421.49 2017-07-28 11:11:47 
+UsageRecord Charge 20571039     lp_sys  vsc30484 thinking  -6657.10 -4235.61 2017-07-31 09:09:42 
+UsageRecord Charge 20573100     lp_sys  vsc30484 thinking     -1.29 99998.71 2017-07-31 10:23:49 
+UsageRecord Charge 20574924     lp_sys  vsc30484 thinking     -9.62 99989.09 2017-08-02 08:42:44 
+UsageRecord Charge 20574939     lp_sys  vsc30484 thinking     -2.73 99986.36 2017-08-02 08:58:33 
+UsageRecord Charge 20573102     lp_sys  vsc30484 thinking  -5799.80 94186.56 2017-08-02 09:13:22 
+UsageRecord Charge 20574966     lp_sys  vsc30484 thinking   -296.54 93890.02 2017-08-02 11:37:01 
+UsageRecord Charge 20575092     lp_sys  vsc30484 thinking    -78.87 93811.15 2017-08-02 12:50:25 
+UsageRecord Charge 20575193     lp_sys  vsc30484 thinking     -1.97 93809.18 2017-08-02 12:59:45 
+UsageRecord Charge 20575195     lp_sys  vsc30484 thinking    -77.75 93731.43 2017-08-02 14:01:28 
+UsageRecord Charge 20575228     lp_sys  vsc30484 thinking     -5.21 93726.22 2017-08-02 14:08:07 
+UsageRecord Charge 20575287     lp_sys  vsc30745 thinking     -2.70 93723.52 2017-08-02 17:27:25 
+UsageRecord Charge 20575667     lp_sys  vsc30484 thinking     -2.79 93720.73 2017-08-03 08:39:20 
+UsageRecord Charge 20575865     lp_sys  vsc30745 thinking     -2.92 93717.81 2017-08-03 13:20:07 
+UsageRecord Charge 20575925     lp_sys  vsc30745 thinking     -2.96 93714.85 2017-08-03 15:34:33 
+UsageRecord Charge 20575998     lp_sys  vsc30745 thinking     -2.94 93711.91 2017-08-03 16:36:07 
+UsageRecord Charge 20576159     lp_sys  vsc30745 thinking     -2.93 93708.98 2017-08-03 18:13:48 
+UsageRecord Charge 20575230     lp_sys  vsc30484 thinking  -3309.22 90399.76 2017-08-04 09:33:05 
+UsageRecord Charge 20576657     lp_sys  vsc30468 thinking     -0.81 90398.95 2017-08-04 10:53:05 
+UsageRecord Charge 20576815     lp_sys  vsc30745 thinking     -0.37 90398.58 2017-08-04 12:19:19 
+UsageRecord Charge 20576830     lp_sys  vsc30745 thinking     -2.93 90395.65 2017-08-04 13:20:46 
+UsageRecord Charge 20576869     lp_sys  vsc30745 thinking     -0.20 90395.45 2017-08-04 13:42:46 
+UsageRecord Charge 20576617     lp_sys  vsc30745 thinking    -11.52 90383.93 2017-08-04 13:49:29 
+UsageRecord Charge 20576890     lp_sys  vsc30745 thinking     -0.69 90383.24 2017-08-04 13:57:08 
+UsageRecord Charge 20576909     lp_sys  vsc30745 thinking     -0.42 90382.82 2017-08-04 14:05:54 
+UsageRecord Charge 20576912     lp_sys  vsc30745 thinking     -1.70 90381.12 2017-08-04 14:41:27 
+UsageRecord Charge 20576938     lp_sys  vsc30745 thinking     -0.05 90381.07 2017-08-04 14:51:10 
+UsageRecord Charge 20576939     lp_sys  vsc30745 thinking     -0.22 90380.85 2017-08-04 14:55:50 
+UsageRecord Charge 20576953     lp_sys  vsc30745 thinking     -2.17 90378.68 2017-08-04 15:41:47 
+UsageRecord Charge 20577023     lp_sys  vsc30745 thinking     -0.12 90378.56 2017-08-04 16:10:04 
+UsageRecord Charge 20577034     lp_sys  vsc30745 thinking     -4.82 90373.74 2017-08-04 17:57:02 
+UsageRecord Charge 20576608     lp_sys  vsc30484 thinking  -5398.83 84974.91 2017-08-07 08:24:30 
+UsageRecord Charge 20578102     lp_sys  vsc30484 thinking  -1661.77 83313.14 2017-08-08 09:58:02 
+UsageRecord Charge 20578932     lp_sys  vsc30484 thinking   -261.80 83051.34 2017-08-08 13:53:21 
+UsageRecord Charge 20579205     lp_sys  vsc30484 thinking    -61.15 82990.19 2017-08-08 14:28:13 
+UsageRecord Charge 20579228     lp_sys  vsc30484 thinking   -135.64 82854.55 2017-08-08 15:44:25 
+UsageRecord Charge 20580252     lp_sys  vsc30745 thinking     -0.32 82854.23 2017-08-09 18:03:14 
+UsageRecord Charge 20580292     lp_sys  vsc30745 thinking     -2.94 82851.29 2017-08-09 20:49:58 
+UsageRecord Charge 20579654     lp_sys  vsc30484 thinking  -2398.78 80452.51 2017-08-10 08:05:29 
+UsageRecord Charge 30024466     lp_sys  vsc30745 cerebro      -0.06 80452.45 2017-08-10 10:32:12 
+UsageRecord Charge 30024467     lp_sys  vsc30745 cerebro      -0.03 80452.42 2017-08-10 10:32:45 
+UsageRecord Charge 20580378     lp_sys  vsc30745 thinking     -2.96 80449.46 2017-08-10 11:41:29 
+UsageRecord Charge 20580423     lp_sys  vsc30484 thinking     -8.03 80441.43 2017-08-10 12:36:58 
+UsageRecord Charge 20580532     lp_sys  vsc30484 thinking     -1.72 80439.71 2017-08-10 14:52:32 
+UsageRecord Charge 20580537     lp_sys  vsc30484 thinking     -1.73 80437.98 2017-08-10 14:59:48 
+UsageRecord Charge 20580540     lp_sys  vsc30484 thinking     -4.03 80433.95 2017-08-10 15:22:26 
+UsageRecord Charge 20580410     lp_sys  vsc30745 thinking    -16.96 80416.99 2017-08-10 17:41:36 
+UsageRecord Charge 20580951     lp_sys  vsc30745 thinking     -4.75 80412.24 2017-08-11 10:05:57 
+UsageRecord Charge 20581031     lp_sys  vsc30745 thinking     -0.15 80412.09 2017-08-11 10:09:01 
+UsageRecord Charge 20581038     lp_sys  vsc30745 thinking    -11.65 80400.44 2017-08-11 14:13:16 
+UsageRecord Charge 20581506     lp_sys  vsc30745 thinking     -0.29 80400.15 2017-08-11 14:24:01 
+UsageRecord Charge 20581509     lp_sys  vsc30745 thinking     -0.15 80400.00 2017-08-11 14:27:06 
+UsageRecord Charge 20581513     lp_sys  vsc30745 thinking     -8.25 80391.75 2017-08-11 17:20:03 
+UsageRecord Charge 20582541     lp_sys  vsc30745 thinking    -26.57 80365.18 2017-08-14 19:37:41 
+UsageRecord Charge 20583068     lp_sys  vsc30745 thinking     -3.46 80361.72 2017-08-14 20:53:12 
+UsageRecord Charge 20583074     lp_sys  vsc30745 thinking     -5.78 80355.94 2017-08-14 22:54:47 
+UsageRecord Charge 20583143     lp_sys  vsc30745 thinking     -2.60 80353.34 2017-08-15 00:31:34 
+UsageRecord Charge 20583825     lp_sys  vsc30745 thinking     -0.46 80352.88 2017-08-16 11:33:11 
+UsageRecord Charge 20583829     lp_sys  vsc30745 thinking     -8.13 80344.75 2017-08-16 14:23:32 
+UsageRecord Charge 20583952     lp_sys  vsc30745 thinking     -6.90 80337.85 2017-08-16 15:13:40 
+UsageRecord Charge 20584131     lp_sys  vsc30484 thinking     -2.59 80335.26 2017-08-16 15:26:55 
+UsageRecord Charge 20584153     lp_sys  vsc30745 thinking     -0.63 80334.63 2017-08-16 15:52:31 
+UsageRecord Charge 20584143     lp_sys  vsc30745 thinking     -6.72 80327.91 2017-08-16 17:30:54 
+UsageRecord Charge 20584161     lp_sys  vsc30745 thinking     -6.61 80321.30 2017-08-16 18:13:36 
+UsageRecord Charge 20584170     lp_sys  vsc30745 thinking     -6.86 80314.44 2017-08-16 18:42:48 
+UsageRecord Charge 20584189     lp_sys  vsc30745 thinking     -6.68 80307.76 2017-08-16 19:11:02 
+UsageRecord Charge 20584200     lp_sys  vsc30745 thinking     -6.28 80301.48 2017-08-16 19:42:34 
+UsageRecord Charge 20584702     lp_sys  vsc30745 thinking     -2.13 80299.35 2017-08-17 10:49:43 
+UsageRecord Charge 20584765     lp_sys  vsc30484 thinking    -65.65 80233.70 2017-08-17 15:10:33 
+UsageRecord Charge 20584761     lp_sys  vsc30745 thinking    -14.55 80219.15 2017-08-17 16:18:25 
+UsageRecord Charge 20584905     lp_sys  vsc30745 thinking     -5.79 80213.36 2017-08-17 18:07:22 
+UsageRecord Charge 20585542     lp_sys  vsc30484 thinking    -42.94 80170.42 2017-08-18 10:13:06 
+UsageRecord Charge 20585594     lp_sys  vsc30484 thinking    -23.59 80146.83 2017-08-18 11:06:06 
+UsageRecord Charge 20585640     lp_sys  vsc30484 thinking    -27.17 80119.66 2017-08-18 12:07:09 
+UsageRecord Charge 20585655     lp_sys  vsc30745 thinking     -2.52 80117.14 2017-08-18 12:24:00 
+UsageRecord Charge 20585763     lp_sys  vsc30745 thinking     -0.66 80116.48 2017-08-18 14:30:11 
+UsageRecord Charge 20585770     lp_sys  vsc30745 thinking    -11.38 80105.10 2017-08-18 18:28:44 
+UsageRecord Charge 20586098     lp_sys  vsc30745 thinking     -5.79 80099.31 2017-08-19 02:07:51 
+UsageRecord Charge 20586971     lp_sys  vsc30484 thinking    -27.00 80072.31 2017-08-21 15:40:43 
+UsageRecord Charge 20587183     lp_sys  vsc30745 thinking     -6.54 80065.77 2017-08-21 18:01:54 
+UsageRecord Charge 20587468     lp_sys  vsc30484 thinking    -89.30 79976.47 2017-08-22 12:35:14 
+UsageRecord Charge 20587467     lp_sys  vsc30484 thinking    -24.35 79952.12 2017-08-22 13:10:22 
+UsageRecord Charge 20587638     lp_sys  vsc30484 thinking    -11.73 79940.39 2017-08-22 13:10:22 
+UsageRecord Charge 20587659     lp_sys  vsc30745 thinking     -3.54 79936.85 2017-08-22 14:48:36 
+UsageRecord Charge 20587877     lp_sys  vsc30484 thinking    -14.70 79922.15 2017-08-23 10:23:24 
+UsageRecord Charge 20588001     lp_sys  vsc30484 thinking     -1.53 79920.62 2017-08-23 11:02:41 
+UsageRecord Charge 20588002     lp_sys  vsc30484 thinking     -2.63 79917.99 2017-08-23 11:37:06 
+UsageRecord Charge 20588004     lp_sys  vsc30484 thinking    -20.45 79897.54 2017-08-23 12:15:15 
+UsageRecord Charge 20588086     lp_sys  vsc30484 thinking     -4.62 79892.92 2017-08-23 14:23:30 
+UsageRecord Charge 20588061     lp_sys  vsc30484 thinking    -40.97 79851.95 2017-08-24 00:13:43 
+UsageRecord Charge 20588554     lp_sys  vsc30484 thinking     -0.23 79851.72 2017-08-24 08:16:12 
+UsageRecord Charge 20588559     lp_sys  vsc30484 thinking     -4.42 79847.30 2017-08-24 08:40:09 
+UsageRecord Charge 20588575     lp_sys  vsc30484 thinking     -2.67 79844.63 2017-08-24 09:13:17 
+UsageRecord Charge 20588583     lp_sys  vsc30484 thinking     -0.16 79844.47 2017-08-24 09:27:05 
+UsageRecord Charge 20588589     lp_sys  vsc30484 thinking     -3.89 79840.58 2017-08-24 09:53:38 
+UsageRecord Charge 20588604     lp_sys  vsc30484 thinking    -15.01 79825.57 2017-08-24 11:49:18 
+UsageRecord Charge 20588661     lp_sys  vsc30484 thinking    -19.23 79806.34 2017-08-24 23:43:42 
+UsageRecord Charge 20589279     lp_sys  vsc30484 thinking    -24.45 79781.89 2017-08-25 08:16:56 
+UsageRecord Charge 20589300     lp_sys  vsc30484 thinking     -6.48 79775.41 2017-08-25 09:08:57 
+UsageRecord Charge 20589283     lp_sys  vsc30484 thinking    -96.21 79679.20 2017-08-25 09:13:32 
+UsageRecord Charge 20589303     lp_sys  vsc30484 thinking    -54.29 79624.91 2017-08-25 09:33:53 
+UsageRecord Charge 20589310     lp_sys  vsc30484 thinking    -45.35 79579.56 2017-08-25 09:55:51 
+UsageRecord Charge 20589321     lp_sys  vsc30484 thinking     -2.56 79577.00 2017-08-25 10:03:06 
+UsageRecord Charge 20589332     lp_sys  vsc30484 thinking     -3.39 79573.61 2017-08-25 10:13:22 
+UsageRecord Charge 20589335     lp_sys  vsc30484 thinking     -3.39 79570.22 2017-08-25 10:17:57 
+UsageRecord Charge 20589336     lp_sys  vsc30484 thinking  -2404.29 77165.93 2017-08-26 10:20:11 
+UsageRecord Charge 20590581     lp_sys  vsc30745 thinking     -0.24 77165.69 2017-08-27 23:45:17 
+UsageRecord Charge 20590584     lp_sys  vsc30745 thinking     -0.10 77165.59 2017-08-27 23:48:51 
+UsageRecord Charge 20590659     lp_sys  vsc30484 thinking    -21.98 77143.61 2017-08-28 08:17:29 
+UsageRecord Charge 20590662     lp_sys  vsc30484 thinking    -27.21 77116.40 2017-08-28 08:41:27 
+UsageRecord Charge 20590677     lp_sys  vsc30484 thinking     -7.75 77108.65 2017-08-28 08:49:36 
+UsageRecord Charge 20590697     lp_sys  vsc30484 thinking     -1.70 77106.95 2017-08-28 10:11:10 
+UsageRecord Charge 20590710     lp_sys  vsc30484 thinking     -3.55 77103.40 2017-08-28 10:55:55 
+UsageRecord Charge 30024573     lp_sys  vsc30484 cerebro      -1.43 77101.97 2017-08-28 11:09:45 
+UsageRecord Charge 20590757     lp_sys  vsc30745 thinking     -0.34 77101.63 2017-08-28 11:23:33 
+UsageRecord Charge 20590680     lp_sys  vsc30484 thinking   -263.41 76838.22 2017-08-28 12:16:57 
+UsageRecord Charge 20590774     lp_sys  vsc30484 thinking     -7.33 76830.89 2017-08-28 13:28:54 
+UsageRecord Charge 30024574     lp_sys  vsc30484 cerebro      -6.24 76824.65 2017-08-28 13:45:04 
+UsageRecord Charge 20590763     lp_sys  vsc30745 thinking     -6.90 76817.75 2017-08-28 13:50:10 
+UsageRecord Charge 20590780     lp_sys  vsc30484 thinking   -206.05 76611.70 2017-08-28 14:12:11 
+UsageRecord Charge 20590865     lp_sys  vsc30484 thinking    -55.84 76555.86 2017-08-28 14:43:33 
+UsageRecord Charge 20590911     lp_sys  vsc30484 thinking    -22.72 76533.14 2017-08-28 15:00:25 
+UsageRecord Charge 20590925     lp_sys  vsc30484 thinking    -45.81 76487.33 2017-08-28 15:28:42 
+UsageRecord Charge 20590961     lp_sys  vsc30484 thinking    -45.99 76441.34 2017-08-28 15:56:35 
+UsageRecord Charge 20590981     lp_sys  vsc30484 thinking    -16.35 76424.99 2017-08-28 16:09:58 
+UsageRecord Charge 20590853     lp_sys  vsc30745 thinking     -8.97 76416.02 2017-08-28 16:58:06 
+UsageRecord Charge 20591088     lp_sys  vsc30745 thinking     -0.48 76415.54 2017-08-28 17:34:19 
+UsageRecord Charge 20591107     lp_sys  vsc30706 thinking     -6.91 76408.63 2017-08-28 18:40:00 
+UsageRecord Charge 20591109     lp_sys  vsc30484 thinking   -133.77 76274.86 2017-08-28 19:24:16 
+UsageRecord Charge 20591164     lp_sys  vsc30484 thinking     -3.24 76271.62 2017-08-28 19:25:48 
+UsageRecord Charge 20591101     lp_sys  vsc30745 thinking     -5.80 76265.82 2017-08-28 19:35:53 
+UsageRecord Charge 20591167     lp_sys  vsc30484 thinking    -14.23 76251.59 2017-08-28 19:47:05 
+UsageRecord Charge 20591171     lp_sys  vsc30484 thinking     -9.70 76241.89 2017-08-28 19:59:18 
+UsageRecord Charge 20591172     lp_sys  vsc30484 thinking    -20.09 76221.80 2017-08-28 20:15:07 
+UsageRecord Charge 20591175     lp_sys  vsc30484 thinking   -653.53 75568.27 2017-08-29 04:51:06 
+UsageRecord Charge 20591379     lp_sys  vsc30484 thinking    -33.60 75534.67 2017-08-29 08:33:20 
+UsageRecord Charge 20591383     lp_sys  vsc30484 thinking    -21.38 75513.29 2017-08-29 08:51:42 
+UsageRecord Charge 20591394     lp_sys  vsc30484 thinking    -46.58 75466.71 2017-08-29 09:31:56 
+UsageRecord Charge 20591402     lp_sys  vsc30484 thinking    -22.63 75444.08 2017-08-29 09:50:16 
+UsageRecord Charge 20591459     lp_sys  vsc30706 thinking     -0.12 75443.96 2017-08-29 10:50:07 
+UsageRecord Charge 20591426     lp_sys  vsc30706 thinking     -6.85 75437.11 2017-08-29 11:09:13 
+UsageRecord Charge 20591469     lp_sys  vsc30484 thinking    -39.96 75397.15 2017-08-29 11:54:11 
+UsageRecord Charge 20591454     lp_sys  vsc30745 thinking     -3.74 75393.41 2017-08-29 11:56:45 
+UsageRecord Charge 20591490     lp_sys  vsc30484 thinking     -3.62 75389.79 2017-08-29 12:09:30 
+UsageRecord Charge 20591485     lp_sys  vsc30706 thinking     -6.81 75382.98 2017-08-29 12:35:32 
+UsageRecord Charge 20591526     lp_sys  vsc30706 thinking     -0.12 75382.86 2017-08-29 13:33:21 
+UsageRecord Charge 20591410     lp_sys  vsc30484 thinking   -348.14 75034.72 2017-08-29 14:24:50 
+UsageRecord Charge 20591543     lp_sys  vsc30484 thinking    -21.78 75012.94 2017-08-29 14:27:23 
+UsageRecord Charge 20591550     lp_sys  vsc30484 thinking    -14.23 74998.71 2017-08-29 14:36:02 
+UsageRecord Charge 20591549     lp_sys  vsc30484 thinking    -36.25 74962.46 2017-08-29 14:48:16 
+UsageRecord Charge 20591551     lp_sys  vsc30484 thinking    -15.54 74946.92 2017-08-29 14:48:47 
+UsageRecord Charge 20591557     lp_sys  vsc30484 thinking    -19.05 74927.87 2017-08-29 15:02:33 
+UsageRecord Charge 20591564     lp_sys  vsc30484 thinking    -20.92 74906.95 2017-08-29 15:16:21 
+UsageRecord Charge 20591556     lp_sys  vsc30484 thinking    -33.07 74873.88 2017-08-29 15:16:21 
+UsageRecord Charge 20591572     lp_sys  vsc30484 thinking    -29.02 74844.86 2017-08-29 15:33:10 
+UsageRecord Charge 20591573     lp_sys  vsc30484 thinking    -33.69 74811.17 2017-08-29 15:44:55 
+UsageRecord Charge 20591489     lp_sys  vsc30745 thinking    -11.32 74799.85 2017-08-29 15:54:05 
+UsageRecord Charge 20591587     lp_sys  vsc30745 thinking     -2.43 74797.42 2017-08-29 16:46:29 
+UsageRecord Charge 20591523     lp_sys  vsc30706 thinking    -22.52 74774.90 2017-08-29 16:53:06 
+UsageRecord Charge 20591617     lp_sys  vsc30745 thinking     -3.68 74771.22 2017-08-29 18:03:43 
+UsageRecord Charge 20591802     lp_sys  vsc30484 thinking    -21.96 74749.26 2017-08-30 08:38:26 
+UsageRecord Charge 20591805     lp_sys  vsc30484 thinking    -21.38 74727.88 2017-08-30 08:56:48 
+UsageRecord Charge 20591808     lp_sys  vsc30484 thinking    -18.10 74709.78 2017-08-30 09:13:36 
+UsageRecord Charge 20591820     lp_sys  vsc30484 thinking    -22.70 74687.08 2017-08-30 09:33:33 
+UsageRecord Charge 20591835     lp_sys  vsc30484 thinking    -27.88 74659.20 2017-08-30 09:56:03 
+UsageRecord Charge 20591851     lp_sys  vsc30484 thinking    -22.36 74636.84 2017-08-30 10:20:19 
+UsageRecord Charge 20591861     lp_sys  vsc30484 thinking    -27.29 74609.55 2017-08-30 10:42:21 
+UsageRecord Charge 20591897     lp_sys  vsc30706 thinking     -0.12 74609.43 2017-08-30 11:18:09 
+UsageRecord Charge 20591887     lp_sys  vsc30484 thinking    -33.11 74576.32 2017-08-30 11:18:40 
+UsageRecord Charge 30024592     lp_sys  vsc30484 cerebro      -2.66 74573.66 2017-08-30 12:39:08 
+UsageRecord Charge 20591867     lp_sys  vsc30706 thinking    -16.13 74557.53 2017-08-30 12:45:16 
+UsageRecord Charge 20591930     lp_sys  vsc30484 thinking    -27.91 74529.62 2017-08-30 12:55:29 
+UsageRecord Charge 20591949     lp_sys  vsc30745 thinking    -11.53 74518.09 2017-08-30 17:20:18 
+UsageRecord Charge 20591939     lp_sys  vsc30484 thinking    -36.38 74481.71 2017-08-31 08:36:04 
+UsageRecord Charge 20592339     lp_sys  vsc30484 thinking    -49.87 74431.84 2017-08-31 09:01:05 
+UsageRecord Charge 20592358     lp_sys  vsc30484 thinking    -48.80 74383.04 2017-08-31 09:24:34 
+UsageRecord Charge 20592379     lp_sys  vsc30484 thinking    -33.11 74349.93 2017-08-31 10:02:23 
+UsageRecord Charge 20592411     lp_sys  vsc30484 thinking    -33.75 74316.18 2017-08-31 10:29:28 
+UsageRecord Charge 20592422     lp_sys  vsc30484 thinking    -33.01 74283.17 2017-08-31 10:56:59 
+UsageRecord Charge 20592443     lp_sys  vsc30484 thinking    -22.15 74261.02 2017-08-31 11:14:25 
+UsageRecord Charge 20592453     lp_sys  vsc30484 thinking    -43.45 74217.57 2017-08-31 11:35:28 
+UsageRecord Charge 20592427     lp_sys  vsc30745 thinking     -2.93 74214.64 2017-08-31 11:36:30 
+UsageRecord Charge 20592462     lp_sys  vsc30484 thinking    -30.79 74183.85 2017-08-31 12:05:32 
+UsageRecord Charge 20592522     lp_sys  vsc30484 thinking    -32.44 74151.41 2017-08-31 12:31:04 
+UsageRecord Charge 20592581     lp_sys  vsc30484 thinking    -33.43 74117.98 2017-08-31 14:36:03 
+UsageRecord Charge 20592620     lp_sys  vsc30484 thinking   -984.61 73133.37 2017-09-01 03:32:39 
+UsageRecord Charge 20593784     lp_sys  vsc30745 thinking     -2.90 73130.47 2017-09-01 17:48:34 
+UsageRecord Charge 20593811     lp_sys  vsc30745 thinking     -2.91 73127.56 2017-09-01 18:49:40 
+UsageRecord Charge 20594474     lp_sys  vsc30745 thinking     -2.94 73124.62 2017-09-02 20:05:27 
+UsageRecord Charge 20594518     lp_sys  vsc30745 thinking     -0.12 73124.50 2017-09-02 22:07:32 
+UsageRecord Charge 20594520     lp_sys  vsc30745 thinking     -2.95 73121.55 2017-09-02 23:09:17 
+UsageRecord Charge 20595045     lp_sys  vsc30745 thinking     -2.96 73118.59 2017-09-03 18:33:45 
+UsageRecord Charge 20595105     lp_sys  vsc30745 thinking     -2.92 73115.67 2017-09-03 20:53:44 
+UsageRecord Charge 20596185     lp_sys  vsc30745 thinking     -0.83 73114.84 2017-09-05 19:37:24 
+UsageRecord Charge 20596201     lp_sys  vsc30745 thinking     -0.27 73114.57 2017-09-05 20:06:04 
+UsageRecord Charge 20596204     lp_sys  vsc30745 thinking     -2.94 73111.63 2017-09-05 21:07:38 
+UsageRecord Charge 20596250     lp_sys  vsc30745 thinking     -2.94 73108.69 2017-09-05 23:25:41 
+UsageRecord Charge 20596285     lp_sys  vsc30745 thinking     -1.86 73106.83 2017-09-06 00:11:57 
+UsageRecord Charge 20598044     lp_sys  vsc30745 thinking     -4.23 73102.60 2017-09-08 17:50:35 
+UsageRecord Charge 20598747     lp_sys  vsc30745 thinking     -4.53 73098.07 2017-09-10 03:18:19 
+UsageRecord Charge 20599059     lp_sys  vsc30745 thinking    -17.25 73080.82 2017-09-10 23:59:40 
+UsageRecord Charge 20599860     lp_sys  vsc30745 thinking     -2.41 73078.41 2017-09-11 17:47:07 
+UsageRecord Charge 20600234     lp_sys  vsc30745 thinking     -7.84 73070.57 2017-09-12 12:01:51 
+UsageRecord Charge 20600335     lp_sys  vsc30745 thinking    -16.16 73054.41 2017-09-12 17:40:41 
+UsageRecord Charge 20600867     lp_sys  vsc30745 thinking    -28.71 73025.70 2017-09-13 19:33:40 
+UsageRecord Charge 20601624     lp_sys  vsc30745 thinking     -4.88 73020.82 2017-09-14 16:59:55 
+UsageRecord Charge 20603011     lp_sys  vsc30745 thinking     -0.24 73020.58 2017-09-17 11:43:47 
+UsageRecord Charge 20604297     lp_sys  vsc30484 thinking     -0.08 73020.50 2017-09-20 08:42:02 
+UsageRecord Charge 20604298     lp_sys  vsc30484 thinking    -43.52 72976.98 2017-09-20 09:07:31 
+UsageRecord Charge 20604305     lp_sys  vsc30484 thinking    -33.67 72943.31 2017-09-20 09:32:35 
+UsageRecord Charge 20604324     lp_sys  vsc30484 thinking  -1364.44 71578.87 2017-09-20 22:26:44 
+UsageRecord Charge 20604865     lp_sys  vsc30484 thinking    -28.24 71550.63 2017-09-22 01:44:10 
+UsageRecord Charge 20605399     lp_sys  vsc30484 thinking    -12.73 71537.90 2017-09-22 09:13:24 
+UsageRecord Charge 20605403     lp_sys  vsc30484 thinking     -0.32 71537.58 2017-09-22 09:23:06 
+UsageRecord Charge 20605404     lp_sys  vsc30484 thinking     -1.78 71535.80 2017-09-22 09:44:29 
+UsageRecord Charge 20605413     lp_sys  vsc30484 thinking    -24.54 71511.26 2017-09-22 09:58:16 
+UsageRecord Charge 20605419     lp_sys  vsc30484 thinking    -35.54 71475.72 2017-09-22 10:20:47 
+UsageRecord Charge 20605441     lp_sys  vsc30484 thinking    -34.09 71441.63 2017-09-22 10:46:03 
+UsageRecord Charge 20605455     lp_sys  vsc30484 thinking    -18.25 71423.38 2017-09-22 10:56:49 
+UsageRecord Charge 20605580     lp_sys  vsc30484 thinking     -7.36 71416.02 2017-09-22 14:51:26 
+UsageRecord Charge 20605623     lp_sys  vsc30484 thinking     -2.20 71413.82 2017-09-22 15:00:40 
+UsageRecord Charge 20605634     lp_sys  vsc30484 thinking     -0.48 71413.34 2017-09-22 15:06:44 
+UsageRecord Charge 20605646     lp_sys  vsc30484 thinking     -3.90 71409.44 2017-09-22 15:23:06 
+UsageRecord Charge 20605660     lp_sys  vsc30484 thinking     -0.12 71409.32 2017-09-22 15:24:38 
+UsageRecord Charge 20606542     lp_sys  vsc30484 thinking     -0.20 71409.12 2017-09-25 15:25:51 
+UsageRecord Charge 20606546     lp_sys  vsc30484 thinking     -1.58 71407.54 2017-09-25 15:46:15 
+UsageRecord Charge 20606663     lp_sys  vsc30468 thinking     -0.09 71407.45 2017-09-26 09:56:45 
+UsageRecord Charge 20606667     lp_sys  vsc30468 thinking     -0.04 71407.41 2017-09-26 09:57:18 
+UsageRecord Charge 20606668     lp_sys  vsc30468 thinking     -0.16 71407.25 2017-09-26 10:01:55 
+UsageRecord Charge 20606754     lp_sys  vsc30468 thinking     -0.04 71407.21 2017-09-26 12:02:44 
+UsageRecord Charge 20606972     lp_sys  vsc30468 thinking     -0.05 71407.16 2017-09-26 15:57:44 
+UsageRecord Charge 20606992     lp_sys  vsc30468 thinking     -0.04 71407.12 2017-09-26 16:17:15 
+UsageRecord Charge 20607285     lp_sys  vsc30468 thinking     -0.08 71407.04 2017-09-27 09:36:04 
+UsageRecord Charge 20607288     lp_sys  vsc30468 thinking     -0.04 71407.00 2017-09-27 09:37:10 
+UsageRecord Charge 20607290     lp_sys  vsc30468 thinking     -0.08 71406.92 2017-09-27 09:38:44 
+UsageRecord Charge 20607291     lp_sys  vsc30468 thinking     -0.08 71406.84 2017-09-27 09:40:18 
+UsageRecord Charge 20607295     lp_sys  vsc30468 thinking     -0.04 71406.80 2017-09-27 09:42:26 
+UsageRecord Charge 20607298     lp_sys  vsc30468 thinking     -0.04 71406.76 2017-09-27 09:43:32 
+UsageRecord Charge 20607299     lp_sys  vsc30468 thinking     -0.04 71406.72 2017-09-27 09:45:05 
+UsageRecord Charge 20607300     lp_sys  vsc30468 thinking     -0.08 71406.64 2017-09-27 09:47:38 
+UsageRecord Charge 20607304     lp_sys  vsc30468 thinking     -0.08 71406.56 2017-09-27 09:53:17 
+UsageRecord Charge 20607306     lp_sys  vsc30468 thinking     -0.08 71406.48 2017-09-27 09:56:53 
+UsageRecord Charge 20607308     lp_sys  vsc30468 thinking     -0.08 71406.40 2017-09-27 09:59:28 
+UsageRecord Charge 20607311     lp_sys  vsc30468 thinking     -0.04 71406.36 2017-09-27 10:01:33 
+UsageRecord Charge 20607314     lp_sys  vsc30468 thinking     -0.08 71406.28 2017-09-27 10:04:09 
+UsageRecord Charge 20607317     lp_sys  vsc30468 thinking     -0.04 71406.24 2017-09-27 10:07:15 
+UsageRecord Charge 20607325     lp_sys  vsc30468 thinking     -0.04 71406.20 2017-09-27 10:11:22 
+UsageRecord Charge 20607366     lp_sys  vsc30468 thinking     -0.08 71406.12 2017-09-27 10:12:56 
+UsageRecord Charge 20607369     lp_sys  vsc30468 thinking     -0.08 71406.04 2017-09-27 10:15:31 
+UsageRecord Charge 20607372     lp_sys  vsc30468 thinking     -0.08 71405.96 2017-09-27 10:17:05 
+UsageRecord Charge 20607379     lp_sys  vsc30468 thinking     -0.04 71405.92 2017-09-27 10:24:20 
+UsageRecord Charge 20607382     lp_sys  vsc30468 thinking     -0.04 71405.88 2017-09-27 10:27:26 
+UsageRecord Charge 20607392     lp_sys  vsc30468 thinking     -0.05 71405.83 2017-09-27 10:31:08 
+UsageRecord Charge 20607393     lp_sys  vsc30468 thinking     -0.08 71405.75 2017-09-27 10:35:19 
+UsageRecord Charge 20607396     lp_sys  vsc30468 thinking     -0.08 71405.67 2017-09-27 10:38:26 
+UsageRecord Charge 20607398     lp_sys  vsc30468 thinking     -0.04 71405.63 2017-09-27 10:38:59 
+UsageRecord Charge 20607402     lp_sys  vsc30468 thinking     -0.08 71405.55 2017-09-27 10:42:35 
+UsageRecord Charge 20607443     lp_sys  vsc30468 thinking     -0.08 71405.47 2017-09-27 11:40:23 
+UsageRecord Charge 20607445     lp_sys  vsc30468 thinking     -0.05 71405.42 2017-09-27 11:42:43 
+UsageRecord Charge 20611518     lp_sys  vsc30706 thinking     -3.96 71401.46 2017-10-07 21:41:15 
+UsageRecord Charge 20611519     lp_sys  vsc30706 thinking     -3.94 71397.52 2017-10-07 21:52:07 
+UsageRecord Charge 20611534     lp_sys  vsc30706 thinking     -1.60 71395.92 2017-10-08 00:37:01 
+UsageRecord Charge 20611535     lp_sys  vsc30706 thinking     -3.12 71392.80 2017-10-08 00:46:51 
+UsageRecord Charge 20611543     lp_sys  vsc30706 thinking     -1.99 71390.81 2017-10-08 10:53:02 
+UsageRecord Charge 20611544     lp_sys  vsc30706 thinking     -1.99 71388.82 2017-10-08 10:53:02 
+UsageRecord Charge 20611547     lp_sys  vsc30706 thinking     -1.99 71386.83 2017-10-08 10:58:49 
+UsageRecord Charge 20611548     lp_sys  vsc30706 thinking     -1.99 71384.84 2017-10-08 10:58:49 
+UsageRecord Charge 20611550     lp_sys  vsc30706 thinking   -139.68 71245.16 2017-10-08 12:18:51 
+UsageRecord Charge 20611551     lp_sys  vsc30706 thinking   -139.68 71105.48 2017-10-08 12:18:51 
+UsageRecord Charge 20611553     lp_sys  vsc30706 thinking   -109.44 70996.04 2017-10-08 12:30:45 
+UsageRecord Charge 20611554     lp_sys  vsc30706 thinking   -109.44 70886.60 2017-10-08 12:30:45 
+UsageRecord Charge 20611560     lp_sys  vsc30706 thinking     -1.90 70884.70 2017-10-08 14:21:53 
+UsageRecord Charge 20611561     lp_sys  vsc30706 thinking     -1.90 70882.80 2017-10-08 14:26:35 
+UsageRecord Charge 20611562     lp_sys  vsc30706 thinking     -3.74 70879.06 2017-10-08 14:32:19 
+UsageRecord Charge 20611693     lp_sys  vsc30468 thinking     -6.67 70872.39 2017-10-09 16:29:48 
+UsageRecord Charge 20611700     lp_sys  vsc30706 thinking   -140.09 70732.30 2017-10-09 18:21:09 
+UsageRecord Charge 20611704     lp_sys  vsc30706 thinking   -140.09 70592.21 2017-10-09 18:21:09 
+UsageRecord Charge 20611705     lp_sys  vsc30706 thinking   -140.09 70452.12 2017-10-09 18:21:09 
+UsageRecord Charge 20611707     lp_sys  vsc30706 thinking   -140.09 70312.03 2017-10-09 18:21:09 
+UsageRecord Charge 20611706     lp_sys  vsc30706 thinking   -142.88 70169.15 2017-10-09 18:22:43 
+UsageRecord Charge 20611708     lp_sys  vsc30706 thinking   -143.83 70025.32 2017-10-09 18:23:15 
+UsageRecord Charge 20611710     lp_sys  vsc30706 thinking   -109.89 69915.43 2017-10-09 18:28:57 
+UsageRecord Charge 20611709     lp_sys  vsc30706 thinking   -109.89 69805.54 2017-10-09 18:28:57 
+UsageRecord Charge 20611717     lp_sys  vsc30706 thinking   -109.08 69696.46 2017-10-09 18:29:29 
+UsageRecord Charge 20611711     lp_sys  vsc30706 thinking   -109.76 69586.70 2017-10-09 18:30:01 
+UsageRecord Charge 20611718     lp_sys  vsc30706 thinking   -109.76 69476.94 2017-10-09 18:30:01 
+UsageRecord Charge 20611719     lp_sys  vsc30706 thinking   -109.76 69367.18 2017-10-09 18:30:01 
+UsageRecord Charge 20611720     lp_sys  vsc30706 thinking   -109.76 69257.42 2017-10-09 18:30:02 
+UsageRecord Charge 20611712     lp_sys  vsc30706 thinking   -110.39 69147.03 2017-10-09 18:31:36 
+UsageRecord Charge 20611703     lp_sys  vsc30706 thinking   -159.67 68987.36 2017-10-09 18:32:09 
+UsageRecord Charge 20611701     lp_sys  vsc30706 thinking   -140.15 68847.21 2017-10-09 22:10:52 
+UsageRecord Charge 20612801     lp_sys  vsc30484 thinking    -33.82 68813.39 2017-10-11 12:18:56 
+UsageRecord Charge 20613048     lp_sys  vsc30484 thinking    -45.88 68767.51 2017-10-11 15:31:32 
+UsageRecord Charge 20613704     lp_sys  vsc30484 thinking    -49.15 68718.36 2017-10-12 11:31:55 
+UsageRecord Charge 20613978     lp_sys  vsc30484 thinking     -8.20 68710.16 2017-10-12 12:19:20 
+UsageRecord Charge 20614102     lp_sys  vsc30484 thinking     -9.23 68700.93 2017-10-12 12:58:04 
+UsageRecord Charge 20614188     lp_sys  vsc30484 thinking    -36.64 68664.29 2017-10-12 14:37:29 
+UsageRecord Charge 20614270     lp_sys  vsc30484 thinking    -20.67 68643.62 2017-10-12 15:40:44 
+UsageRecord Charge 20614876     lp_sys  vsc30484 thinking   -161.76 68481.86 2017-10-13 15:37:04 
+UsageRecord Charge 20616690     lp_sys  vsc30484 thinking    -28.59 68453.27 2017-10-16 10:47:24 
+UsageRecord Charge 20616709     lp_sys  vsc30484 thinking   -172.88 68280.39 2017-10-16 15:58:59 
+UsageRecord Charge 20617008     lp_sys  vsc30468 thinking     -0.08 68280.31 2017-10-16 16:50:01 
+UsageRecord Charge 20617395     lp_sys  vsc30484 thinking   -214.81 68065.50 2017-10-17 14:28:58 
+UsageRecord Charge 20618054     lp_sys  vsc30484 thinking    -73.94 67991.56 2017-10-18 11:03:56 
+UsageRecord Charge 20618267     lp_sys  vsc30484 thinking    -76.58 67914.98 2017-10-18 15:42:54 
+UsageRecord Charge 20618745     lp_sys  vsc30484 thinking   -152.13 67762.85 2017-10-19 15:50:30 
+UsageRecord Charge 20619211     lp_sys  vsc30484 thinking     -4.67 67758.18 2017-10-20 10:17:50 
+UsageRecord Charge 20619187     lp_sys  vsc30484 thinking    -75.80 67682.38 2017-10-20 11:29:10 
+UsageRecord Charge 20619331     lp_sys  vsc30484 thinking     -3.21 67679.17 2017-10-20 11:33:17 
+UsageRecord Charge 20619334     lp_sys  vsc30484 thinking     -5.19 67673.98 2017-10-20 11:39:58 
+UsageRecord Charge 20619338     lp_sys  vsc30484 thinking    -11.18 67662.80 2017-10-20 11:54:18 
+UsageRecord Charge 20619344     lp_sys  vsc30484 thinking   -155.28 67507.52 2017-10-20 15:13:41 
+UsageRecord Charge 20619744     lp_sys  vsc30484 thinking    -21.26 67486.26 2017-10-20 15:40:59 
+UsageRecord Charge 20619754     lp_sys  vsc30484 thinking     -7.26 67479.00 2017-10-20 15:50:18 
+UsageRecord Charge 20621546     lp_sys  vsc30484 thinking    -17.56 67461.44 2017-10-23 08:54:57 
+UsageRecord Charge 20621552     lp_sys  vsc30484 thinking     -6.53 67454.91 2017-10-23 09:06:42 
+UsageRecord Charge 20621555     lp_sys  vsc30484 thinking    -68.37 67386.54 2017-10-23 11:09:43 
+UsageRecord Charge 20621645     lp_sys  vsc30484 thinking   -106.95 67279.59 2017-10-23 14:22:09 
+UsageRecord Charge 20621838     lp_sys  vsc30484 thinking    -49.30 67230.29 2017-10-23 15:50:51 
+UsageRecord Charge 20622438     lp_sys  vsc30484 thinking   -175.25 67055.04 2017-10-24 16:23:41 
+UsageRecord Charge 20623415     lp_sys  vsc30484 thinking    -69.93 66985.11 2017-10-25 10:27:11 
+UsageRecord Charge 20623681     lp_sys  vsc30468 thinking     -0.04 66985.07 2017-10-25 11:22:17 
+UsageRecord Charge 20623684     lp_sys  vsc30468 thinking     -0.08 66984.99 2017-10-25 11:24:52 
+UsageRecord Charge 20623688     lp_sys  vsc30468 thinking     -0.08 66984.91 2017-10-25 11:27:27 
+UsageRecord Charge 20623690     lp_sys  vsc30468 thinking     -0.04 66984.87 2017-10-25 11:29:33 
+UsageRecord Charge 20623693     lp_sys  vsc30468 thinking     -0.21 66984.66 2017-10-25 11:32:08 
+UsageRecord Charge 20623694     lp_sys  vsc30468 thinking     -0.17 66984.49 2017-10-25 11:34:14 
+UsageRecord Charge 20623603     lp_sys  vsc30484 thinking   -108.78 66875.71 2017-10-25 13:42:44 
+UsageRecord Charge 20624328     lp_sys  vsc30484 thinking    -84.75 66790.96 2017-10-26 15:43:20 
+UsageRecord Charge 20625363     lp_sys  vsc30484 thinking   -232.09 66558.87 2017-10-27 15:13:46 
+UsageRecord Charge 20625466     lp_sys  vsc30745 thinking     -0.02 66558.85 2017-10-27 18:03:23 
+UsageRecord Charge 20627329     lp_sys  vsc30484 thinking    -19.78 66539.07 2017-10-30 11:18:31 
+UsageRecord Charge 20627353     lp_sys  vsc30484 thinking    -25.81 66513.26 2017-10-30 12:23:32 
+UsageRecord Charge 20627435     lp_sys  vsc30484 thinking     -4.47 66508.79 2017-10-30 12:35:18 
+UsageRecord Charge 20627443     lp_sys  vsc30484 thinking    -70.82 66437.97 2017-10-30 15:33:41 
+UsageRecord Charge 20628145     lp_sys  vsc30484 thinking    -88.63 66349.34 2017-10-31 13:14:16 
+UsageRecord Charge 20628293     lp_sys  vsc30484 thinking    -10.98 66338.36 2017-10-31 13:42:10 
+UsageRecord Charge 20631727     lp_sys  vsc30706 thinking     -0.09 66338.27 2017-11-03 12:24:28 
+UsageRecord Charge 20631772     lp_sys  vsc30706 thinking     -0.12 66338.15 2017-11-03 13:45:13 
+UsageRecord Charge 20631774     lp_sys  vsc30706 thinking     -1.71 66336.44 2017-11-03 14:02:07 
+UsageRecord Charge 20631791     lp_sys  vsc30706 thinking     -1.28 66335.16 2017-11-03 14:22:07 
+UsageRecord Charge 20631799     lp_sys  vsc30706 thinking     -2.61 66332.55 2017-11-03 14:45:35 
+UsageRecord Charge 20631923     lp_sys  vsc30706 thinking     -2.78 66329.77 2017-11-03 15:10:36 
+UsageRecord Charge 20631952     lp_sys  vsc30706 thinking     -0.48 66329.29 2017-11-03 15:17:38 
+UsageRecord Charge 20631958     lp_sys  vsc30706 thinking     -0.30 66328.99 2017-11-03 15:20:20 
+UsageRecord Charge 20631959     lp_sys  vsc30706 thinking     -2.42 66326.57 2017-11-03 15:43:14 
+UsageRecord Charge 20631964     lp_sys  vsc30706 thinking     -3.01 66323.56 2017-11-03 16:10:18 
+
+############################### End of Report ##################################
+
