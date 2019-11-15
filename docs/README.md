@@ -16,6 +16,9 @@ This course will give an introduction to several useful Linux tools useful in ac
 ## Target
 This course is primarily targeted at current VSC-users
 
+## Duration
+Total duration: 4 hours.
+
 ## Price
 Free of charge
 	
